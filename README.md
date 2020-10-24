@@ -3,11 +3,11 @@
 ### Team Roles:
 Scrum master - Ray Bravenec
 Product owner - Jim McMahon
-DevOps 
+DevOps
   - Donald McDowell
   - Hannah Ray
   - Tiarrah Bayne
-  - Doug Cady     
+  - Doug Cady
 
 
 ### Data sources used in our project:
@@ -19,8 +19,5 @@ DevOps
 
 
 ### Project overview:
-Using the numerous open source COVID datasets available from reputable sources  
-, #QuarantineQueens plans to identify what underlying medical conditions are most  
-likely to result in the highest mortality rate when COVID is contracted.  
-
+Using the numerous open source COVID datasets available from reputable sources, #QuarantineQueens plans to identify what underlying medical conditions are most likely to result in the highest mortality rate when COVID is contracted.
 
