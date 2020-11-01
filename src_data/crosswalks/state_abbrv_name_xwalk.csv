@@ -1,4 +1,4 @@
-Code,State
+State.Abbrev,State.Name
 AA,Armed Forces (the) Americas 
 AB,Alberta 
 AE,Armed Forces Europe 
@@ -13,7 +13,7 @@ CA,California
 CD,Canada 
 CO,Colorado 
 CT,Connecticut 
-DC,Dist. Of Columbia 
+DC,District of Columbia
 DE,Delaware 
 FF,Foreign Countries 
 FL,Florida 

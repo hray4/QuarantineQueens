@@ -1,5 +1,5 @@
 # Exploratory data analysis of data set "Conditions contributing.."
-# Date Creadted:  Oct. 31, 2020
+# Date Created:  Oct. 31, 2020
 
 library(dplyr)
 library(readr)
@@ -46,7 +46,7 @@ cond_types_fixed <- conditions_data %>%
 
 # print(summary(cond_types_fixed))
 
-ovr_age_deaths <- filter(cond_types_fixed, State != 'US') %>%
+ovr_age_deaths <- filter(cond_types_fixed, State %notin% c('US', 'YC')) %>%
     group_by(State, Age.Group) %>%
     summarize(Total.Deaths = sum(Covid19.Deaths)) %>%
     droplevels()
