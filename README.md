@@ -2,9 +2,11 @@
 
 ### Team Roles:
 Scrum master
-  - Ray Bravenec  
+  - Ray Bravenec
+  
 Product owner
-  - Jim McMahon  
+  - Jim McMahon
+
 DevOps
   - Donald McDowell
   - Hannah Ray
