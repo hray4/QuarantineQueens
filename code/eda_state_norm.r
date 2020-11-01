@@ -178,7 +178,7 @@ gg_state_deaths <- cond_census_merged %>%
     theme(plot.subtitle = element_text(face = 'italic', size = 10))
 
 
-pdf("../plots/region_deaths_norm.pdf")
+pdf("../plots/eda_states/region_deaths_norm.pdf")
 print(gg_state_deaths)
 
 dev.off()

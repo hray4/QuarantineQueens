@@ -56,30 +56,30 @@ cond_types_fixed <- conditions_data %>%
 # print(summary(cond_types_fixed))
 
 
-ovr_age_deaths <- filter(cond_types_fixed, State.Abbrev =='US') %>%
+us_deaths <- filter(cond_types_fixed, State.Abbrev =='US') %>%
     group_by(Condition.Group, Age.Group) %>%
     summarize(Total.Deaths = sum(Covid19.Deaths) / 1000) %>%
     droplevels()
 
 # Condition group 'Intentional .. ' is too long, add a newline in middle
-ovr_age_deaths$Condition.Group <- recode_factor(ovr_age_deaths$Condition.Group,
+us_deaths$Condition.Group <- recode_factor(us_deaths$Condition.Group,
     'Intentional and unintentional injury, poisoning, and other adverse events' =
     paste0('Intentional and unintentional injury,\n',
           'poisoning, and other adverse events'))
 
 
 # All ages exploration
-ovr_age_deaths <- filter(ovr_age_deaths, Age.Group == 'All Ages') %>%
+all_age_us_deaths <- filter(us_deaths, Age.Group == 'All Ages') %>%
     droplevels()
 
 
 # Death counts vs Condition by age group (ordered by death count)
-ovr_age_deaths$Condition.Group <- reorder(
-    ovr_age_deaths$Condition.Group,
-    ovr_age_deaths$Total.Deaths)
+all_age_us_deaths$Condition.Group <- reorder(
+    all_age_us_deaths$Condition.Group,
+    all_age_us_deaths$Total.Deaths)
 
-
-gg_conds_age <- ovr_age_deaths %>%
+# ALL AGES plot
+gg_conds_all_ages <- all_age_us_deaths %>%
     ggplot(mapping = aes(x = Condition.Group, y = Total.Deaths)) +
     geom_col(fill = 'red', width = 0.75) +
     coord_flip() +
@@ -93,7 +93,44 @@ gg_conds_age <- ovr_age_deaths %>%
           panel.grid.major.y = element_blank())
 
 
-pdf("../plots/conds_deaths.pdf")
+pdf("../plots/eda_conds/conds_deaths_all_ages.pdf")
+print(gg_conds_all_ages)
+
+dev.off()
+
+
+
+# Age breakdown exploration
+us_deaths_by_age <- filter(us_deaths,
+                            Age.Group %notin% c('Not stated', 'All Ages')) %>%
+    droplevels()
+
+
+# Death counts vs Condition by age group (ordered by death count)
+us_deaths_by_age$Condition.Group <- reorder(
+    us_deaths_by_age$Condition.Group,
+    us_deaths_by_age$Total.Deaths)
+
+# ALL AGES plot
+gg_conds_age <- us_deaths_by_age %>%
+    ggplot(mapping = aes(x = Condition.Group, y = Total.Deaths)) +
+    geom_col(fill = 'red', width = 0.75) +
+    facet_grid( ~ Age.Group) +
+    coord_flip() +
+    theme_bw() +
+    labs(x = '', y = '',
+         title = 'COVID-19 has disproportionately affected the elderly',
+         subtitle = 'US Death count by Condition Group and Age Group') +
+    theme(plot.title = element_text(hjust = -40),
+          plot.subtitle = element_text(face = 'italic', size = 9.5,
+                                       hjust = -1.56),
+          axis.text.x = element_blank(),
+          axis.ticks = element_blank(),
+          panel.grid.minor = element_blank(),
+          panel.grid.major = element_blank())
+
+
+pdf("../plots/eda_conds/conds_deaths_age.pdf")
 print(gg_conds_age)
 
 dev.off()

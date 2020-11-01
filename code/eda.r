@@ -66,7 +66,7 @@ gg_age_deaths <- ovr_age_deaths %>%
     facet_wrap( ~ State, nrow = 7) +
     scale_x_discrete(labels = x_age_groups)
 
-pdf("../plots/gg_age_deaths_states.pdf")
+pdf("../plots/eda1/gg_age_deaths_states.pdf")
 print(gg_age_deaths)
 
 dev.off()
@@ -90,7 +90,7 @@ gg_state_deaths <- ovr_state_deaths %>%
     theme(plot.subtitle = element_text(face = 'italic', size = 10))
 
 
-pdf("../plots/gg_state_deaths.pdf")
+pdf("../plots/eda1/gg_state_deaths.pdf")
 print(gg_state_deaths)
 
 dev.off()
