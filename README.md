@@ -1,8 +1,10 @@
 # Welcome to the git repo for team #QuarantineQueens (team Beta).
 
 ### Team Roles:
-Scrum master - Ray Bravenec  
-Product owner - Jim McMahon  
+Scrum master 
+  - Ray Bravenec  
+Product owner 
+  - Jim McMahon  
 DevOps
   - Donald McDowell
   - Hannah Ray
@@ -20,7 +22,7 @@ DevOps
 [US CENSUS] Population, Population Change, and Estimated Components of Population Change: April 1, 2010 to July 1, 2019 (NST-EST2019-alldata)  
 "https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html"
 
-[Clerk.org] State Abbreviations Code Table (crosswalk from state abbreviation to full state name)
+[Clerk.org] State Abbreviations Code Table (crosswalk from state abbreviation to full state name)  
 "http://app02.clerk.org/menu/ccis/Help/CCIS%20Codes/state_codes.html"
 
 
