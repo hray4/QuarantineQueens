@@ -1,10 +1,12 @@
 # Welcome to the git repo for team #QuarantineQueens (team Beta).
 
 ### Team Roles:
-Scrum master 
-  - Ray Bravenec  
-Product owner 
-  - Jim McMahon  
+Scrum master
+  - Ray Bravenec
+  
+Product owner
+  - Jim McMahon
+
 DevOps
   - Donald McDowell
   - Hannah Ray
