@@ -85,8 +85,8 @@ gg_deaths_time_cond <- wide.deaths %>%
     theme_minimal() +
     facet_wrap(Condition ~ ., ncol = 2) +
     labs(x = '', y = '',
-         title = 'asdf',
-         subtitle = 'sadf') +
+         title = 'Covid19 and comorbid conditions death counts over time',
+         subtitle = 'Jan - Sep 2020') +
     theme(plot.subtitle = element_text(face = 'italic', size = 9.5),
           panel.grid.major.x = element_blank())
 
@@ -95,40 +95,3 @@ pdf("../plots/eda_ah_prov/deaths_over_time_by_cond.pdf")
 print(gg_deaths_time_cond)
 
 dev.off()
-
-
-
-# # Age breakdown exploration
-# us_deaths_by_age <- filter(us_deaths,
-#                             Age.Group %notin% c('Not stated', 'All Ages')) %>%
-#     droplevels()
-
-
-# # Death counts vs Condition by age group (ordered by death count)
-# us_deaths_by_age$Condition.Group <- reorder(
-#     us_deaths_by_age$Condition.Group,
-#     us_deaths_by_age$Total.Deaths)
-
-# # ALL AGES plot
-# gg_conds_age <- us_deaths_by_age %>%
-#     ggplot(mapping = aes(x = Condition.Group, y = Total.Deaths)) +
-#     geom_col(fill = 'red', width = 0.75) +
-#     facet_grid( ~ Age.Group) +
-#     coord_flip() +
-#     theme_bw() +
-#     labs(x = '', y = '',
-#          title = 'COVID-19 has disproportionately affected the elderly',
-#          subtitle = 'US Death count by Condition Group and Age Group') +
-#     theme(plot.title = element_text(hjust = -40),
-#           plot.subtitle = element_text(face = 'italic', size = 9.5,
-#                                        hjust = -1.56),
-#           axis.text.x = element_blank(),
-#           axis.ticks = element_blank(),
-#           panel.grid.minor = element_blank(),
-#           panel.grid.major = element_blank())
-
-
-# pdf("../plots/eda_conds/conds_deaths_age.pdf")
-# print(gg_conds_age)
-
-# dev.off()
