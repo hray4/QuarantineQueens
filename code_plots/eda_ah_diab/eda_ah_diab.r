@@ -91,7 +91,7 @@ gg_deaths_time_cond <- wide.deaths %>%
           panel.grid.major.x = element_blank())
 
 
-pdf("../plots/eda_ah_prov/deaths_over_time_by_cond.pdf")
+pdf("plots/deaths_over_time_by_cond.pdf")
 print(gg_deaths_time_cond)
 
 dev.off()

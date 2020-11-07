@@ -56,7 +56,7 @@ cond_types_fixed <- conditions_data %>%
 # print(summary(cond_types_fixed))
 
 
-us_deaths <- filter(cond_types_fixed, State.Abbrev =='US') %>%
+us_deaths <- filter(cond_types_fixed, State.Abbrev == 'US') %>%
     group_by(Condition.Group, Age.Group) %>%
     summarize(Total.Deaths = sum(Covid19.Deaths) / 1000) %>%
     droplevels()
@@ -93,7 +93,7 @@ gg_conds_all_ages <- all_age_us_deaths %>%
           panel.grid.major.y = element_blank())
 
 
-pdf("../plots/eda_conds/conds_deaths_all_ages.pdf")
+pdf("plots/conds_deaths_all_ages.pdf")
 print(gg_conds_all_ages)
 
 dev.off()
@@ -130,7 +130,7 @@ gg_conds_age <- us_deaths_by_age %>%
           panel.grid.major = element_blank())
 
 
-pdf("../plots/eda_conds/conds_deaths_age.pdf")
+pdf("plots/conds_deaths_age.pdf")
 print(gg_conds_age)
 
 dev.off()
