@@ -19,9 +19,12 @@ def get_url_details(url: str) -> None:
     print(f"Length article text: {len(art.text)}\n")
 
 
-url_1 = 'https://catalog.data.gov/dataset/conditions-contributing-to-deaths-involving-coronavirus-disease-2019-covid-19-by-age-group-7ee07'
-get_url_details(url=url_1)
+# url_1 = 'https://data.cdc.gov/NCHS/Conditions-contributing-to-deaths-involving-corona/hk9y-quqm'
+# get_url_details(url=url_1)
 
 
-url_2 = 'https://catalog.data.gov/dataset/ah-provisional-diabetes-death-counts-2020-5e6ac'
-get_url_details(url=url_2)
+# url_2 = 'https://data.cdc.gov/NCHS/AH-Provisional-Diabetes-Death-Counts-2020/qdcb-uzft'
+# get_url_details(url=url_2)
+
+url_3 = 'https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/evidence-table.html'
+get_url_details(url=url_3)
