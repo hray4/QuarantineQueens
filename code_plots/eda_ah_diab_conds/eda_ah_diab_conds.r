@@ -98,8 +98,8 @@ gg_cond_age <- cond_age_deaths %>%
                       palette = 'OrRd') +
     coord_flip() +
     # theme_minimal() +
-    theme(plot.title = element_text(hjust = 28.5),
-          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -1.5),
+    theme(plot.title = element_text(hjust = 10.25),
+          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -2.5),
           panel.grid.major.y = element_blank(),
           legend.position = c(0.8, 0.2),
           legend.title = element_blank(),
