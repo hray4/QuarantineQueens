@@ -34,8 +34,8 @@ col_names <- c(
     'Age.Group',
     'Sex',
     'COVID19',  # Deaths with COVID-19 (U071) as underlying or contributing cause
-    'Diabetes.uc',  # Deaths with diabetes (E10–E14) as underlying cause
-    'Diabetes.mc',  # Deaths with diabetes (E10–E14) as underlying or contributing cause
+    'Diabetes.Underlying.Cause',  # Deaths with diabetes (E10–E14) as underlying cause
+    'Diabetes.Under.Contrib.Cause',  # Deaths with diabetes (E10–E14) as underlying or contributing cause
     'C19_Diabetes', # Deaths with COVID-19 (U071) and diabetes (E10–E14)
     'C19_Hypertensive.Disease', # Deaths with COVID-19 (U071) and hypertensive disease (I10–I15)
     'C19_Major.Cardio.Disease',  # Deaths with COVID-19 (U071) and major cardiovascular diseases (I00–I78)
@@ -60,7 +60,7 @@ cond_types_fixed <- conditions_data %>%
            Age.Group %notin% age.group.excl)
 
 # print(summary(cond_types_fixed))
-print(summary(cond_types_fixed$Age.Group))
+# print(summary(cond_types_fixed$Age.Group))
 
 
 # Transform covid19 and condition deaths from wide to long tidy format
@@ -69,15 +69,15 @@ wide.deaths <- cond_types_fixed %>%
            Age.Group,
            Sex,
            COVID19,
-           Diabetes.uc,
-           Diabetes.mc,
+           Diabetes.Underlying.Cause,
+           Diabetes.Under.Contrib.Cause,
            C19_Diabetes,
            C19_Hypertensive.Disease,
            C19_Major.Cardio.Disease,
            C19_Hypertensive_MCVD,
            C19_Chronic.Lower.Resp.Disease,
            C19_Kidney.Disease,
-           C19_Chronic.Liver.Disease_Cirrhosis,
+           # C19_Chronic.Liver.Disease_Cirrhosis,
            C19_Obesity) %>%
     gather(key = 'Condition', value = 'Deaths', COVID19:C19_Obesity) %>%
     mutate(Condition = factor(Condition)) %>%
