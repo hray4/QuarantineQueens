@@ -97,12 +97,14 @@ gg_cond_age <- cond_age_deaths %>%
     scale_fill_brewer(breaks = rev(unique(cond_age_deaths$Age.Group)),
                       palette = 'OrRd') +
     coord_flip() +
-    theme_minimal() +
+    # theme_minimal() +
     theme(plot.title = element_text(hjust = 28.5),
           plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -1.5),
           panel.grid.major.y = element_blank(),
           legend.position = c(0.8, 0.2),
-          legend.title = element_blank())
+          legend.title = element_blank(),
+          axis.ticks = element_blank())
+          # panel.background = element_rect(fill = 'gray90', color = 'white'))
 
 pdf("plots/condition_age.pdf")
 print(gg_cond_age)
