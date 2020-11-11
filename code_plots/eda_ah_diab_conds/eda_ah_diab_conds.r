@@ -7,7 +7,9 @@
 library(dplyr)
 library(readr)
 library(magrittr)
+library(forcats)
 library(ggplot2)
+library(RColorBrewer)
 
 
 # Set current working directory to this file's parent directory
@@ -60,5 +62,49 @@ gg_cond_sex <- cond_sex_deaths %>%
 
 pdf("plots/condition_sex.pdf")
 print(gg_cond_sex)
+
+dev.off()
+
+
+# ------------------------------------------------------------------------------
+# Condition vs Deaths by Age Group
+cond_age_deaths <- diab_data %>%
+    group_by(Condition, Age.Group) %>%
+    summarize(Total.Deaths = sum(Total.Deaths)) %>%
+    droplevels()
+
+
+# Death counts vs Condition by age (ordered by death count)
+cond_age_deaths$Condition <- reorder(
+    cond_age_deaths$Condition,
+    cond_age_deaths$Total.Deaths)
+
+# Reorder age group levels (young to old now)
+# cond_age_deaths$Age.Group <- fct_rev(cond_age_deaths$Age.Group)
+
+# Output final plot data
+write_csv(cond_age_deaths, 'plot_cond_age_data.csv')
+
+
+# Make ggplot of Condition vs Deaths by age (fill)
+gg_cond_age <- cond_age_deaths %>%
+    ggplot(mapping = aes(x = Condition, y = Total.Deaths, fill = Age.Group)) +
+    geom_col(position = 'dodge') +
+    xlab('') + ylab('') +
+    ggtitle('Diabetes and Covid 19 has hit older Americans the hardest',
+            subtitle = 'Thousands of Deaths by Condition and Age Group (Jan - Sep 2020)') +
+    scale_y_continuous(labels = function(y) {paste0(y/1000, 'k')}) +
+    scale_fill_brewer(breaks = rev(unique(cond_age_deaths$Age.Group)),
+                      palette = 'OrRd') +
+    coord_flip() +
+    theme_minimal() +
+    theme(plot.title = element_text(hjust = 28.5),
+          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -1.5),
+          panel.grid.major.y = element_blank(),
+          legend.position = c(0.8, 0.2),
+          legend.title = element_blank())
+
+pdf("plots/condition_age.pdf")
+print(gg_cond_age)
 
 dev.off()
