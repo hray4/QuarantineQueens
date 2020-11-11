@@ -36,7 +36,7 @@ library(ggplot2)
 `%notin%` <- Negate(`%in%`)
 
 
-data_path <- '../src_data/'
+data_path <- '../../src_data/'
 cond_fn <- 'Conditions_contributing_to_deaths_involving_coronavirus_disease_2019__COVID-19___by_age_group_and_state__United_States..csv'
 
 # Concatenate base path with cond_fn
