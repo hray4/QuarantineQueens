@@ -1,0 +1,12 @@
+Condition_ah_diab,Condition_illness
+,Cancer
+C19_Kidney.Disease,Chronic kidney disease
+,COPD
+,"Heart conditions, such as heart failure, coronary artery disease, or cardiomyopathies"
+C19_Obesity,Obesity (BMI> 30 kg/m2)
+C19_Obesity,Severe Obesity (BMI ≥ 40 kg/m2)
+,Pregnancy
+,Sickle cell disease
+,Smoking
+,Solid organ transplantation
+Diabetes.uc,Type 2 diabetes mellitus
