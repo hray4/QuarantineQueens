@@ -1,0 +1,38 @@
+"COVID-19" in the "Condition" variable refers to the total number of patients in the data set (COVID-19 as a standalone diagnosis)
+Note that conditions CANNOT be summated as a single patient with multiple conditions would have be recorded in both counts; summation results in duplication. 
+NOTE: A limitation is that strong evidence is reported only for type 2 diabetes, however the Underlying Conditions does not specify the type.
+Cleaned in RStudio - script is included.
+
+LEGEND: 
+
+UC = Underlying Conditions data set
+USA = filtered to include ONLY USA totals
+State = filtered by state (excludes USA totals)
+age_totals = counts for All Ages (not separated by age range)
+age_ranges = filtered by Age Ranges
+strong = includes ONLY the conditions which the CDC reports having strong evidence for, or are very similar to those conditions (such as "chronic lower respiratory disease" as opposed to COPD and "renal failure" as opposed to chronic kidney disease) as described in "[CDC] Scientific Evidence for Conditions that Increase Risk of Severe Illness"
+
+
+UC_USA_age_ranges.csv - USA totals stratified by age ranges
+
+UC_USA_age_ranges_STRONG.csv - USA totals stratified by age ranges including only conditions with strong evidence
+
+UC_USA_age_totals.csv - USA totals with all ages combined
+
+UC_USA_age_totals_strong.csv - USA totals with all ages combined including only strong evidence conditions
+
+UC_age_ranges.csv - USA and state counts stratified by age ranges
+
+UC_age_totals.csv - USA and state counts with all ages combined
+
+UC_filtered_missing_data.csv - USA and state counts with both age ranges and age totals
+
+UC_filtered_missing_data_strong.csv - USA and state counts with both age ranges and age totals with only strong evidence conditions
+
+UC_state_age_ranges.csv - state counts stratified by age ranges
+
+UC_state_age_ranges_strong.csv - state counts stratified by age ranges with only strong evidence conditions
+
+UC_state_age_totals.csv - state counts with all ages combined
+
+UC_state_age_totals_strong.csv - state counts with all ages combined with only strong evidence conditions
