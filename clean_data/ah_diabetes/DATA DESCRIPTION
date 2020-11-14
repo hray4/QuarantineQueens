@@ -1,0 +1,33 @@
+"COVID-19" in the "Condition" variable refers to the total number of patients in the data set (COVID-19 as a standalone diagnosis)
+Note that conditions CANNOT be summated as a single patient with multiple conditions would have be recorded in both counts; summation results in duplication.
+Cleaned in Sublime - script is included.
+
+LEGEND:
+
+DIAB = AH Provisional Diabetes data set
+month = death month (1-9)
+age = age groups
+sex = gender (male, female)
+age_ranges = filtered by Age Ranges
+
+Filename format:  DIAB_<stratifiedCols>__<aggregatedCols>.csv
+
+*Note: COVID-19 + Chronic Liver Disease + Cirrhosis was filtered out of all cleaned datasets as it is was
+not listed with Strong evidence as increasing the risk of severe illness as described in "[CDC] Scientific Evidence for Conditions that Increase Risk of Severe Illness"
+
+
+DIAB_month_age_sex.csv - Totals stratified by month, age, and sex
+
+DIAB_month_sex__age_totals.csv - Age group totals stratified by month and sex
+
+DIAB_month_age__sex_totals.csv - Sex totals stratified by month and age group
+
+DIAB_sex_age__month_totals.csv - Month totals stratified by sex and age group
+
+DIAB_age__sex_month_totals.csv - Sex, month totals stratified by age group
+
+DIAB_sex__age_month_totals.csv - Age group, month totals stratified by sex
+
+DIAB_month__age_sex_totals.csv - Age group, sex totals stratified by month
+
+DIAB_all_totals.csv - All totals no stratification

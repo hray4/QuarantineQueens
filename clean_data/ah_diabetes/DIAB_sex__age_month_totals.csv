@@ -1,0 +1,17 @@
+Sex,Condition,Total.Deaths
+Female (F),C19+Chronic.Lower.Resp.Disease,8259
+Female (F),C19+Diabetes,13933
+Female (F),C19+Hypertensive.Disease,19927
+Female (F),C19+Hypertensive+MCVD,41668
+Female (F),C19+Kidney.Disease,6748
+Female (F),C19+MCVD,41668
+Female (F),C19+Obesity,3592
+Female (F),COVID-19,90968
+Male (M),C19+Chronic.Lower.Resp.Disease,8571
+Male (M),C19+Diabetes,18746
+Male (M),C19+Hypertensive.Disease,23026
+Male (M),C19+Hypertensive+MCVD,50210
+Male (M),C19+Kidney.Disease,10698
+Male (M),C19+MCVD,50210
+Male (M),C19+Obesity,3978
+Male (M),COVID-19,107495
