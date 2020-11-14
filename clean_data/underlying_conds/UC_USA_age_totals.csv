@@ -1,0 +1,24 @@
+"Start.Week","End.Week","State","Condition.Group","Condition","ICD10_codes","Age.Group","Number.of.COVID.19.Deaths"
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",95778
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",19486
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",28090
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","All Ages",77611
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","All Ages",4492
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",8441
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",47455
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",25274
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","All Ages",26557
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",14400
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","All Ages",15127
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",11046
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",12920
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","All Ages",20864
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",10443
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","All Ages",36204
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","All Ages",8366
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","All Ages",8253
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",24787
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","All Ages",20024
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",7919
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",114459
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","All Ages",220704

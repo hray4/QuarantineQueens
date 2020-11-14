@@ -1,0 +1,185 @@
+"Start.Week","End.Week","State","Condition.Group","Condition","ICD10_codes","Age.Group","Number.of.COVID.19.Deaths"
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","0-24",160
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","25-34",772
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","35-44",1981
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","45-54",5606
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","55-64",13490
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","65-74",22222
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","75-84",25721
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","85+",25824
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","0-24",33
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","25-34",82
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","35-44",184
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","45-54",533
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","55-64",2038
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","65-74",4724
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","75-84",6259
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","85+",5632
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","0-24",78
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","25-34",313
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","35-44",819
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","45-54",2328
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","55-64",5065
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","65-74",7515
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","75-84",6820
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","85+",5150
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","0-24",143
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","25-34",549
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","35-44",1425
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","45-54",4268
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","55-64",10386
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","65-74",18308
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","75-84",21661
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","85+",20869
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","0-24",9
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","25-34",32
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","35-44",83
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","45-54",216
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","55-64",496
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","65-74",927
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","75-84",1189
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","85+",1540
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","0-24",25
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","25-34",73
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","35-44",186
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","45-54",463
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","55-64",1110
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","65-74",1895
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","75-84",2282
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","85+",2407
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","0-24",24
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","25-34",147
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","35-44",609
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","45-54",2027
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","55-64",5749
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","65-74",10459
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","75-84",13074
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","85+",15366
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","0-24",4
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","25-34",32
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","35-44",138
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","45-54",616
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","55-64",2339
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","65-74",5238
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","75-84",7709
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","85+",9197
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","0-24",68
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","25-34",252
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","35-44",627
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","45-54",1757
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","55-64",3901
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","65-74",6161
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","75-84",6661
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","85+",7130
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","0-24",13
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","25-34",33
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","35-44",95
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","45-54",327
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","55-64",1069
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","65-74",2633
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","75-84",4338
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","85+",5892
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","0-24",7
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","25-34",50
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","35-44",110
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","45-54",395
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","55-64",1263
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","65-74",2656
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","75-84",4241
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","85+",6405
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","0-24",7
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","25-34",35
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","35-44",117
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","45-54",398
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","55-64",1272
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","65-74",2507
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","75-84",3195
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","85+",3514
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","0-24",60
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","25-34",138
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","35-44",308
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","45-54",734
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","55-64",1708
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","65-74",2880
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","75-84",3259
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","85+",3833
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","0-24",50
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","25-34",201
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","35-44",504
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","45-54",1535
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","55-64",3606
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","65-74",5816
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","75-84",5303
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","85+",3849
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","0-24",34
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","25-34",51
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","35-44",136
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","45-54",387
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","55-64",1406
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","65-74",2743
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","75-84",3128
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","85+",2558
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","0-24",57
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","25-34",234
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","35-44",807
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","45-54",2455
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","55-64",5982
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","65-74",9803
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","75-84",9709
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","85+",7157
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","0-24",113
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","25-34",392
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","35-44",867
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","45-54",1444
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","55-64",2108
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","65-74",2074
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","75-84",1072
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","85+",296
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","0-24",0
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","25-34",0
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","35-44",0
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","45-54",4
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","55-64",65
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","65-74",560
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","75-84",2418
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","85+",5206
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","0-24",0
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","25-34",1
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","35-44",2
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","45-54",27
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","55-64",378
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","65-74",2296
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","75-84",7376
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","85+",14707
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","0-24",26
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","25-34",158
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","35-44",414
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","45-54",1263
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","55-64",3027
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","65-74",5181
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","75-84",5302
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","85+",4651
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","0-24",86
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","25-34",237
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","35-44",304
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","45-54",489
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","55-64",948
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","65-74",1505
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","75-84",1850
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","85+",2500
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","0-24",390
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","25-34",1060
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","35-44",2293
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","45-54",6184
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","55-64",15350
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","65-74",26829
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","75-84",30332
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","85+",32013
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","0-24",485
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","25-34",1704
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","35-44",4383
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","45-54",11618
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","55-64",27892
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","65-74",47703
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","75-84",58830
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","85+",68084

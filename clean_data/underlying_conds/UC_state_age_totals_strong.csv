@@ -1,0 +1,449 @@
+"Start.Week","End.Week","State","Condition.Group","Condition","ICD10_codes","Age.Group","Number.of.COVID.19.Deaths"
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",280
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",360
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Cardiac arrest","I46","All Ages",503
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",247
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Heart failure","I50","All Ages",246
+2020-02-01,2020-11-07,"AL","Diabetes","Diabetes","E10-E14","All Ages",429
+2020-02-01,2020-11-07,"AL","Obesity","Obesity","E65-E68","All Ages",101
+2020-02-01,2020-11-07,"AL","Renal failure","Renal failure","N17-N19","All Ages",386
+2020-02-01,2020-11-07,"AL","COVID-19","COVID-19","U071","All Ages",3911
+2020-02-01,2020-11-07,"AK","Diabetes","Diabetes","E10-E14","All Ages",10
+2020-02-01,2020-11-07,"AK","COVID-19","COVID-19","U071","All Ages",69
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",396
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",421
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Cardiac arrest","I46","All Ages",570
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",293
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Heart failure","I50","All Ages",290
+2020-02-01,2020-11-07,"AZ","Diabetes","Diabetes","E10-E14","All Ages",780
+2020-02-01,2020-11-07,"AZ","Obesity","Obesity","E65-E68","All Ages",278
+2020-02-01,2020-11-07,"AZ","Renal failure","Renal failure","N17-N19","All Ages",463
+2020-02-01,2020-11-07,"AZ","COVID-19","COVID-19","U071","All Ages",5341
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",175
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",198
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Cardiac arrest","I46","All Ages",264
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",127
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Heart failure","I50","All Ages",143
+2020-02-01,2020-11-07,"AR","Diabetes","Diabetes","E10-E14","All Ages",277
+2020-02-01,2020-11-07,"AR","Obesity","Obesity","E65-E68","All Ages",46
+2020-02-01,2020-11-07,"AR","Renal failure","Renal failure","N17-N19","All Ages",165
+2020-02-01,2020-11-07,"AR","COVID-19","COVID-19","U071","All Ages",1909
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1202
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1906
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Cardiac arrest","I46","All Ages",5121
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",1182
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Heart failure","I50","All Ages",1125
+2020-02-01,2020-11-07,"CA","Diabetes","Diabetes","E10-E14","All Ages",3772
+2020-02-01,2020-11-07,"CA","Obesity","Obesity","E65-E68","All Ages",813
+2020-02-01,2020-11-07,"CA","Renal failure","Renal failure","N17-N19","All Ages",2183
+2020-02-01,2020-11-07,"CA","COVID-19","COVID-19","U071","All Ages",17241
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",267
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",227
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Cardiac arrest","I46","All Ages",101
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",209
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Heart failure","I50","All Ages",199
+2020-02-01,2020-11-07,"CO","Diabetes","Diabetes","E10-E14","All Ages",327
+2020-02-01,2020-11-07,"CO","Obesity","Obesity","E65-E68","All Ages",96
+2020-02-01,2020-11-07,"CO","Renal failure","Renal failure","N17-N19","All Ages",253
+2020-02-01,2020-11-07,"CO","COVID-19","COVID-19","U071","All Ages",2181
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",444
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",377
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Cardiac arrest","I46","All Ages",514
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",270
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Heart failure","I50","All Ages",395
+2020-02-01,2020-11-07,"CT","Diabetes","Diabetes","E10-E14","All Ages",499
+2020-02-01,2020-11-07,"CT","Obesity","Obesity","E65-E68","All Ages",87
+2020-02-01,2020-11-07,"CT","Renal failure","Renal failure","N17-N19","All Ages",305
+2020-02-01,2020-11-07,"CT","COVID-19","COVID-19","U071","All Ages",4520
+2020-02-01,2020-11-07,"DE","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",21
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",18
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Cardiac arrest","I46","All Ages",18
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Heart failure","I50","All Ages",11
+2020-02-01,2020-11-07,"DE","Renal failure","Renal failure","N17-N19","All Ages",29
+2020-02-01,2020-11-07,"DE","COVID-19","COVID-19","U071","All Ages",609
+2020-02-01,2020-11-07,"DC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",96
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",42
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",26
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Heart failure","I50","All Ages",26
+2020-02-01,2020-11-07,"DC","Diabetes","Diabetes","E10-E14","All Ages",328
+2020-02-01,2020-11-07,"DC","Obesity","Obesity","E65-E68","All Ages",52
+2020-02-01,2020-11-07,"DC","Renal failure","Renal failure","N17-N19","All Ages",37
+2020-02-01,2020-11-07,"DC","COVID-19","COVID-19","U071","All Ages",795
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",2813
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",4151
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Cardiac arrest","I46","All Ages",659
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",1319
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Heart failure","I50","All Ages",811
+2020-02-01,2020-11-07,"FL","Diabetes","Diabetes","E10-E14","All Ages",4792
+2020-02-01,2020-11-07,"FL","Obesity","Obesity","E65-E68","All Ages",1292
+2020-02-01,2020-11-07,"FL","Renal failure","Renal failure","N17-N19","All Ages",766
+2020-02-01,2020-11-07,"FL","COVID-19","COVID-19","U071","All Ages",16539
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",422
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",421
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Cardiac arrest","I46","All Ages",1026
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",299
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Heart failure","I50","All Ages",405
+2020-02-01,2020-11-07,"GA","Diabetes","Diabetes","E10-E14","All Ages",812
+2020-02-01,2020-11-07,"GA","Obesity","Obesity","E65-E68","All Ages",226
+2020-02-01,2020-11-07,"GA","Renal failure","Renal failure","N17-N19","All Ages",696
+2020-02-01,2020-11-07,"GA","COVID-19","COVID-19","U071","All Ages",7053
+2020-02-01,2020-11-07,"HI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",21
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",34
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Cardiac arrest","I46","All Ages",34
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",13
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Heart failure","I50","All Ages",22
+2020-02-01,2020-11-07,"HI","Diabetes","Diabetes","E10-E14","All Ages",39
+2020-02-01,2020-11-07,"HI","Renal failure","Renal failure","N17-N19","All Ages",37
+2020-02-01,2020-11-07,"HI","COVID-19","COVID-19","U071","All Ages",277
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",96
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",69
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Cardiac arrest","I46","All Ages",28
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",53
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Heart failure","I50","All Ages",71
+2020-02-01,2020-11-07,"ID","Diabetes","Diabetes","E10-E14","All Ages",94
+2020-02-01,2020-11-07,"ID","Obesity","Obesity","E65-E68","All Ages",36
+2020-02-01,2020-11-07,"ID","Renal failure","Renal failure","N17-N19","All Ages",59
+2020-02-01,2020-11-07,"ID","COVID-19","COVID-19","U071","All Ages",668
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1259
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1209
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Cardiac arrest","I46","All Ages",222
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",679
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Heart failure","I50","All Ages",837
+2020-02-01,2020-11-07,"IL","Diabetes","Diabetes","E10-E14","All Ages",2466
+2020-02-01,2020-11-07,"IL","Obesity","Obesity","E65-E68","All Ages",533
+2020-02-01,2020-11-07,"IL","Renal failure","Renal failure","N17-N19","All Ages",387
+2020-02-01,2020-11-07,"IL","COVID-19","COVID-19","U071","All Ages",8748
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",576
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",521
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Cardiac arrest","I46","All Ages",268
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",397
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Heart failure","I50","All Ages",423
+2020-02-01,2020-11-07,"IN","Diabetes","Diabetes","E10-E14","All Ages",653
+2020-02-01,2020-11-07,"IN","Obesity","Obesity","E65-E68","All Ages",118
+2020-02-01,2020-11-07,"IN","Renal failure","Renal failure","N17-N19","All Ages",507
+2020-02-01,2020-11-07,"IN","COVID-19","COVID-19","U071","All Ages",4321
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",229
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",218
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Cardiac arrest","I46","All Ages",87
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",150
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Heart failure","I50","All Ages",175
+2020-02-01,2020-11-07,"IA","Diabetes","Diabetes","E10-E14","All Ages",279
+2020-02-01,2020-11-07,"IA","Obesity","Obesity","E65-E68","All Ages",79
+2020-02-01,2020-11-07,"IA","Renal failure","Renal failure","N17-N19","All Ages",151
+2020-02-01,2020-11-07,"IA","COVID-19","COVID-19","U071","All Ages",1841
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",102
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",122
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Cardiac arrest","I46","All Ages",119
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",55
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Heart failure","I50","All Ages",68
+2020-02-01,2020-11-07,"KS","Diabetes","Diabetes","E10-E14","All Ages",125
+2020-02-01,2020-11-07,"KS","Obesity","Obesity","E65-E68","All Ages",33
+2020-02-01,2020-11-07,"KS","Renal failure","Renal failure","N17-N19","All Ages",105
+2020-02-01,2020-11-07,"KS","COVID-19","COVID-19","U071","All Ages",1134
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",190
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",196
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Cardiac arrest","I46","All Ages",107
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",156
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Heart failure","I50","All Ages",187
+2020-02-01,2020-11-07,"KY","Diabetes","Diabetes","E10-E14","All Ages",317
+2020-02-01,2020-11-07,"KY","Obesity","Obesity","E65-E68","All Ages",57
+2020-02-01,2020-11-07,"KY","Renal failure","Renal failure","N17-N19","All Ages",212
+2020-02-01,2020-11-07,"KY","COVID-19","COVID-19","U071","All Ages",1637
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",379
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",560
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Cardiac arrest","I46","All Ages",321
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",305
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Heart failure","I50","All Ages",398
+2020-02-01,2020-11-07,"LA","Diabetes","Diabetes","E10-E14","All Ages",818
+2020-02-01,2020-11-07,"LA","Obesity","Obesity","E65-E68","All Ages",194
+2020-02-01,2020-11-07,"LA","Renal failure","Renal failure","N17-N19","All Ages",405
+2020-02-01,2020-11-07,"LA","COVID-19","COVID-19","U071","All Ages",5305
+2020-02-01,2020-11-07,"ME","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",19
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",19
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",16
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Heart failure","I50","All Ages",20
+2020-02-01,2020-11-07,"ME","Diabetes","Diabetes","E10-E14","All Ages",17
+2020-02-01,2020-11-07,"ME","COVID-19","COVID-19","U071","All Ages",171
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",435
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",553
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Cardiac arrest","I46","All Ages",171
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",434
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Heart failure","I50","All Ages",344
+2020-02-01,2020-11-07,"MD","Diabetes","Diabetes","E10-E14","All Ages",845
+2020-02-01,2020-11-07,"MD","Obesity","Obesity","E65-E68","All Ages",181
+2020-02-01,2020-11-07,"MD","Renal failure","Renal failure","N17-N19","All Ages",620
+2020-02-01,2020-11-07,"MD","COVID-19","COVID-19","U071","All Ages",4533
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",614
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",587
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Cardiac arrest","I46","All Ages",940
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",473
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Heart failure","I50","All Ages",667
+2020-02-01,2020-11-07,"MA","Diabetes","Diabetes","E10-E14","All Ages",688
+2020-02-01,2020-11-07,"MA","Obesity","Obesity","E65-E68","All Ages",92
+2020-02-01,2020-11-07,"MA","Renal failure","Renal failure","N17-N19","All Ages",762
+2020-02-01,2020-11-07,"MA","COVID-19","COVID-19","U071","All Ages",8266
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",563
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",677
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Cardiac arrest","I46","All Ages",434
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",336
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Heart failure","I50","All Ages",455
+2020-02-01,2020-11-07,"MI","Diabetes","Diabetes","E10-E14","All Ages",784
+2020-02-01,2020-11-07,"MI","Obesity","Obesity","E65-E68","All Ages",184
+2020-02-01,2020-11-07,"MI","Renal failure","Renal failure","N17-N19","All Ages",681
+2020-02-01,2020-11-07,"MI","COVID-19","COVID-19","U071","All Ages",6804
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",305
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",331
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Cardiac arrest","I46","All Ages",58
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",288
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Heart failure","I50","All Ages",314
+2020-02-01,2020-11-07,"MN","Diabetes","Diabetes","E10-E14","All Ages",465
+2020-02-01,2020-11-07,"MN","Obesity","Obesity","E65-E68","All Ages",80
+2020-02-01,2020-11-07,"MN","Renal failure","Renal failure","N17-N19","All Ages",222
+2020-02-01,2020-11-07,"MN","COVID-19","COVID-19","U071","All Ages",2479
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",308
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",333
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Cardiac arrest","I46","All Ages",365
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",195
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Heart failure","I50","All Ages",333
+2020-02-01,2020-11-07,"MS","Diabetes","Diabetes","E10-E14","All Ages",576
+2020-02-01,2020-11-07,"MS","Obesity","Obesity","E65-E68","All Ages",119
+2020-02-01,2020-11-07,"MS","Renal failure","Renal failure","N17-N19","All Ages",348
+2020-02-01,2020-11-07,"MS","COVID-19","COVID-19","U071","All Ages",3274
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",252
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",264
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Cardiac arrest","I46","All Ages",137
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",232
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Heart failure","I50","All Ages",229
+2020-02-01,2020-11-07,"MO","Diabetes","Diabetes","E10-E14","All Ages",294
+2020-02-01,2020-11-07,"MO","Obesity","Obesity","E65-E68","All Ages",65
+2020-02-01,2020-11-07,"MO","Renal failure","Renal failure","N17-N19","All Ages",385
+2020-02-01,2020-11-07,"MO","COVID-19","COVID-19","U071","All Ages",3202
+2020-02-01,2020-11-07,"MT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",54
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",64
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Cardiac arrest","I46","All Ages",25
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",33
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Heart failure","I50","All Ages",29
+2020-02-01,2020-11-07,"MT","Diabetes","Diabetes","E10-E14","All Ages",84
+2020-02-01,2020-11-07,"MT","Obesity","Obesity","E65-E68","All Ages",19
+2020-02-01,2020-11-07,"MT","Renal failure","Renal failure","N17-N19","All Ages",27
+2020-02-01,2020-11-07,"MT","COVID-19","COVID-19","U071","All Ages",361
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",93
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",73
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Cardiac arrest","I46","All Ages",78
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",61
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Heart failure","I50","All Ages",82
+2020-02-01,2020-11-07,"NE","Diabetes","Diabetes","E10-E14","All Ages",122
+2020-02-01,2020-11-07,"NE","Obesity","Obesity","E65-E68","All Ages",27
+2020-02-01,2020-11-07,"NE","Renal failure","Renal failure","N17-N19","All Ages",79
+2020-02-01,2020-11-07,"NE","COVID-19","COVID-19","U071","All Ages",732
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",92
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",123
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Cardiac arrest","I46","All Ages",414
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",84
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Heart failure","I50","All Ages",102
+2020-02-01,2020-11-07,"NV","Diabetes","Diabetes","E10-E14","All Ages",209
+2020-02-01,2020-11-07,"NV","Obesity","Obesity","E65-E68","All Ages",65
+2020-02-01,2020-11-07,"NV","Renal failure","Renal failure","N17-N19","All Ages",161
+2020-02-01,2020-11-07,"NV","COVID-19","COVID-19","U071","All Ages",1689
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",43
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",44
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Cardiac arrest","I46","All Ages",23
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",32
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Heart failure","I50","All Ages",48
+2020-02-01,2020-11-07,"NH","Diabetes","Diabetes","E10-E14","All Ages",37
+2020-02-01,2020-11-07,"NH","Renal failure","Renal failure","N17-N19","All Ages",40
+2020-02-01,2020-11-07,"NH","COVID-19","COVID-19","U071","All Ages",464
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",828
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1477
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Cardiac arrest","I46","All Ages",2765
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",924
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Heart failure","I50","All Ages",797
+2020-02-01,2020-11-07,"NJ","Diabetes","Diabetes","E10-E14","All Ages",1607
+2020-02-01,2020-11-07,"NJ","Obesity","Obesity","E65-E68","All Ages",282
+2020-02-01,2020-11-07,"NJ","Renal failure","Renal failure","N17-N19","All Ages",1384
+2020-02-01,2020-11-07,"NJ","COVID-19","COVID-19","U071","All Ages",14611
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",65
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",96
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Cardiac arrest","I46","All Ages",69
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",44
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Heart failure","I50","All Ages",35
+2020-02-01,2020-11-07,"NM","Diabetes","Diabetes","E10-E14","All Ages",150
+2020-02-01,2020-11-07,"NM","Obesity","Obesity","E65-E68","All Ages",46
+2020-02-01,2020-11-07,"NM","Renal failure","Renal failure","N17-N19","All Ages",62
+2020-02-01,2020-11-07,"NM","COVID-19","COVID-19","U071","All Ages",905
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",809
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1235
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Cardiac arrest","I46","All Ages",3149
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",631
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Heart failure","I50","All Ages",581
+2020-02-01,2020-11-07,"NY","Diabetes","Diabetes","E10-E14","All Ages",1221
+2020-02-01,2020-11-07,"NY","Obesity","Obesity","E65-E68","All Ages",225
+2020-02-01,2020-11-07,"NY","Renal failure","Renal failure","N17-N19","All Ages",875
+2020-02-01,2020-11-07,"NY","COVID-19","COVID-19","U071","All Ages",11934
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",235
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",242
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Cardiac arrest","I46","All Ages",256
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",179
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Heart failure","I50","All Ages",225
+2020-02-01,2020-11-07,"NC","Diabetes","Diabetes","E10-E14","All Ages",346
+2020-02-01,2020-11-07,"NC","Obesity","Obesity","E65-E68","All Ages",99
+2020-02-01,2020-11-07,"NC","Renal failure","Renal failure","N17-N19","All Ages",357
+2020-02-01,2020-11-07,"NC","COVID-19","COVID-19","U071","All Ages",2808
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",62
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",65
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Cardiac arrest","I46","All Ages",41
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",45
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Heart failure","I50","All Ages",62
+2020-02-01,2020-11-07,"ND","Diabetes","Diabetes","E10-E14","All Ages",64
+2020-02-01,2020-11-07,"ND","Obesity","Obesity","E65-E68","All Ages",21
+2020-02-01,2020-11-07,"ND","Renal failure","Renal failure","N17-N19","All Ages",61
+2020-02-01,2020-11-07,"ND","COVID-19","COVID-19","U071","All Ages",526
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",489
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",506
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Cardiac arrest","I46","All Ages",388
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",291
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Heart failure","I50","All Ages",380
+2020-02-01,2020-11-07,"OH","Diabetes","Diabetes","E10-E14","All Ages",561
+2020-02-01,2020-11-07,"OH","Obesity","Obesity","E65-E68","All Ages",79
+2020-02-01,2020-11-07,"OH","Renal failure","Renal failure","N17-N19","All Ages",405
+2020-02-01,2020-11-07,"OH","COVID-19","COVID-19","U071","All Ages",5283
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",234
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",247
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Cardiac arrest","I46","All Ages",84
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",156
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Heart failure","I50","All Ages",172
+2020-02-01,2020-11-07,"OK","Diabetes","Diabetes","E10-E14","All Ages",387
+2020-02-01,2020-11-07,"OK","Obesity","Obesity","E65-E68","All Ages",109
+2020-02-01,2020-11-07,"OK","Renal failure","Renal failure","N17-N19","All Ages",148
+2020-02-01,2020-11-07,"OK","COVID-19","COVID-19","U071","All Ages",1561
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",61
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",64
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Cardiac arrest","I46","All Ages",30
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",64
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Heart failure","I50","All Ages",64
+2020-02-01,2020-11-07,"OR","Diabetes","Diabetes","E10-E14","All Ages",105
+2020-02-01,2020-11-07,"OR","Obesity","Obesity","E65-E68","All Ages",34
+2020-02-01,2020-11-07,"OR","Renal failure","Renal failure","N17-N19","All Ages",53
+2020-02-01,2020-11-07,"OR","COVID-19","COVID-19","U071","All Ages",639
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",824
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1046
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Cardiac arrest","I46","All Ages",525
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",761
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Heart failure","I50","All Ages",799
+2020-02-01,2020-11-07,"PA","Diabetes","Diabetes","E10-E14","All Ages",1144
+2020-02-01,2020-11-07,"PA","Obesity","Obesity","E65-E68","All Ages",206
+2020-02-01,2020-11-07,"PA","Renal failure","Renal failure","N17-N19","All Ages",748
+2020-02-01,2020-11-07,"PA","COVID-19","COVID-19","U071","All Ages",9140
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",121
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",166
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Cardiac arrest","I46","All Ages",102
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",84
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Heart failure","I50","All Ages",111
+2020-02-01,2020-11-07,"RI","Diabetes","Diabetes","E10-E14","All Ages",123
+2020-02-01,2020-11-07,"RI","Obesity","Obesity","E65-E68","All Ages",28
+2020-02-01,2020-11-07,"RI","Renal failure","Renal failure","N17-N19","All Ages",121
+2020-02-01,2020-11-07,"RI","COVID-19","COVID-19","U071","All Ages",1147
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",367
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",367
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Cardiac arrest","I46","All Ages",342
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",384
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Heart failure","I50","All Ages",327
+2020-02-01,2020-11-07,"SC","Diabetes","Diabetes","E10-E14","All Ages",626
+2020-02-01,2020-11-07,"SC","Obesity","Obesity","E65-E68","All Ages",138
+2020-02-01,2020-11-07,"SC","Renal failure","Renal failure","N17-N19","All Ages",553
+2020-02-01,2020-11-07,"SC","COVID-19","COVID-19","U071","All Ages",3625
+2020-02-01,2020-11-07,"SD","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",69
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",55
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Cardiac arrest","I46","All Ages",26
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",46
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Heart failure","I50","All Ages",63
+2020-02-01,2020-11-07,"SD","Diabetes","Diabetes","E10-E14","All Ages",96
+2020-02-01,2020-11-07,"SD","Obesity","Obesity","E65-E68","All Ages",20
+2020-02-01,2020-11-07,"SD","Renal failure","Renal failure","N17-N19","All Ages",57
+2020-02-01,2020-11-07,"SD","COVID-19","COVID-19","U071","All Ages",446
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",315
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",398
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Cardiac arrest","I46","All Ages",231
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",224
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Heart failure","I50","All Ages",211
+2020-02-01,2020-11-07,"TN","Diabetes","Diabetes","E10-E14","All Ages",463
+2020-02-01,2020-11-07,"TN","Obesity","Obesity","E65-E68","All Ages",116
+2020-02-01,2020-11-07,"TN","Renal failure","Renal failure","N17-N19","All Ages",337
+2020-02-01,2020-11-07,"TN","COVID-19","COVID-19","U071","All Ages",3331
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1313
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",2043
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Cardiac arrest","I46","All Ages",1212
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",1397
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Heart failure","I50","All Ages",1285
+2020-02-01,2020-11-07,"TX","Diabetes","Diabetes","E10-E14","All Ages",3997
+2020-02-01,2020-11-07,"TX","Obesity","Obesity","E65-E68","All Ages",1204
+2020-02-01,2020-11-07,"TX","Renal failure","Renal failure","N17-N19","All Ages",2754
+2020-02-01,2020-11-07,"TX","COVID-19","COVID-19","U071","All Ages",18702
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",45
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",62
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Cardiac arrest","I46","All Ages",60
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",34
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Heart failure","I50","All Ages",61
+2020-02-01,2020-11-07,"UT","Diabetes","Diabetes","E10-E14","All Ages",98
+2020-02-01,2020-11-07,"UT","Obesity","Obesity","E65-E68","All Ages",48
+2020-02-01,2020-11-07,"UT","Renal failure","Renal failure","N17-N19","All Ages",60
+2020-02-01,2020-11-07,"UT","COVID-19","COVID-19","U071","All Ages",625
+2020-02-01,2020-11-07,"VT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",11
+2020-02-01,2020-11-07,"VT","Diabetes","Diabetes","E10-E14","All Ages",17
+2020-02-01,2020-11-07,"VT","COVID-19","COVID-19","U071","All Ages",62
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",246
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",304
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Cardiac arrest","I46","All Ages",144
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",210
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Heart failure","I50","All Ages",263
+2020-02-01,2020-11-07,"VA","Diabetes","Diabetes","E10-E14","All Ages",353
+2020-02-01,2020-11-07,"VA","Obesity","Obesity","E65-E68","All Ages",62
+2020-02-01,2020-11-07,"VA","Renal failure","Renal failure","N17-N19","All Ages",352
+2020-02-01,2020-11-07,"VA","COVID-19","COVID-19","U071","All Ages",3654
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",246
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",246
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Cardiac arrest","I46","All Ages",165
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",192
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Heart failure","I50","All Ages",235
+2020-02-01,2020-11-07,"WA","Diabetes","Diabetes","E10-E14","All Ages",374
+2020-02-01,2020-11-07,"WA","Obesity","Obesity","E65-E68","All Ages",100
+2020-02-01,2020-11-07,"WA","Renal failure","Renal failure","N17-N19","All Ages",245
+2020-02-01,2020-11-07,"WA","COVID-19","COVID-19","U071","All Ages",2168
+2020-02-01,2020-11-07,"WV","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",43
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",57
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",29
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Heart failure","I50","All Ages",36
+2020-02-01,2020-11-07,"WV","Diabetes","Diabetes","E10-E14","All Ages",55
+2020-02-01,2020-11-07,"WV","Renal failure","Renal failure","N17-N19","All Ages",49
+2020-02-01,2020-11-07,"WV","COVID-19","COVID-19","U071","All Ages",406
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",307
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",421
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Cardiac arrest","I46","All Ages",42
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",171
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Heart failure","I50","All Ages",293
+2020-02-01,2020-11-07,"WI","Diabetes","Diabetes","E10-E14","All Ages",500
+2020-02-01,2020-11-07,"WI","Obesity","Obesity","E65-E68","All Ages",206
+2020-02-01,2020-11-07,"WI","Renal failure","Renal failure","N17-N19","All Ages",173
+2020-02-01,2020-11-07,"WI","COVID-19","COVID-19","U071","All Ages",2034
+2020-02-01,2020-11-07,"WY","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",10
+2020-02-01,2020-11-07,"WY","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",14
+2020-02-01,2020-11-07,"WY","Diabetes","Diabetes","E10-E14","All Ages",13
+2020-02-01,2020-11-07,"WY","COVID-19","COVID-19","U071","All Ages",74
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1033
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",2030
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Cardiac arrest","I46","All Ages",4300
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",550
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Heart failure","I50","All Ages",653
+2020-02-01,2020-11-07,"YC","Diabetes","Diabetes","E10-E14","All Ages",2960
+2020-02-01,2020-11-07,"YC","Obesity","Obesity","E65-E68","All Ages",429
+2020-02-01,2020-11-07,"YC","Renal failure","Renal failure","N17-N19","All Ages",735
+2020-02-01,2020-11-07,"YC","COVID-19","COVID-19","U071","All Ages",20949
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",52
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",58
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Cardiac arrest","I46","All Ages",98
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",27
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Heart failure","I50","All Ages",57
+2020-02-01,2020-11-07,"PR","Diabetes","Diabetes","E10-E14","All Ages",103
+2020-02-01,2020-11-07,"PR","Obesity","Obesity","E65-E68","All Ages",26
+2020-02-01,2020-11-07,"PR","Renal failure","Renal failure","N17-N19","All Ages",107
+2020-02-01,2020-11-07,"PR","COVID-19","COVID-19","U071","All Ages",773

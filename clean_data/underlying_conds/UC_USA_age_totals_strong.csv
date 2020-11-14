@@ -1,0 +1,10 @@
+"Start.Week","End.Week","State","Condition.Group","Condition","ICD10_codes","Age.Group","Number.of.COVID.19.Deaths"
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",19486
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",25274
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","All Ages",26557
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",14400
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","All Ages",15127
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","All Ages",36204
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","All Ages",8366
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","All Ages",20024
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","All Ages",220704

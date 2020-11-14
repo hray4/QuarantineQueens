@@ -1,0 +1,1167 @@
+"Start.Week","End.Week","State","Condition.Group","Condition","ICD10_codes","Age.Group","Number.of.COVID.19.Deaths"
+2020-02-01,2020-11-07,"US","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",95778
+2020-02-01,2020-11-07,"US","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",19486
+2020-02-01,2020-11-07,"US","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",28090
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory failure","J96","All Ages",77611
+2020-02-01,2020-11-07,"US","Respiratory diseases","Respiratory arrest","R09.2","All Ages",4492
+2020-02-01,2020-11-07,"US","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",8441
+2020-02-01,2020-11-07,"US","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",47455
+2020-02-01,2020-11-07,"US","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",25274
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrest","I46","All Ages",26557
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",14400
+2020-02-01,2020-11-07,"US","Circulatory diseases","Heart failure","I50","All Ages",15127
+2020-02-01,2020-11-07,"US","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",11046
+2020-02-01,2020-11-07,"US","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",12920
+2020-02-01,2020-11-07,"US","Sepsis","Sepsis","A40-A41","All Ages",20864
+2020-02-01,2020-11-07,"US","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",10443
+2020-02-01,2020-11-07,"US","Diabetes","Diabetes","E10-E14","All Ages",36204
+2020-02-01,2020-11-07,"US","Obesity","Obesity","E65-E68","All Ages",8366
+2020-02-01,2020-11-07,"US","Alzheimer disease","Alzheimer disease","G30","All Ages",8253
+2020-02-01,2020-11-07,"US","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",24787
+2020-02-01,2020-11-07,"US","Renal failure","Renal failure","N17-N19","All Ages",20024
+2020-02-01,2020-11-07,"US","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",7919
+2020-02-01,2020-11-07,"US","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",114459
+2020-02-01,2020-11-07,"US","COVID-19","COVID-19","U071","All Ages",220704
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1235
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",280
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",269
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Respiratory failure","J96","All Ages",1505
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Respiratory arrest","R09.2","All Ages",279
+2020-02-01,2020-11-07,"AL","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",139
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",441
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",360
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Cardiac arrest","I46","All Ages",503
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",247
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Heart failure","I50","All Ages",246
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",177
+2020-02-01,2020-11-07,"AL","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",239
+2020-02-01,2020-11-07,"AL","Sepsis","Sepsis","A40-A41","All Ages",466
+2020-02-01,2020-11-07,"AL","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",127
+2020-02-01,2020-11-07,"AL","Diabetes","Diabetes","E10-E14","All Ages",429
+2020-02-01,2020-11-07,"AL","Obesity","Obesity","E65-E68","All Ages",101
+2020-02-01,2020-11-07,"AL","Alzheimer disease","Alzheimer disease","G30","All Ages",140
+2020-02-01,2020-11-07,"AL","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",340
+2020-02-01,2020-11-07,"AL","Renal failure","Renal failure","N17-N19","All Ages",386
+2020-02-01,2020-11-07,"AL","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",112
+2020-02-01,2020-11-07,"AL","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1828
+2020-02-01,2020-11-07,"AL","COVID-19","COVID-19","U071","All Ages",3911
+2020-02-01,2020-11-07,"AK","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",33
+2020-02-01,2020-11-07,"AK","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",10
+2020-02-01,2020-11-07,"AK","Respiratory diseases","Respiratory failure","J96","All Ages",27
+2020-02-01,2020-11-07,"AK","Sepsis","Sepsis","A40-A41","All Ages",10
+2020-02-01,2020-11-07,"AK","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",14
+2020-02-01,2020-11-07,"AK","Diabetes","Diabetes","E10-E14","All Ages",10
+2020-02-01,2020-11-07,"AK","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",52
+2020-02-01,2020-11-07,"AK","COVID-19","COVID-19","U071","All Ages",69
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",2889
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",396
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",847
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Respiratory failure","J96","All Ages",2390
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Respiratory arrest","R09.2","All Ages",123
+2020-02-01,2020-11-07,"AZ","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",228
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",749
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",421
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Cardiac arrest","I46","All Ages",570
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",293
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Heart failure","I50","All Ages",290
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",195
+2020-02-01,2020-11-07,"AZ","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",356
+2020-02-01,2020-11-07,"AZ","Sepsis","Sepsis","A40-A41","All Ages",393
+2020-02-01,2020-11-07,"AZ","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",193
+2020-02-01,2020-11-07,"AZ","Diabetes","Diabetes","E10-E14","All Ages",780
+2020-02-01,2020-11-07,"AZ","Obesity","Obesity","E65-E68","All Ages",278
+2020-02-01,2020-11-07,"AZ","Alzheimer disease","Alzheimer disease","G30","All Ages",206
+2020-02-01,2020-11-07,"AZ","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",377
+2020-02-01,2020-11-07,"AZ","Renal failure","Renal failure","N17-N19","All Ages",463
+2020-02-01,2020-11-07,"AZ","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",234
+2020-02-01,2020-11-07,"AZ","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",2788
+2020-02-01,2020-11-07,"AZ","COVID-19","COVID-19","U071","All Ages",5341
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",829
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",175
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",326
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Respiratory failure","J96","All Ages",721
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Respiratory arrest","R09.2","All Ages",55
+2020-02-01,2020-11-07,"AR","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",59
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",366
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",198
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Cardiac arrest","I46","All Ages",264
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",127
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Heart failure","I50","All Ages",143
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",74
+2020-02-01,2020-11-07,"AR","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",82
+2020-02-01,2020-11-07,"AR","Sepsis","Sepsis","A40-A41","All Ages",173
+2020-02-01,2020-11-07,"AR","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",85
+2020-02-01,2020-11-07,"AR","Diabetes","Diabetes","E10-E14","All Ages",277
+2020-02-01,2020-11-07,"AR","Obesity","Obesity","E65-E68","All Ages",46
+2020-02-01,2020-11-07,"AR","Alzheimer disease","Alzheimer disease","G30","All Ages",112
+2020-02-01,2020-11-07,"AR","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",200
+2020-02-01,2020-11-07,"AR","Renal failure","Renal failure","N17-N19","All Ages",165
+2020-02-01,2020-11-07,"AR","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",62
+2020-02-01,2020-11-07,"AR","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",938
+2020-02-01,2020-11-07,"AR","COVID-19","COVID-19","U071","All Ages",1909
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",9218
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1202
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",1920
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Respiratory failure","J96","All Ages",8165
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",556
+2020-02-01,2020-11-07,"CA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",637
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",3473
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1906
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Cardiac arrest","I46","All Ages",5121
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",1182
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Heart failure","I50","All Ages",1125
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",928
+2020-02-01,2020-11-07,"CA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",992
+2020-02-01,2020-11-07,"CA","Sepsis","Sepsis","A40-A41","All Ages",2754
+2020-02-01,2020-11-07,"CA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",776
+2020-02-01,2020-11-07,"CA","Diabetes","Diabetes","E10-E14","All Ages",3772
+2020-02-01,2020-11-07,"CA","Obesity","Obesity","E65-E68","All Ages",813
+2020-02-01,2020-11-07,"CA","Alzheimer disease","Alzheimer disease","G30","All Ages",970
+2020-02-01,2020-11-07,"CA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",1275
+2020-02-01,2020-11-07,"CA","Renal failure","Renal failure","N17-N19","All Ages",2183
+2020-02-01,2020-11-07,"CA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",585
+2020-02-01,2020-11-07,"CA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",8547
+2020-02-01,2020-11-07,"CA","COVID-19","COVID-19","U071","All Ages",17241
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1022
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",267
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",574
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Respiratory failure","J96","All Ages",802
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Respiratory arrest","R09.2","All Ages",17
+2020-02-01,2020-11-07,"CO","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",123
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",441
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",227
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Cardiac arrest","I46","All Ages",101
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",209
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Heart failure","I50","All Ages",199
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",161
+2020-02-01,2020-11-07,"CO","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",219
+2020-02-01,2020-11-07,"CO","Sepsis","Sepsis","A40-A41","All Ages",180
+2020-02-01,2020-11-07,"CO","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",112
+2020-02-01,2020-11-07,"CO","Diabetes","Diabetes","E10-E14","All Ages",327
+2020-02-01,2020-11-07,"CO","Obesity","Obesity","E65-E68","All Ages",96
+2020-02-01,2020-11-07,"CO","Alzheimer disease","Alzheimer disease","G30","All Ages",155
+2020-02-01,2020-11-07,"CO","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",400
+2020-02-01,2020-11-07,"CO","Renal failure","Renal failure","N17-N19","All Ages",253
+2020-02-01,2020-11-07,"CO","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",147
+2020-02-01,2020-11-07,"CO","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1753
+2020-02-01,2020-11-07,"CO","COVID-19","COVID-19","U071","All Ages",2181
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",917
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",444
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",271
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Respiratory failure","J96","All Ages",1611
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Respiratory arrest","R09.2","All Ages",129
+2020-02-01,2020-11-07,"CT","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",423
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",620
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",377
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Cardiac arrest","I46","All Ages",514
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",270
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Heart failure","I50","All Ages",395
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",176
+2020-02-01,2020-11-07,"CT","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",305
+2020-02-01,2020-11-07,"CT","Sepsis","Sepsis","A40-A41","All Ages",289
+2020-02-01,2020-11-07,"CT","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",195
+2020-02-01,2020-11-07,"CT","Diabetes","Diabetes","E10-E14","All Ages",499
+2020-02-01,2020-11-07,"CT","Obesity","Obesity","E65-E68","All Ages",87
+2020-02-01,2020-11-07,"CT","Alzheimer disease","Alzheimer disease","G30","All Ages",138
+2020-02-01,2020-11-07,"CT","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",784
+2020-02-01,2020-11-07,"CT","Renal failure","Renal failure","N17-N19","All Ages",305
+2020-02-01,2020-11-07,"CT","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",176
+2020-02-01,2020-11-07,"CT","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1863
+2020-02-01,2020-11-07,"CT","COVID-19","COVID-19","U071","All Ages",4520
+2020-02-01,2020-11-07,"DE","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",236
+2020-02-01,2020-11-07,"DE","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",21
+2020-02-01,2020-11-07,"DE","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",62
+2020-02-01,2020-11-07,"DE","Respiratory diseases","Respiratory failure","J96","All Ages",150
+2020-02-01,2020-11-07,"DE","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",34
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",18
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Cardiac arrest","I46","All Ages",18
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Heart failure","I50","All Ages",11
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",12
+2020-02-01,2020-11-07,"DE","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",16
+2020-02-01,2020-11-07,"DE","Sepsis","Sepsis","A40-A41","All Ages",38
+2020-02-01,2020-11-07,"DE","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",16
+2020-02-01,2020-11-07,"DE","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",27
+2020-02-01,2020-11-07,"DE","Renal failure","Renal failure","N17-N19","All Ages",29
+2020-02-01,2020-11-07,"DE","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",233
+2020-02-01,2020-11-07,"DE","COVID-19","COVID-19","U071","All Ages",609
+2020-02-01,2020-11-07,"DC","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",700
+2020-02-01,2020-11-07,"DC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",96
+2020-02-01,2020-11-07,"DC","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",729
+2020-02-01,2020-11-07,"DC","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",10
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",513
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",42
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",26
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Heart failure","I50","All Ages",26
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",21
+2020-02-01,2020-11-07,"DC","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",34
+2020-02-01,2020-11-07,"DC","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",78
+2020-02-01,2020-11-07,"DC","Diabetes","Diabetes","E10-E14","All Ages",328
+2020-02-01,2020-11-07,"DC","Obesity","Obesity","E65-E68","All Ages",52
+2020-02-01,2020-11-07,"DC","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",87
+2020-02-01,2020-11-07,"DC","Renal failure","Renal failure","N17-N19","All Ages",37
+2020-02-01,2020-11-07,"DC","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",11
+2020-02-01,2020-11-07,"DC","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",236
+2020-02-01,2020-11-07,"DC","COVID-19","COVID-19","U071","All Ages",795
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",7926
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",2813
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",1674
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Respiratory failure","J96","All Ages",2804
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Respiratory arrest","R09.2","All Ages",112
+2020-02-01,2020-11-07,"FL","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",610
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",8002
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",4151
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Cardiac arrest","I46","All Ages",659
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",1319
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Heart failure","I50","All Ages",811
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",1035
+2020-02-01,2020-11-07,"FL","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",1033
+2020-02-01,2020-11-07,"FL","Sepsis","Sepsis","A40-A41","All Ages",890
+2020-02-01,2020-11-07,"FL","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",1069
+2020-02-01,2020-11-07,"FL","Diabetes","Diabetes","E10-E14","All Ages",4792
+2020-02-01,2020-11-07,"FL","Obesity","Obesity","E65-E68","All Ages",1292
+2020-02-01,2020-11-07,"FL","Alzheimer disease","Alzheimer disease","G30","All Ages",562
+2020-02-01,2020-11-07,"FL","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",2885
+2020-02-01,2020-11-07,"FL","Renal failure","Renal failure","N17-N19","All Ages",766
+2020-02-01,2020-11-07,"FL","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",951
+2020-02-01,2020-11-07,"FL","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",7544
+2020-02-01,2020-11-07,"FL","COVID-19","COVID-19","U071","All Ages",16539
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",3245
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",422
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",660
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Respiratory failure","J96","All Ages",3263
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",228
+2020-02-01,2020-11-07,"GA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",328
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",1041
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",421
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Cardiac arrest","I46","All Ages",1026
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",299
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Heart failure","I50","All Ages",405
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",326
+2020-02-01,2020-11-07,"GA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",371
+2020-02-01,2020-11-07,"GA","Sepsis","Sepsis","A40-A41","All Ages",1077
+2020-02-01,2020-11-07,"GA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",243
+2020-02-01,2020-11-07,"GA","Diabetes","Diabetes","E10-E14","All Ages",812
+2020-02-01,2020-11-07,"GA","Obesity","Obesity","E65-E68","All Ages",226
+2020-02-01,2020-11-07,"GA","Alzheimer disease","Alzheimer disease","G30","All Ages",272
+2020-02-01,2020-11-07,"GA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",550
+2020-02-01,2020-11-07,"GA","Renal failure","Renal failure","N17-N19","All Ages",696
+2020-02-01,2020-11-07,"GA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",181
+2020-02-01,2020-11-07,"GA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",3662
+2020-02-01,2020-11-07,"GA","COVID-19","COVID-19","U071","All Ages",7053
+2020-02-01,2020-11-07,"HI","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",134
+2020-02-01,2020-11-07,"HI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",21
+2020-02-01,2020-11-07,"HI","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",38
+2020-02-01,2020-11-07,"HI","Respiratory diseases","Respiratory failure","J96","All Ages",94
+2020-02-01,2020-11-07,"HI","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",17
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",36
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",34
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Cardiac arrest","I46","All Ages",34
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",13
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Heart failure","I50","All Ages",22
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",13
+2020-02-01,2020-11-07,"HI","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",23
+2020-02-01,2020-11-07,"HI","Sepsis","Sepsis","A40-A41","All Ages",35
+2020-02-01,2020-11-07,"HI","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",13
+2020-02-01,2020-11-07,"HI","Diabetes","Diabetes","E10-E14","All Ages",39
+2020-02-01,2020-11-07,"HI","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",21
+2020-02-01,2020-11-07,"HI","Renal failure","Renal failure","N17-N19","All Ages",37
+2020-02-01,2020-11-07,"HI","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",15
+2020-02-01,2020-11-07,"HI","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",138
+2020-02-01,2020-11-07,"HI","COVID-19","COVID-19","U071","All Ages",277
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",241
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",96
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",74
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Respiratory failure","J96","All Ages",261
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Respiratory arrest","R09.2","All Ages",13
+2020-02-01,2020-11-07,"ID","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",30
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",114
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",69
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Cardiac arrest","I46","All Ages",28
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",53
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Heart failure","I50","All Ages",71
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",40
+2020-02-01,2020-11-07,"ID","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",37
+2020-02-01,2020-11-07,"ID","Sepsis","Sepsis","A40-A41","All Ages",46
+2020-02-01,2020-11-07,"ID","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",36
+2020-02-01,2020-11-07,"ID","Diabetes","Diabetes","E10-E14","All Ages",94
+2020-02-01,2020-11-07,"ID","Obesity","Obesity","E65-E68","All Ages",36
+2020-02-01,2020-11-07,"ID","Alzheimer disease","Alzheimer disease","G30","All Ages",39
+2020-02-01,2020-11-07,"ID","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",88
+2020-02-01,2020-11-07,"ID","Renal failure","Renal failure","N17-N19","All Ages",59
+2020-02-01,2020-11-07,"ID","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",24
+2020-02-01,2020-11-07,"ID","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",446
+2020-02-01,2020-11-07,"ID","COVID-19","COVID-19","U071","All Ages",668
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",3758
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1259
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",376
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Respiratory failure","J96","All Ages",2359
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Respiratory arrest","R09.2","All Ages",40
+2020-02-01,2020-11-07,"IL","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",136
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",4024
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1209
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Cardiac arrest","I46","All Ages",222
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",679
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Heart failure","I50","All Ages",837
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",390
+2020-02-01,2020-11-07,"IL","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",406
+2020-02-01,2020-11-07,"IL","Sepsis","Sepsis","A40-A41","All Ages",532
+2020-02-01,2020-11-07,"IL","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",432
+2020-02-01,2020-11-07,"IL","Diabetes","Diabetes","E10-E14","All Ages",2466
+2020-02-01,2020-11-07,"IL","Obesity","Obesity","E65-E68","All Ages",533
+2020-02-01,2020-11-07,"IL","Alzheimer disease","Alzheimer disease","G30","All Ages",259
+2020-02-01,2020-11-07,"IL","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",942
+2020-02-01,2020-11-07,"IL","Renal failure","Renal failure","N17-N19","All Ages",387
+2020-02-01,2020-11-07,"IL","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",242
+2020-02-01,2020-11-07,"IL","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",3066
+2020-02-01,2020-11-07,"IL","COVID-19","COVID-19","U071","All Ages",8748
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1715
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",576
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",409
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Respiratory failure","J96","All Ages",1785
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Respiratory arrest","R09.2","All Ages",104
+2020-02-01,2020-11-07,"IN","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",231
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",760
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",521
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Cardiac arrest","I46","All Ages",268
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",397
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Heart failure","I50","All Ages",423
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",284
+2020-02-01,2020-11-07,"IN","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",301
+2020-02-01,2020-11-07,"IN","Sepsis","Sepsis","A40-A41","All Ages",490
+2020-02-01,2020-11-07,"IN","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",229
+2020-02-01,2020-11-07,"IN","Diabetes","Diabetes","E10-E14","All Ages",653
+2020-02-01,2020-11-07,"IN","Obesity","Obesity","E65-E68","All Ages",118
+2020-02-01,2020-11-07,"IN","Alzheimer disease","Alzheimer disease","G30","All Ages",299
+2020-02-01,2020-11-07,"IN","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",672
+2020-02-01,2020-11-07,"IN","Renal failure","Renal failure","N17-N19","All Ages",507
+2020-02-01,2020-11-07,"IN","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",187
+2020-02-01,2020-11-07,"IN","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",3149
+2020-02-01,2020-11-07,"IN","COVID-19","COVID-19","U071","All Ages",4321
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",521
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",229
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",220
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Respiratory failure","J96","All Ages",615
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",63
+2020-02-01,2020-11-07,"IA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",76
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",299
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",218
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Cardiac arrest","I46","All Ages",87
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",150
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Heart failure","I50","All Ages",175
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",71
+2020-02-01,2020-11-07,"IA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",144
+2020-02-01,2020-11-07,"IA","Sepsis","Sepsis","A40-A41","All Ages",125
+2020-02-01,2020-11-07,"IA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",91
+2020-02-01,2020-11-07,"IA","Diabetes","Diabetes","E10-E14","All Ages",279
+2020-02-01,2020-11-07,"IA","Obesity","Obesity","E65-E68","All Ages",79
+2020-02-01,2020-11-07,"IA","Alzheimer disease","Alzheimer disease","G30","All Ages",111
+2020-02-01,2020-11-07,"IA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",274
+2020-02-01,2020-11-07,"IA","Renal failure","Renal failure","N17-N19","All Ages",151
+2020-02-01,2020-11-07,"IA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",64
+2020-02-01,2020-11-07,"IA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1177
+2020-02-01,2020-11-07,"IA","COVID-19","COVID-19","U071","All Ages",1841
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",429
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",102
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",140
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Respiratory failure","J96","All Ages",544
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Respiratory arrest","R09.2","All Ages",15
+2020-02-01,2020-11-07,"KS","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",54
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",129
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",122
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Cardiac arrest","I46","All Ages",119
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",55
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Heart failure","I50","All Ages",68
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",46
+2020-02-01,2020-11-07,"KS","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",62
+2020-02-01,2020-11-07,"KS","Sepsis","Sepsis","A40-A41","All Ages",116
+2020-02-01,2020-11-07,"KS","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",58
+2020-02-01,2020-11-07,"KS","Diabetes","Diabetes","E10-E14","All Ages",125
+2020-02-01,2020-11-07,"KS","Obesity","Obesity","E65-E68","All Ages",33
+2020-02-01,2020-11-07,"KS","Alzheimer disease","Alzheimer disease","G30","All Ages",47
+2020-02-01,2020-11-07,"KS","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",142
+2020-02-01,2020-11-07,"KS","Renal failure","Renal failure","N17-N19","All Ages",105
+2020-02-01,2020-11-07,"KS","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",34
+2020-02-01,2020-11-07,"KS","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",611
+2020-02-01,2020-11-07,"KS","COVID-19","COVID-19","U071","All Ages",1134
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",687
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",190
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",159
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Respiratory failure","J96","All Ages",771
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Respiratory arrest","R09.2","All Ages",14
+2020-02-01,2020-11-07,"KY","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",75
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",298
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",196
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Cardiac arrest","I46","All Ages",107
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",156
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Heart failure","I50","All Ages",187
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",102
+2020-02-01,2020-11-07,"KY","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",100
+2020-02-01,2020-11-07,"KY","Sepsis","Sepsis","A40-A41","All Ages",339
+2020-02-01,2020-11-07,"KY","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",95
+2020-02-01,2020-11-07,"KY","Diabetes","Diabetes","E10-E14","All Ages",317
+2020-02-01,2020-11-07,"KY","Obesity","Obesity","E65-E68","All Ages",57
+2020-02-01,2020-11-07,"KY","Alzheimer disease","Alzheimer disease","G30","All Ages",68
+2020-02-01,2020-11-07,"KY","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",261
+2020-02-01,2020-11-07,"KY","Renal failure","Renal failure","N17-N19","All Ages",212
+2020-02-01,2020-11-07,"KY","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",112
+2020-02-01,2020-11-07,"KY","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1363
+2020-02-01,2020-11-07,"KY","COVID-19","COVID-19","U071","All Ages",1637
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",2456
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",379
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",1318
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Respiratory failure","J96","All Ages",1948
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",52
+2020-02-01,2020-11-07,"LA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",287
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",1287
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",560
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Cardiac arrest","I46","All Ages",321
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",305
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Heart failure","I50","All Ages",398
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",295
+2020-02-01,2020-11-07,"LA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",290
+2020-02-01,2020-11-07,"LA","Sepsis","Sepsis","A40-A41","All Ages",484
+2020-02-01,2020-11-07,"LA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",209
+2020-02-01,2020-11-07,"LA","Diabetes","Diabetes","E10-E14","All Ages",818
+2020-02-01,2020-11-07,"LA","Obesity","Obesity","E65-E68","All Ages",194
+2020-02-01,2020-11-07,"LA","Alzheimer disease","Alzheimer disease","G30","All Ages",188
+2020-02-01,2020-11-07,"LA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",342
+2020-02-01,2020-11-07,"LA","Renal failure","Renal failure","N17-N19","All Ages",405
+2020-02-01,2020-11-07,"LA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",125
+2020-02-01,2020-11-07,"LA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",2402
+2020-02-01,2020-11-07,"LA","COVID-19","COVID-19","U071","All Ages",5305
+2020-02-01,2020-11-07,"ME","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",32
+2020-02-01,2020-11-07,"ME","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",19
+2020-02-01,2020-11-07,"ME","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",19
+2020-02-01,2020-11-07,"ME","Respiratory diseases","Respiratory failure","J96","All Ages",26
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",23
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",19
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",16
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Heart failure","I50","All Ages",20
+2020-02-01,2020-11-07,"ME","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",16
+2020-02-01,2020-11-07,"ME","Diabetes","Diabetes","E10-E14","All Ages",17
+2020-02-01,2020-11-07,"ME","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",33
+2020-02-01,2020-11-07,"ME","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",80
+2020-02-01,2020-11-07,"ME","COVID-19","COVID-19","U071","All Ages",171
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1574
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",435
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",498
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Respiratory failure","J96","All Ages",1056
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Respiratory arrest","R09.2","All Ages",34
+2020-02-01,2020-11-07,"MD","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",174
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",1158
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",553
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Cardiac arrest","I46","All Ages",171
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",434
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Heart failure","I50","All Ages",344
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",377
+2020-02-01,2020-11-07,"MD","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",483
+2020-02-01,2020-11-07,"MD","Sepsis","Sepsis","A40-A41","All Ages",468
+2020-02-01,2020-11-07,"MD","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",268
+2020-02-01,2020-11-07,"MD","Diabetes","Diabetes","E10-E14","All Ages",845
+2020-02-01,2020-11-07,"MD","Obesity","Obesity","E65-E68","All Ages",181
+2020-02-01,2020-11-07,"MD","Alzheimer disease","Alzheimer disease","G30","All Ages",104
+2020-02-01,2020-11-07,"MD","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",920
+2020-02-01,2020-11-07,"MD","Renal failure","Renal failure","N17-N19","All Ages",620
+2020-02-01,2020-11-07,"MD","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",211
+2020-02-01,2020-11-07,"MD","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",3130
+2020-02-01,2020-11-07,"MD","COVID-19","COVID-19","U071","All Ages",4533
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",2782
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",614
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",737
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Respiratory failure","J96","All Ages",3018
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",261
+2020-02-01,2020-11-07,"MA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",356
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",773
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",587
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Cardiac arrest","I46","All Ages",940
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",473
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Heart failure","I50","All Ages",667
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",340
+2020-02-01,2020-11-07,"MA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",395
+2020-02-01,2020-11-07,"MA","Sepsis","Sepsis","A40-A41","All Ages",589
+2020-02-01,2020-11-07,"MA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",358
+2020-02-01,2020-11-07,"MA","Diabetes","Diabetes","E10-E14","All Ages",688
+2020-02-01,2020-11-07,"MA","Obesity","Obesity","E65-E68","All Ages",92
+2020-02-01,2020-11-07,"MA","Alzheimer disease","Alzheimer disease","G30","All Ages",296
+2020-02-01,2020-11-07,"MA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",1706
+2020-02-01,2020-11-07,"MA","Renal failure","Renal failure","N17-N19","All Ages",762
+2020-02-01,2020-11-07,"MA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",340
+2020-02-01,2020-11-07,"MA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",4064
+2020-02-01,2020-11-07,"MA","COVID-19","COVID-19","U071","All Ages",8266
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",3167
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",563
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",477
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Respiratory failure","J96","All Ages",2358
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Respiratory arrest","R09.2","All Ages",55
+2020-02-01,2020-11-07,"MI","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",175
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",1039
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",677
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Cardiac arrest","I46","All Ages",434
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",336
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Heart failure","I50","All Ages",455
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",335
+2020-02-01,2020-11-07,"MI","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",326
+2020-02-01,2020-11-07,"MI","Sepsis","Sepsis","A40-A41","All Ages",832
+2020-02-01,2020-11-07,"MI","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",295
+2020-02-01,2020-11-07,"MI","Diabetes","Diabetes","E10-E14","All Ages",784
+2020-02-01,2020-11-07,"MI","Obesity","Obesity","E65-E68","All Ages",184
+2020-02-01,2020-11-07,"MI","Alzheimer disease","Alzheimer disease","G30","All Ages",207
+2020-02-01,2020-11-07,"MI","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",628
+2020-02-01,2020-11-07,"MI","Renal failure","Renal failure","N17-N19","All Ages",681
+2020-02-01,2020-11-07,"MI","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",234
+2020-02-01,2020-11-07,"MI","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",3007
+2020-02-01,2020-11-07,"MI","COVID-19","COVID-19","U071","All Ages",6804
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",680
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",305
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",310
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Respiratory failure","J96","All Ages",686
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Respiratory arrest","R09.2","All Ages",15
+2020-02-01,2020-11-07,"MN","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",119
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",670
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",331
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Cardiac arrest","I46","All Ages",58
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",288
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Heart failure","I50","All Ages",314
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",213
+2020-02-01,2020-11-07,"MN","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",264
+2020-02-01,2020-11-07,"MN","Sepsis","Sepsis","A40-A41","All Ages",145
+2020-02-01,2020-11-07,"MN","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",175
+2020-02-01,2020-11-07,"MN","Diabetes","Diabetes","E10-E14","All Ages",465
+2020-02-01,2020-11-07,"MN","Obesity","Obesity","E65-E68","All Ages",80
+2020-02-01,2020-11-07,"MN","Alzheimer disease","Alzheimer disease","G30","All Ages",272
+2020-02-01,2020-11-07,"MN","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",652
+2020-02-01,2020-11-07,"MN","Renal failure","Renal failure","N17-N19","All Ages",222
+2020-02-01,2020-11-07,"MN","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",169
+2020-02-01,2020-11-07,"MN","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",2355
+2020-02-01,2020-11-07,"MN","COVID-19","COVID-19","U071","All Ages",2479
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1557
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",308
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",546
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Respiratory failure","J96","All Ages",1622
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Respiratory arrest","R09.2","All Ages",111
+2020-02-01,2020-11-07,"MS","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",135
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",934
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",333
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Cardiac arrest","I46","All Ages",365
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",195
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Heart failure","I50","All Ages",333
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",195
+2020-02-01,2020-11-07,"MS","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",243
+2020-02-01,2020-11-07,"MS","Sepsis","Sepsis","A40-A41","All Ages",295
+2020-02-01,2020-11-07,"MS","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",187
+2020-02-01,2020-11-07,"MS","Diabetes","Diabetes","E10-E14","All Ages",576
+2020-02-01,2020-11-07,"MS","Obesity","Obesity","E65-E68","All Ages",119
+2020-02-01,2020-11-07,"MS","Alzheimer disease","Alzheimer disease","G30","All Ages",134
+2020-02-01,2020-11-07,"MS","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",250
+2020-02-01,2020-11-07,"MS","Renal failure","Renal failure","N17-N19","All Ages",348
+2020-02-01,2020-11-07,"MS","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",88
+2020-02-01,2020-11-07,"MS","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1681
+2020-02-01,2020-11-07,"MS","COVID-19","COVID-19","U071","All Ages",3274
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1134
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",252
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",262
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Respiratory failure","J96","All Ages",1089
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Respiratory arrest","R09.2","All Ages",41
+2020-02-01,2020-11-07,"MO","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",132
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",342
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",264
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Cardiac arrest","I46","All Ages",137
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",232
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Heart failure","I50","All Ages",229
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",165
+2020-02-01,2020-11-07,"MO","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",167
+2020-02-01,2020-11-07,"MO","Sepsis","Sepsis","A40-A41","All Ages",340
+2020-02-01,2020-11-07,"MO","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",140
+2020-02-01,2020-11-07,"MO","Diabetes","Diabetes","E10-E14","All Ages",294
+2020-02-01,2020-11-07,"MO","Obesity","Obesity","E65-E68","All Ages",65
+2020-02-01,2020-11-07,"MO","Alzheimer disease","Alzheimer disease","G30","All Ages",174
+2020-02-01,2020-11-07,"MO","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",319
+2020-02-01,2020-11-07,"MO","Renal failure","Renal failure","N17-N19","All Ages",385
+2020-02-01,2020-11-07,"MO","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",79
+2020-02-01,2020-11-07,"MO","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1613
+2020-02-01,2020-11-07,"MO","COVID-19","COVID-19","U071","All Ages",3202
+2020-02-01,2020-11-07,"MT","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",144
+2020-02-01,2020-11-07,"MT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",54
+2020-02-01,2020-11-07,"MT","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",30
+2020-02-01,2020-11-07,"MT","Respiratory diseases","Respiratory failure","J96","All Ages",205
+2020-02-01,2020-11-07,"MT","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",23
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",79
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",64
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Cardiac arrest","I46","All Ages",25
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",33
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Heart failure","I50","All Ages",29
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",19
+2020-02-01,2020-11-07,"MT","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",32
+2020-02-01,2020-11-07,"MT","Sepsis","Sepsis","A40-A41","All Ages",28
+2020-02-01,2020-11-07,"MT","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",17
+2020-02-01,2020-11-07,"MT","Diabetes","Diabetes","E10-E14","All Ages",84
+2020-02-01,2020-11-07,"MT","Obesity","Obesity","E65-E68","All Ages",19
+2020-02-01,2020-11-07,"MT","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",38
+2020-02-01,2020-11-07,"MT","Renal failure","Renal failure","N17-N19","All Ages",27
+2020-02-01,2020-11-07,"MT","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",18
+2020-02-01,2020-11-07,"MT","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",341
+2020-02-01,2020-11-07,"MT","COVID-19","COVID-19","U071","All Ages",361
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",276
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",93
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",102
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Respiratory failure","J96","All Ages",315
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Respiratory arrest","R09.2","All Ages",35
+2020-02-01,2020-11-07,"NE","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",34
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",122
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",73
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Cardiac arrest","I46","All Ages",78
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",61
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Heart failure","I50","All Ages",82
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",40
+2020-02-01,2020-11-07,"NE","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",63
+2020-02-01,2020-11-07,"NE","Sepsis","Sepsis","A40-A41","All Ages",75
+2020-02-01,2020-11-07,"NE","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",51
+2020-02-01,2020-11-07,"NE","Diabetes","Diabetes","E10-E14","All Ages",122
+2020-02-01,2020-11-07,"NE","Obesity","Obesity","E65-E68","All Ages",27
+2020-02-01,2020-11-07,"NE","Alzheimer disease","Alzheimer disease","G30","All Ages",42
+2020-02-01,2020-11-07,"NE","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",118
+2020-02-01,2020-11-07,"NE","Renal failure","Renal failure","N17-N19","All Ages",79
+2020-02-01,2020-11-07,"NE","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",31
+2020-02-01,2020-11-07,"NE","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",538
+2020-02-01,2020-11-07,"NE","COVID-19","COVID-19","U071","All Ages",732
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1236
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",92
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",685
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Respiratory failure","J96","All Ages",538
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Respiratory arrest","R09.2","All Ages",19
+2020-02-01,2020-11-07,"NV","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",61
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",228
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",123
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Cardiac arrest","I46","All Ages",414
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",84
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Heart failure","I50","All Ages",102
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",71
+2020-02-01,2020-11-07,"NV","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",76
+2020-02-01,2020-11-07,"NV","Sepsis","Sepsis","A40-A41","All Ages",278
+2020-02-01,2020-11-07,"NV","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",83
+2020-02-01,2020-11-07,"NV","Diabetes","Diabetes","E10-E14","All Ages",209
+2020-02-01,2020-11-07,"NV","Obesity","Obesity","E65-E68","All Ages",65
+2020-02-01,2020-11-07,"NV","Alzheimer disease","Alzheimer disease","G30","All Ages",26
+2020-02-01,2020-11-07,"NV","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",66
+2020-02-01,2020-11-07,"NV","Renal failure","Renal failure","N17-N19","All Ages",161
+2020-02-01,2020-11-07,"NV","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",40
+2020-02-01,2020-11-07,"NV","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",973
+2020-02-01,2020-11-07,"NV","COVID-19","COVID-19","U071","All Ages",1689
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",118
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",43
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",32
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Respiratory failure","J96","All Ages",161
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Respiratory arrest","R09.2","All Ages",11
+2020-02-01,2020-11-07,"NH","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",17
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",42
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",44
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Cardiac arrest","I46","All Ages",23
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",32
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Heart failure","I50","All Ages",48
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",13
+2020-02-01,2020-11-07,"NH","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",31
+2020-02-01,2020-11-07,"NH","Sepsis","Sepsis","A40-A41","All Ages",28
+2020-02-01,2020-11-07,"NH","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",18
+2020-02-01,2020-11-07,"NH","Diabetes","Diabetes","E10-E14","All Ages",37
+2020-02-01,2020-11-07,"NH","Alzheimer disease","Alzheimer disease","G30","All Ages",16
+2020-02-01,2020-11-07,"NH","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",87
+2020-02-01,2020-11-07,"NH","Renal failure","Renal failure","N17-N19","All Ages",40
+2020-02-01,2020-11-07,"NH","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",23
+2020-02-01,2020-11-07,"NH","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",206
+2020-02-01,2020-11-07,"NH","COVID-19","COVID-19","U071","All Ages",464
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",6773
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",828
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",2515
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Respiratory failure","J96","All Ages",5940
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Respiratory arrest","R09.2","All Ages",472
+2020-02-01,2020-11-07,"NJ","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",478
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",2274
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1477
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Cardiac arrest","I46","All Ages",2765
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",924
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Heart failure","I50","All Ages",797
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",701
+2020-02-01,2020-11-07,"NJ","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",802
+2020-02-01,2020-11-07,"NJ","Sepsis","Sepsis","A40-A41","All Ages",1457
+2020-02-01,2020-11-07,"NJ","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",652
+2020-02-01,2020-11-07,"NJ","Diabetes","Diabetes","E10-E14","All Ages",1607
+2020-02-01,2020-11-07,"NJ","Obesity","Obesity","E65-E68","All Ages",282
+2020-02-01,2020-11-07,"NJ","Alzheimer disease","Alzheimer disease","G30","All Ages",372
+2020-02-01,2020-11-07,"NJ","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",1422
+2020-02-01,2020-11-07,"NJ","Renal failure","Renal failure","N17-N19","All Ages",1384
+2020-02-01,2020-11-07,"NJ","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",447
+2020-02-01,2020-11-07,"NJ","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",8176
+2020-02-01,2020-11-07,"NJ","COVID-19","COVID-19","U071","All Ages",14611
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",407
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",65
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",116
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Respiratory failure","J96","All Ages",247
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Respiratory arrest","R09.2","All Ages",16
+2020-02-01,2020-11-07,"NM","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",36
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",138
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",96
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Cardiac arrest","I46","All Ages",69
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",44
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Heart failure","I50","All Ages",35
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",35
+2020-02-01,2020-11-07,"NM","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",40
+2020-02-01,2020-11-07,"NM","Sepsis","Sepsis","A40-A41","All Ages",69
+2020-02-01,2020-11-07,"NM","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",30
+2020-02-01,2020-11-07,"NM","Diabetes","Diabetes","E10-E14","All Ages",150
+2020-02-01,2020-11-07,"NM","Obesity","Obesity","E65-E68","All Ages",46
+2020-02-01,2020-11-07,"NM","Alzheimer disease","Alzheimer disease","G30","All Ages",28
+2020-02-01,2020-11-07,"NM","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",78
+2020-02-01,2020-11-07,"NM","Renal failure","Renal failure","N17-N19","All Ages",62
+2020-02-01,2020-11-07,"NM","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",24
+2020-02-01,2020-11-07,"NM","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",419
+2020-02-01,2020-11-07,"NM","COVID-19","COVID-19","U071","All Ages",905
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",5477
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",809
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",2405
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Respiratory failure","J96","All Ages",3963
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Respiratory arrest","R09.2","All Ages",380
+2020-02-01,2020-11-07,"NY","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",273
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",1707
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1235
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Cardiac arrest","I46","All Ages",3149
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",631
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Heart failure","I50","All Ages",581
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",412
+2020-02-01,2020-11-07,"NY","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",608
+2020-02-01,2020-11-07,"NY","Sepsis","Sepsis","A40-A41","All Ages",810
+2020-02-01,2020-11-07,"NY","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",547
+2020-02-01,2020-11-07,"NY","Diabetes","Diabetes","E10-E14","All Ages",1221
+2020-02-01,2020-11-07,"NY","Obesity","Obesity","E65-E68","All Ages",225
+2020-02-01,2020-11-07,"NY","Alzheimer disease","Alzheimer disease","G30","All Ages",254
+2020-02-01,2020-11-07,"NY","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",1233
+2020-02-01,2020-11-07,"NY","Renal failure","Renal failure","N17-N19","All Ages",875
+2020-02-01,2020-11-07,"NY","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",305
+2020-02-01,2020-11-07,"NY","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",5448
+2020-02-01,2020-11-07,"NY","COVID-19","COVID-19","U071","All Ages",11934
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1079
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",235
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",270
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Respiratory failure","J96","All Ages",1031
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Respiratory arrest","R09.2","All Ages",35
+2020-02-01,2020-11-07,"NC","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",120
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",318
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",242
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Cardiac arrest","I46","All Ages",256
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",179
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Heart failure","I50","All Ages",225
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",147
+2020-02-01,2020-11-07,"NC","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",157
+2020-02-01,2020-11-07,"NC","Sepsis","Sepsis","A40-A41","All Ages",294
+2020-02-01,2020-11-07,"NC","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",124
+2020-02-01,2020-11-07,"NC","Diabetes","Diabetes","E10-E14","All Ages",346
+2020-02-01,2020-11-07,"NC","Obesity","Obesity","E65-E68","All Ages",99
+2020-02-01,2020-11-07,"NC","Alzheimer disease","Alzheimer disease","G30","All Ages",93
+2020-02-01,2020-11-07,"NC","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",375
+2020-02-01,2020-11-07,"NC","Renal failure","Renal failure","N17-N19","All Ages",357
+2020-02-01,2020-11-07,"NC","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",99
+2020-02-01,2020-11-07,"NC","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1454
+2020-02-01,2020-11-07,"NC","COVID-19","COVID-19","U071","All Ages",2808
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",223
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",62
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",45
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Respiratory failure","J96","All Ages",187
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Respiratory arrest","R09.2","All Ages",13
+2020-02-01,2020-11-07,"ND","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",19
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",70
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",65
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Cardiac arrest","I46","All Ages",41
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",45
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Heart failure","I50","All Ages",62
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",28
+2020-02-01,2020-11-07,"ND","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",51
+2020-02-01,2020-11-07,"ND","Sepsis","Sepsis","A40-A41","All Ages",27
+2020-02-01,2020-11-07,"ND","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",26
+2020-02-01,2020-11-07,"ND","Diabetes","Diabetes","E10-E14","All Ages",64
+2020-02-01,2020-11-07,"ND","Obesity","Obesity","E65-E68","All Ages",21
+2020-02-01,2020-11-07,"ND","Alzheimer disease","Alzheimer disease","G30","All Ages",53
+2020-02-01,2020-11-07,"ND","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",62
+2020-02-01,2020-11-07,"ND","Renal failure","Renal failure","N17-N19","All Ages",61
+2020-02-01,2020-11-07,"ND","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",25
+2020-02-01,2020-11-07,"ND","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",375
+2020-02-01,2020-11-07,"ND","COVID-19","COVID-19","U071","All Ages",526
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",2139
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",489
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",777
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Respiratory failure","J96","All Ages",2086
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Respiratory arrest","R09.2","All Ages",83
+2020-02-01,2020-11-07,"OH","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",203
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",643
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",506
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Cardiac arrest","I46","All Ages",388
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",291
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Heart failure","I50","All Ages",380
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",288
+2020-02-01,2020-11-07,"OH","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",317
+2020-02-01,2020-11-07,"OH","Sepsis","Sepsis","A40-A41","All Ages",475
+2020-02-01,2020-11-07,"OH","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",236
+2020-02-01,2020-11-07,"OH","Diabetes","Diabetes","E10-E14","All Ages",561
+2020-02-01,2020-11-07,"OH","Obesity","Obesity","E65-E68","All Ages",79
+2020-02-01,2020-11-07,"OH","Alzheimer disease","Alzheimer disease","G30","All Ages",272
+2020-02-01,2020-11-07,"OH","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",693
+2020-02-01,2020-11-07,"OH","Renal failure","Renal failure","N17-N19","All Ages",405
+2020-02-01,2020-11-07,"OH","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",159
+2020-02-01,2020-11-07,"OH","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",2761
+2020-02-01,2020-11-07,"OH","COVID-19","COVID-19","U071","All Ages",5283
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",542
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",234
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",130
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Respiratory failure","J96","All Ages",383
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Respiratory arrest","R09.2","All Ages",21
+2020-02-01,2020-11-07,"OK","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",74
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",603
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",247
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Cardiac arrest","I46","All Ages",84
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",156
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Heart failure","I50","All Ages",172
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",111
+2020-02-01,2020-11-07,"OK","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",91
+2020-02-01,2020-11-07,"OK","Sepsis","Sepsis","A40-A41","All Ages",176
+2020-02-01,2020-11-07,"OK","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",85
+2020-02-01,2020-11-07,"OK","Diabetes","Diabetes","E10-E14","All Ages",387
+2020-02-01,2020-11-07,"OK","Obesity","Obesity","E65-E68","All Ages",109
+2020-02-01,2020-11-07,"OK","Alzheimer disease","Alzheimer disease","G30","All Ages",91
+2020-02-01,2020-11-07,"OK","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",203
+2020-02-01,2020-11-07,"OK","Renal failure","Renal failure","N17-N19","All Ages",148
+2020-02-01,2020-11-07,"OK","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",109
+2020-02-01,2020-11-07,"OK","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1046
+2020-02-01,2020-11-07,"OK","COVID-19","COVID-19","U071","All Ages",1561
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",205
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",61
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",61
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Respiratory failure","J96","All Ages",180
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Respiratory arrest","R09.2","All Ages",12
+2020-02-01,2020-11-07,"OR","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",29
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",89
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",64
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Cardiac arrest","I46","All Ages",30
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",64
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Heart failure","I50","All Ages",64
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",43
+2020-02-01,2020-11-07,"OR","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",57
+2020-02-01,2020-11-07,"OR","Sepsis","Sepsis","A40-A41","All Ages",47
+2020-02-01,2020-11-07,"OR","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",49
+2020-02-01,2020-11-07,"OR","Diabetes","Diabetes","E10-E14","All Ages",105
+2020-02-01,2020-11-07,"OR","Obesity","Obesity","E65-E68","All Ages",34
+2020-02-01,2020-11-07,"OR","Alzheimer disease","Alzheimer disease","G30","All Ages",55
+2020-02-01,2020-11-07,"OR","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",115
+2020-02-01,2020-11-07,"OR","Renal failure","Renal failure","N17-N19","All Ages",53
+2020-02-01,2020-11-07,"OR","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",24
+2020-02-01,2020-11-07,"OR","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",473
+2020-02-01,2020-11-07,"OR","COVID-19","COVID-19","U071","All Ages",639
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",3074
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",824
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",955
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Respiratory failure","J96","All Ages",3587
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",121
+2020-02-01,2020-11-07,"PA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",277
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",1742
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",1046
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Cardiac arrest","I46","All Ages",525
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",761
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Heart failure","I50","All Ages",799
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",634
+2020-02-01,2020-11-07,"PA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",640
+2020-02-01,2020-11-07,"PA","Sepsis","Sepsis","A40-A41","All Ages",684
+2020-02-01,2020-11-07,"PA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",463
+2020-02-01,2020-11-07,"PA","Diabetes","Diabetes","E10-E14","All Ages",1144
+2020-02-01,2020-11-07,"PA","Obesity","Obesity","E65-E68","All Ages",206
+2020-02-01,2020-11-07,"PA","Alzheimer disease","Alzheimer disease","G30","All Ages",389
+2020-02-01,2020-11-07,"PA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",1554
+2020-02-01,2020-11-07,"PA","Renal failure","Renal failure","N17-N19","All Ages",748
+2020-02-01,2020-11-07,"PA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",396
+2020-02-01,2020-11-07,"PA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",4955
+2020-02-01,2020-11-07,"PA","COVID-19","COVID-19","U071","All Ages",9140
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",430
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",121
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",215
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Respiratory failure","J96","All Ages",300
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Respiratory arrest","R09.2","All Ages",21
+2020-02-01,2020-11-07,"RI","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",50
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",191
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",166
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Cardiac arrest","I46","All Ages",102
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",84
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Heart failure","I50","All Ages",111
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",69
+2020-02-01,2020-11-07,"RI","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",94
+2020-02-01,2020-11-07,"RI","Sepsis","Sepsis","A40-A41","All Ages",67
+2020-02-01,2020-11-07,"RI","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",71
+2020-02-01,2020-11-07,"RI","Diabetes","Diabetes","E10-E14","All Ages",123
+2020-02-01,2020-11-07,"RI","Obesity","Obesity","E65-E68","All Ages",28
+2020-02-01,2020-11-07,"RI","Alzheimer disease","Alzheimer disease","G30","All Ages",90
+2020-02-01,2020-11-07,"RI","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",221
+2020-02-01,2020-11-07,"RI","Renal failure","Renal failure","N17-N19","All Ages",121
+2020-02-01,2020-11-07,"RI","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",81
+2020-02-01,2020-11-07,"RI","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",680
+2020-02-01,2020-11-07,"RI","COVID-19","COVID-19","U071","All Ages",1147
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1484
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",367
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",465
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Respiratory failure","J96","All Ages",1882
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Respiratory arrest","R09.2","All Ages",110
+2020-02-01,2020-11-07,"SC","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",206
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",631
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",367
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Cardiac arrest","I46","All Ages",342
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",384
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Heart failure","I50","All Ages",327
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",257
+2020-02-01,2020-11-07,"SC","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",257
+2020-02-01,2020-11-07,"SC","Sepsis","Sepsis","A40-A41","All Ages",562
+2020-02-01,2020-11-07,"SC","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",164
+2020-02-01,2020-11-07,"SC","Diabetes","Diabetes","E10-E14","All Ages",626
+2020-02-01,2020-11-07,"SC","Obesity","Obesity","E65-E68","All Ages",138
+2020-02-01,2020-11-07,"SC","Alzheimer disease","Alzheimer disease","G30","All Ages",137
+2020-02-01,2020-11-07,"SC","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",482
+2020-02-01,2020-11-07,"SC","Renal failure","Renal failure","N17-N19","All Ages",553
+2020-02-01,2020-11-07,"SC","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",251
+2020-02-01,2020-11-07,"SC","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",3730
+2020-02-01,2020-11-07,"SC","COVID-19","COVID-19","U071","All Ages",3625
+2020-02-01,2020-11-07,"SD","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",175
+2020-02-01,2020-11-07,"SD","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",69
+2020-02-01,2020-11-07,"SD","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",60
+2020-02-01,2020-11-07,"SD","Respiratory diseases","Respiratory failure","J96","All Ages",194
+2020-02-01,2020-11-07,"SD","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",28
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",105
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",55
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Cardiac arrest","I46","All Ages",26
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",46
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Heart failure","I50","All Ages",63
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",28
+2020-02-01,2020-11-07,"SD","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",43
+2020-02-01,2020-11-07,"SD","Sepsis","Sepsis","A40-A41","All Ages",30
+2020-02-01,2020-11-07,"SD","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",30
+2020-02-01,2020-11-07,"SD","Diabetes","Diabetes","E10-E14","All Ages",96
+2020-02-01,2020-11-07,"SD","Obesity","Obesity","E65-E68","All Ages",20
+2020-02-01,2020-11-07,"SD","Alzheimer disease","Alzheimer disease","G30","All Ages",37
+2020-02-01,2020-11-07,"SD","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",53
+2020-02-01,2020-11-07,"SD","Renal failure","Renal failure","N17-N19","All Ages",57
+2020-02-01,2020-11-07,"SD","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",19
+2020-02-01,2020-11-07,"SD","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",404
+2020-02-01,2020-11-07,"SD","COVID-19","COVID-19","U071","All Ages",446
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1584
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",315
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",310
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Respiratory failure","J96","All Ages",1345
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Respiratory arrest","R09.2","All Ages",33
+2020-02-01,2020-11-07,"TN","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",161
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",526
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",398
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Cardiac arrest","I46","All Ages",231
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",224
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Heart failure","I50","All Ages",211
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",212
+2020-02-01,2020-11-07,"TN","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",241
+2020-02-01,2020-11-07,"TN","Sepsis","Sepsis","A40-A41","All Ages",406
+2020-02-01,2020-11-07,"TN","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",168
+2020-02-01,2020-11-07,"TN","Diabetes","Diabetes","E10-E14","All Ages",463
+2020-02-01,2020-11-07,"TN","Obesity","Obesity","E65-E68","All Ages",116
+2020-02-01,2020-11-07,"TN","Alzheimer disease","Alzheimer disease","G30","All Ages",111
+2020-02-01,2020-11-07,"TN","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",318
+2020-02-01,2020-11-07,"TN","Renal failure","Renal failure","N17-N19","All Ages",337
+2020-02-01,2020-11-07,"TN","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",159
+2020-02-01,2020-11-07,"TN","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",2044
+2020-02-01,2020-11-07,"TN","COVID-19","COVID-19","U071","All Ages",3331
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",9380
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1313
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",1728
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Respiratory failure","J96","All Ages",6602
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Respiratory arrest","R09.2","All Ages",201
+2020-02-01,2020-11-07,"TX","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",865
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",4032
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",2043
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Cardiac arrest","I46","All Ages",1212
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",1397
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Heart failure","I50","All Ages",1285
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",871
+2020-02-01,2020-11-07,"TX","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",1130
+2020-02-01,2020-11-07,"TX","Sepsis","Sepsis","A40-A41","All Ages",2690
+2020-02-01,2020-11-07,"TX","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",763
+2020-02-01,2020-11-07,"TX","Diabetes","Diabetes","E10-E14","All Ages",3997
+2020-02-01,2020-11-07,"TX","Obesity","Obesity","E65-E68","All Ages",1204
+2020-02-01,2020-11-07,"TX","Alzheimer disease","Alzheimer disease","G30","All Ages",664
+2020-02-01,2020-11-07,"TX","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",1370
+2020-02-01,2020-11-07,"TX","Renal failure","Renal failure","N17-N19","All Ages",2754
+2020-02-01,2020-11-07,"TX","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",710
+2020-02-01,2020-11-07,"TX","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",11496
+2020-02-01,2020-11-07,"TX","COVID-19","COVID-19","U071","All Ages",18702
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",243
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",45
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",123
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Respiratory failure","J96","All Ages",237
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Respiratory arrest","R09.2","All Ages",12
+2020-02-01,2020-11-07,"UT","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",42
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",85
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",62
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Cardiac arrest","I46","All Ages",60
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",34
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Heart failure","I50","All Ages",61
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",39
+2020-02-01,2020-11-07,"UT","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",47
+2020-02-01,2020-11-07,"UT","Sepsis","Sepsis","A40-A41","All Ages",68
+2020-02-01,2020-11-07,"UT","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",34
+2020-02-01,2020-11-07,"UT","Diabetes","Diabetes","E10-E14","All Ages",98
+2020-02-01,2020-11-07,"UT","Obesity","Obesity","E65-E68","All Ages",48
+2020-02-01,2020-11-07,"UT","Alzheimer disease","Alzheimer disease","G30","All Ages",34
+2020-02-01,2020-11-07,"UT","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",79
+2020-02-01,2020-11-07,"UT","Renal failure","Renal failure","N17-N19","All Ages",60
+2020-02-01,2020-11-07,"UT","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",50
+2020-02-01,2020-11-07,"UT","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",411
+2020-02-01,2020-11-07,"UT","COVID-19","COVID-19","U071","All Ages",625
+2020-02-01,2020-11-07,"VT","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",13
+2020-02-01,2020-11-07,"VT","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",11
+2020-02-01,2020-11-07,"VT","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",11
+2020-02-01,2020-11-07,"VT","Respiratory diseases","Respiratory failure","J96","All Ages",15
+2020-02-01,2020-11-07,"VT","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",18
+2020-02-01,2020-11-07,"VT","Diabetes","Diabetes","E10-E14","All Ages",17
+2020-02-01,2020-11-07,"VT","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",14
+2020-02-01,2020-11-07,"VT","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",60
+2020-02-01,2020-11-07,"VT","COVID-19","COVID-19","U071","All Ages",62
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1298
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",246
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",334
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Respiratory failure","J96","All Ages",987
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",22
+2020-02-01,2020-11-07,"VA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",134
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",388
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",304
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Cardiac arrest","I46","All Ages",144
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",210
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Heart failure","I50","All Ages",263
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",189
+2020-02-01,2020-11-07,"VA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",184
+2020-02-01,2020-11-07,"VA","Sepsis","Sepsis","A40-A41","All Ages",357
+2020-02-01,2020-11-07,"VA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",163
+2020-02-01,2020-11-07,"VA","Diabetes","Diabetes","E10-E14","All Ages",353
+2020-02-01,2020-11-07,"VA","Obesity","Obesity","E65-E68","All Ages",62
+2020-02-01,2020-11-07,"VA","Alzheimer disease","Alzheimer disease","G30","All Ages",117
+2020-02-01,2020-11-07,"VA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",469
+2020-02-01,2020-11-07,"VA","Renal failure","Renal failure","N17-N19","All Ages",352
+2020-02-01,2020-11-07,"VA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",98
+2020-02-01,2020-11-07,"VA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1862
+2020-02-01,2020-11-07,"VA","COVID-19","COVID-19","U071","All Ages",3654
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",1058
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",246
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",396
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Respiratory failure","J96","All Ages",963
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Respiratory arrest","R09.2","All Ages",48
+2020-02-01,2020-11-07,"WA","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",151
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",356
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",246
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Cardiac arrest","I46","All Ages",165
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",192
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Heart failure","I50","All Ages",235
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",156
+2020-02-01,2020-11-07,"WA","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",188
+2020-02-01,2020-11-07,"WA","Sepsis","Sepsis","A40-A41","All Ages",228
+2020-02-01,2020-11-07,"WA","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",135
+2020-02-01,2020-11-07,"WA","Diabetes","Diabetes","E10-E14","All Ages",374
+2020-02-01,2020-11-07,"WA","Obesity","Obesity","E65-E68","All Ages",100
+2020-02-01,2020-11-07,"WA","Alzheimer disease","Alzheimer disease","G30","All Ages",197
+2020-02-01,2020-11-07,"WA","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",249
+2020-02-01,2020-11-07,"WA","Renal failure","Renal failure","N17-N19","All Ages",245
+2020-02-01,2020-11-07,"WA","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",111
+2020-02-01,2020-11-07,"WA","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1921
+2020-02-01,2020-11-07,"WA","COVID-19","COVID-19","U071","All Ages",2168
+2020-02-01,2020-11-07,"WV","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",147
+2020-02-01,2020-11-07,"WV","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",43
+2020-02-01,2020-11-07,"WV","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",37
+2020-02-01,2020-11-07,"WV","Respiratory diseases","Respiratory failure","J96","All Ages",137
+2020-02-01,2020-11-07,"WV","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",27
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",71
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",57
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",29
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Heart failure","I50","All Ages",36
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",29
+2020-02-01,2020-11-07,"WV","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",19
+2020-02-01,2020-11-07,"WV","Sepsis","Sepsis","A40-A41","All Ages",67
+2020-02-01,2020-11-07,"WV","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",18
+2020-02-01,2020-11-07,"WV","Diabetes","Diabetes","E10-E14","All Ages",55
+2020-02-01,2020-11-07,"WV","Alzheimer disease","Alzheimer disease","G30","All Ages",30
+2020-02-01,2020-11-07,"WV","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",59
+2020-02-01,2020-11-07,"WV","Renal failure","Renal failure","N17-N19","All Ages",49
+2020-02-01,2020-11-07,"WV","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",16
+2020-02-01,2020-11-07,"WV","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",229
+2020-02-01,2020-11-07,"WV","COVID-19","COVID-19","U071","All Ages",406
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",493
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",307
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",109
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Respiratory failure","J96","All Ages",449
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Respiratory arrest","R09.2","All Ages",18
+2020-02-01,2020-11-07,"WI","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",82
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",645
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",421
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Cardiac arrest","I46","All Ages",42
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",171
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Heart failure","I50","All Ages",293
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",143
+2020-02-01,2020-11-07,"WI","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",199
+2020-02-01,2020-11-07,"WI","Sepsis","Sepsis","A40-A41","All Ages",80
+2020-02-01,2020-11-07,"WI","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",165
+2020-02-01,2020-11-07,"WI","Diabetes","Diabetes","E10-E14","All Ages",500
+2020-02-01,2020-11-07,"WI","Obesity","Obesity","E65-E68","All Ages",206
+2020-02-01,2020-11-07,"WI","Alzheimer disease","Alzheimer disease","G30","All Ages",110
+2020-02-01,2020-11-07,"WI","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",313
+2020-02-01,2020-11-07,"WI","Renal failure","Renal failure","N17-N19","All Ages",173
+2020-02-01,2020-11-07,"WI","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",104
+2020-02-01,2020-11-07,"WI","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",1290
+2020-02-01,2020-11-07,"WI","COVID-19","COVID-19","U071","All Ages",2034
+2020-02-01,2020-11-07,"WY","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",24
+2020-02-01,2020-11-07,"WY","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",10
+2020-02-01,2020-11-07,"WY","Respiratory diseases","Respiratory failure","J96","All Ages",20
+2020-02-01,2020-11-07,"WY","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",16
+2020-02-01,2020-11-07,"WY","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",14
+2020-02-01,2020-11-07,"WY","Diabetes","Diabetes","E10-E14","All Ages",13
+2020-02-01,2020-11-07,"WY","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",81
+2020-02-01,2020-11-07,"WY","COVID-19","COVID-19","U071","All Ages",74
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",8639
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",1033
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",3248
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Respiratory failure","J96","All Ages",5984
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Respiratory arrest","R09.2","All Ages",469
+2020-02-01,2020-11-07,"YC","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",441
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",4792
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",2030
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Cardiac arrest","I46","All Ages",4300
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",550
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Heart failure","I50","All Ages",653
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",521
+2020-02-01,2020-11-07,"YC","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",635
+2020-02-01,2020-11-07,"YC","Sepsis","Sepsis","A40-A41","All Ages",744
+2020-02-01,2020-11-07,"YC","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",846
+2020-02-01,2020-11-07,"YC","Diabetes","Diabetes","E10-E14","All Ages",2960
+2020-02-01,2020-11-07,"YC","Obesity","Obesity","E65-E68","All Ages",429
+2020-02-01,2020-11-07,"YC","Alzheimer disease","Alzheimer disease","G30","All Ages",233
+2020-02-01,2020-11-07,"YC","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",934
+2020-02-01,2020-11-07,"YC","Renal failure","Renal failure","N17-N19","All Ages",735
+2020-02-01,2020-11-07,"YC","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",219
+2020-02-01,2020-11-07,"YC","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",5360
+2020-02-01,2020-11-07,"YC","COVID-19","COVID-19","U071","All Ages",20949
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Influenza and pneumonia","J09-J18","All Ages",486
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Chronic lower respiratory diseases","J40-J47","All Ages",52
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Adult respiratory distress syndrome","J80","All Ages",67
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Respiratory failure","J96","All Ages",283
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Respiratory arrest","R09.2","All Ages",27
+2020-02-01,2020-11-07,"PR","Respiratory diseases","Other diseases of the respiratory system","J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04","All Ages",82
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Hypertensive diseases","I10-I15","All Ages",99
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Ischemic heart disease","I20-I25","All Ages",58
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Cardiac arrest","I46","All Ages",98
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Cardiac arrhythmia","I44, I45, I47-I49","All Ages",27
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Heart failure","I50","All Ages",57
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Cerebrovascular diseases","I60-I69","All Ages",28
+2020-02-01,2020-11-07,"PR","Circulatory diseases","Other diseases of the circulatory system","I00-I09, I26-I43, I51, I52, I70-I99","All Ages",28
+2020-02-01,2020-11-07,"PR","Sepsis","Sepsis","A40-A41","All Ages",195
+2020-02-01,2020-11-07,"PR","Malignant neoplasms","Malignant neoplasms","C00-C97","All Ages",49
+2020-02-01,2020-11-07,"PR","Diabetes","Diabetes","E10-E14","All Ages",103
+2020-02-01,2020-11-07,"PR","Obesity","Obesity","E65-E68","All Ages",26
+2020-02-01,2020-11-07,"PR","Alzheimer disease","Alzheimer disease","G30","All Ages",22
+2020-02-01,2020-11-07,"PR","Vascular and unspecified dementia","Vascular and unspecified dementia","F01, F03","All Ages",21
+2020-02-01,2020-11-07,"PR","Renal failure","Renal failure","N17-N19","All Ages",107
+2020-02-01,2020-11-07,"PR","Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03","All Ages",40
+2020-02-01,2020-11-07,"PR","All other conditions and causes (residual)","All other conditions and causes (residual)","A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99","All Ages",451
+2020-02-01,2020-11-07,"PR","COVID-19","COVID-19","U071","All Ages",773
