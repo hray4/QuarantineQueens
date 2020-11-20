@@ -1,7 +1,7 @@
 Age.Group,Condition,Total.Deaths
 <18 years,C19+Chronic.Lower.Resp.Disease,8
 <18 years,C19+Diabetes,4
-<18 years,C19+Hypertensive.Disease,0
+<18 years,C19+Hypertensive.Diseases,0
 <18 years,C19+Hypertensive+MCVD,26
 <18 years,C19+Kidney.Disease,2
 <18 years,C19+MCVD,26
@@ -9,7 +9,7 @@ Age.Group,Condition,Total.Deaths
 <18 years,COVID-19,104
 18-29 years,C19+Chronic.Lower.Resp.Disease,52
 18-29 years,C19+Diabetes,117
-18-29 years,C19+Hypertensive.Disease,61
+18-29 years,C19+Hypertensive.Diseases,61
 18-29 years,C19+Hypertensive+MCVD,277
 18-29 years,C19+Kidney.Disease,72
 18-29 years,C19+MCVD,277
@@ -17,7 +17,7 @@ Age.Group,Condition,Total.Deaths
 18-29 years,COVID-19,912
 30-39 years,C19+Chronic.Lower.Resp.Disease,115
 30-39 years,C19+Diabetes,394
-30-39 years,C19+Hypertensive.Disease,282
+30-39 years,C19+Hypertensive.Diseases,282
 30-39 years,C19+Hypertensive+MCVD,890
 30-39 years,C19+Kidney.Disease,243
 30-39 years,C19+MCVD,890
@@ -25,7 +25,7 @@ Age.Group,Condition,Total.Deaths
 30-39 years,COVID-19,2567
 40-49 years,C19+Chronic.Lower.Resp.Disease,274
 40-49 years,C19+Diabetes,1383
-40-49 years,C19+Hypertensive.Disease,1086
+40-49 years,C19+Hypertensive.Diseases,1086
 40-49 years,C19+Hypertensive+MCVD,2511
 40-49 years,C19+Kidney.Disease,661
 40-49 years,C19+MCVD,2511
@@ -33,7 +33,7 @@ Age.Group,Condition,Total.Deaths
 40-49 years,COVID-19,6676
 50-59 years,C19+Chronic.Lower.Resp.Disease,907
 50-59 years,C19+Diabetes,3592
-50-59 years,C19+Hypertensive.Disease,3260
+50-59 years,C19+Hypertensive.Diseases,3260
 50-59 years,C19+Hypertensive+MCVD,7162
 50-59 years,C19+Kidney.Disease,1783
 50-59 years,C19+MCVD,7162
@@ -41,7 +41,7 @@ Age.Group,Condition,Total.Deaths
 50-59 years,COVID-19,16847
 60-69 years,C19+Chronic.Lower.Resp.Disease,2940
 60-69 years,C19+Diabetes,7284
-60-69 years,C19+Hypertensive.Disease,7403
+60-69 years,C19+Hypertensive.Diseases,7403
 60-69 years,C19+Hypertensive+MCVD,15535
 60-69 years,C19+Kidney.Disease,3753
 60-69 years,C19+MCVD,15535
@@ -49,7 +49,7 @@ Age.Group,Condition,Total.Deaths
 60-69 years,COVID-19,34457
 70-79 years,C19+Chronic.Lower.Resp.Disease,4975
 70-79 years,C19+Diabetes,9331
-70-79 years,C19+Hypertensive.Disease,10995
+70-79 years,C19+Hypertensive.Diseases,10995
 70-79 years,C19+Hypertensive+MCVD,23227
 70-79 years,C19+Kidney.Disease,4775
 70-79 years,C19+MCVD,23227
@@ -57,7 +57,7 @@ Age.Group,Condition,Total.Deaths
 70-79 years,COVID-19,49190
 80+ years,C19+Chronic.Lower.Resp.Disease,7559
 80+ years,C19+Diabetes,10574
-80+ years,C19+Hypertensive.Disease,19866
+80+ years,C19+Hypertensive.Diseases,19866
 80+ years,C19+Hypertensive+MCVD,42250
 80+ years,C19+Kidney.Disease,6157
 80+ years,C19+MCVD,42250

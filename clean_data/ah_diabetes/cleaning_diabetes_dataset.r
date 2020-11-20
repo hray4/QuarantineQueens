@@ -37,7 +37,7 @@ col_names <- c(
     'Diabetes.Underlying.Cause',  # Deaths with diabetes (E10–E14) as underlying cause
     'Diabetes.Under.Contrib.Cause',  # Deaths with diabetes (E10–E14) as underlying or contributing cause
     'C19+Diabetes', # Deaths with COVID-19 (U071) and diabetes (E10–E14)
-    'C19+Hypertensive.Disease', # Deaths with COVID-19 (U071) and hypertensive disease (I10–I15)
+    'C19+Hypertensive.Diseases', # Deaths with COVID-19 (U071) and hypertensive disease (I10–I15)
     'C19+MCVD',  # Deaths with COVID-19 (U071) and major cardiovascular diseases (I00–I78)
     'C19+Hypertensive+MCVD',  # Deaths with COVID-19 (U071), hypertensive disease (I10–I15), and major cardiovascular diseases (I00–I78)
     'C19+Chronic.Lower.Resp.Disease', # Deaths with COVID-19 (U071) and chronic lower respiratory disease (J40–J47)
@@ -72,7 +72,7 @@ wide.deaths <- cond_types_fixed %>%
            # Diabetes.Underlying.Cause",
            # Diabetes.Under.Contrib.Cause",
            "C19+Diabetes",
-           "C19+Hypertensive.Disease",
+           "C19+Hypertensive.Diseases",
            "C19+MCVD",
            "C19+Hypertensive+MCVD",
            "C19+Chronic.Lower.Resp.Disease",

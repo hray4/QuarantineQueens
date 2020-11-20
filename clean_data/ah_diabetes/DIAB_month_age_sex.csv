@@ -1,7 +1,7 @@
 Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,<18 years,Female (F),C19+Diabetes,0
-1,<18 years,Female (F),C19+Hypertensive.Disease,0
+1,<18 years,Female (F),C19+Hypertensive.Diseases,0
 1,<18 years,Female (F),C19+Hypertensive+MCVD,0
 1,<18 years,Female (F),C19+Kidney.Disease,0
 1,<18 years,Female (F),C19+MCVD,0
@@ -9,7 +9,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,<18 years,Female (F),COVID-19,0
 1,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,<18 years,Male (M),C19+Diabetes,0
-1,<18 years,Male (M),C19+Hypertensive.Disease,0
+1,<18 years,Male (M),C19+Hypertensive.Diseases,0
 1,<18 years,Male (M),C19+Hypertensive+MCVD,0
 1,<18 years,Male (M),C19+Kidney.Disease,0
 1,<18 years,Male (M),C19+MCVD,0
@@ -17,7 +17,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,<18 years,Male (M),COVID-19,0
 1,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,18-29 years,Female (F),C19+Diabetes,0
-1,18-29 years,Female (F),C19+Hypertensive.Disease,0
+1,18-29 years,Female (F),C19+Hypertensive.Diseases,0
 1,18-29 years,Female (F),C19+Hypertensive+MCVD,0
 1,18-29 years,Female (F),C19+Kidney.Disease,0
 1,18-29 years,Female (F),C19+MCVD,0
@@ -25,7 +25,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,18-29 years,Female (F),COVID-19,0
 1,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,18-29 years,Male (M),C19+Diabetes,0
-1,18-29 years,Male (M),C19+Hypertensive.Disease,0
+1,18-29 years,Male (M),C19+Hypertensive.Diseases,0
 1,18-29 years,Male (M),C19+Hypertensive+MCVD,0
 1,18-29 years,Male (M),C19+Kidney.Disease,0
 1,18-29 years,Male (M),C19+MCVD,0
@@ -33,7 +33,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,18-29 years,Male (M),COVID-19,0
 1,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,30-39 years,Female (F),C19+Diabetes,0
-1,30-39 years,Female (F),C19+Hypertensive.Disease,0
+1,30-39 years,Female (F),C19+Hypertensive.Diseases,0
 1,30-39 years,Female (F),C19+Hypertensive+MCVD,0
 1,30-39 years,Female (F),C19+Kidney.Disease,0
 1,30-39 years,Female (F),C19+MCVD,0
@@ -41,7 +41,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,30-39 years,Female (F),COVID-19,0
 1,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,30-39 years,Male (M),C19+Diabetes,0
-1,30-39 years,Male (M),C19+Hypertensive.Disease,0
+1,30-39 years,Male (M),C19+Hypertensive.Diseases,0
 1,30-39 years,Male (M),C19+Hypertensive+MCVD,0
 1,30-39 years,Male (M),C19+Kidney.Disease,0
 1,30-39 years,Male (M),C19+MCVD,0
@@ -49,7 +49,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,30-39 years,Male (M),COVID-19,0
 1,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,40-49 years,Female (F),C19+Diabetes,0
-1,40-49 years,Female (F),C19+Hypertensive.Disease,0
+1,40-49 years,Female (F),C19+Hypertensive.Diseases,0
 1,40-49 years,Female (F),C19+Hypertensive+MCVD,0
 1,40-49 years,Female (F),C19+Kidney.Disease,0
 1,40-49 years,Female (F),C19+MCVD,0
@@ -57,7 +57,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,40-49 years,Female (F),COVID-19,0
 1,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,40-49 years,Male (M),C19+Diabetes,0
-1,40-49 years,Male (M),C19+Hypertensive.Disease,0
+1,40-49 years,Male (M),C19+Hypertensive.Diseases,0
 1,40-49 years,Male (M),C19+Hypertensive+MCVD,0
 1,40-49 years,Male (M),C19+Kidney.Disease,0
 1,40-49 years,Male (M),C19+MCVD,0
@@ -65,7 +65,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,40-49 years,Male (M),COVID-19,0
 1,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,50-59 years,Female (F),C19+Diabetes,0
-1,50-59 years,Female (F),C19+Hypertensive.Disease,0
+1,50-59 years,Female (F),C19+Hypertensive.Diseases,0
 1,50-59 years,Female (F),C19+Hypertensive+MCVD,0
 1,50-59 years,Female (F),C19+Kidney.Disease,0
 1,50-59 years,Female (F),C19+MCVD,0
@@ -73,7 +73,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,50-59 years,Female (F),COVID-19,1
 1,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,50-59 years,Male (M),C19+Diabetes,0
-1,50-59 years,Male (M),C19+Hypertensive.Disease,0
+1,50-59 years,Male (M),C19+Hypertensive.Diseases,0
 1,50-59 years,Male (M),C19+Hypertensive+MCVD,0
 1,50-59 years,Male (M),C19+Kidney.Disease,0
 1,50-59 years,Male (M),C19+MCVD,0
@@ -81,7 +81,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,50-59 years,Male (M),COVID-19,0
 1,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,60-69 years,Female (F),C19+Diabetes,0
-1,60-69 years,Female (F),C19+Hypertensive.Disease,0
+1,60-69 years,Female (F),C19+Hypertensive.Diseases,0
 1,60-69 years,Female (F),C19+Hypertensive+MCVD,0
 1,60-69 years,Female (F),C19+Kidney.Disease,0
 1,60-69 years,Female (F),C19+MCVD,0
@@ -89,7 +89,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,60-69 years,Female (F),COVID-19,0
 1,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,60-69 years,Male (M),C19+Diabetes,0
-1,60-69 years,Male (M),C19+Hypertensive.Disease,0
+1,60-69 years,Male (M),C19+Hypertensive.Diseases,0
 1,60-69 years,Male (M),C19+Hypertensive+MCVD,0
 1,60-69 years,Male (M),C19+Kidney.Disease,0
 1,60-69 years,Male (M),C19+MCVD,0
@@ -97,7 +97,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,60-69 years,Male (M),COVID-19,1
 1,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 1,70-79 years,Female (F),C19+Diabetes,0
-1,70-79 years,Female (F),C19+Hypertensive.Disease,0
+1,70-79 years,Female (F),C19+Hypertensive.Diseases,0
 1,70-79 years,Female (F),C19+Hypertensive+MCVD,1
 1,70-79 years,Female (F),C19+Kidney.Disease,0
 1,70-79 years,Female (F),C19+MCVD,1
@@ -105,7 +105,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,70-79 years,Female (F),COVID-19,2
 1,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 1,70-79 years,Male (M),C19+Diabetes,0
-1,70-79 years,Male (M),C19+Hypertensive.Disease,0
+1,70-79 years,Male (M),C19+Hypertensive.Diseases,0
 1,70-79 years,Male (M),C19+Hypertensive+MCVD,0
 1,70-79 years,Male (M),C19+Kidney.Disease,0
 1,70-79 years,Male (M),C19+MCVD,0
@@ -113,7 +113,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,70-79 years,Male (M),COVID-19,0
 1,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,1
 1,80+ years,Female (F),C19+Diabetes,0
-1,80+ years,Female (F),C19+Hypertensive.Disease,0
+1,80+ years,Female (F),C19+Hypertensive.Diseases,0
 1,80+ years,Female (F),C19+Hypertensive+MCVD,0
 1,80+ years,Female (F),C19+Kidney.Disease,0
 1,80+ years,Female (F),C19+MCVD,0
@@ -121,7 +121,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,80+ years,Female (F),COVID-19,2
 1,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,1
 1,80+ years,Male (M),C19+Diabetes,0
-1,80+ years,Male (M),C19+Hypertensive.Disease,1
+1,80+ years,Male (M),C19+Hypertensive.Diseases,1
 1,80+ years,Male (M),C19+Hypertensive+MCVD,1
 1,80+ years,Male (M),C19+Kidney.Disease,0
 1,80+ years,Male (M),C19+MCVD,1
@@ -129,7 +129,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 1,80+ years,Male (M),COVID-19,1
 2,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,<18 years,Female (F),C19+Diabetes,0
-2,<18 years,Female (F),C19+Hypertensive.Disease,0
+2,<18 years,Female (F),C19+Hypertensive.Diseases,0
 2,<18 years,Female (F),C19+Hypertensive+MCVD,0
 2,<18 years,Female (F),C19+Kidney.Disease,0
 2,<18 years,Female (F),C19+MCVD,0
@@ -137,7 +137,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,<18 years,Female (F),COVID-19,0
 2,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,<18 years,Male (M),C19+Diabetes,0
-2,<18 years,Male (M),C19+Hypertensive.Disease,0
+2,<18 years,Male (M),C19+Hypertensive.Diseases,0
 2,<18 years,Male (M),C19+Hypertensive+MCVD,0
 2,<18 years,Male (M),C19+Kidney.Disease,0
 2,<18 years,Male (M),C19+MCVD,0
@@ -145,7 +145,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,<18 years,Male (M),COVID-19,0
 2,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,18-29 years,Female (F),C19+Diabetes,0
-2,18-29 years,Female (F),C19+Hypertensive.Disease,0
+2,18-29 years,Female (F),C19+Hypertensive.Diseases,0
 2,18-29 years,Female (F),C19+Hypertensive+MCVD,0
 2,18-29 years,Female (F),C19+Kidney.Disease,0
 2,18-29 years,Female (F),C19+MCVD,0
@@ -153,7 +153,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,18-29 years,Female (F),COVID-19,0
 2,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,18-29 years,Male (M),C19+Diabetes,0
-2,18-29 years,Male (M),C19+Hypertensive.Disease,0
+2,18-29 years,Male (M),C19+Hypertensive.Diseases,0
 2,18-29 years,Male (M),C19+Hypertensive+MCVD,0
 2,18-29 years,Male (M),C19+Kidney.Disease,0
 2,18-29 years,Male (M),C19+MCVD,0
@@ -161,7 +161,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,18-29 years,Male (M),COVID-19,0
 2,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,30-39 years,Female (F),C19+Diabetes,1
-2,30-39 years,Female (F),C19+Hypertensive.Disease,1
+2,30-39 years,Female (F),C19+Hypertensive.Diseases,1
 2,30-39 years,Female (F),C19+Hypertensive+MCVD,1
 2,30-39 years,Female (F),C19+Kidney.Disease,0
 2,30-39 years,Female (F),C19+MCVD,1
@@ -169,7 +169,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,30-39 years,Female (F),COVID-19,2
 2,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,30-39 years,Male (M),C19+Diabetes,0
-2,30-39 years,Male (M),C19+Hypertensive.Disease,0
+2,30-39 years,Male (M),C19+Hypertensive.Diseases,0
 2,30-39 years,Male (M),C19+Hypertensive+MCVD,0
 2,30-39 years,Male (M),C19+Kidney.Disease,0
 2,30-39 years,Male (M),C19+MCVD,0
@@ -177,7 +177,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,30-39 years,Male (M),COVID-19,0
 2,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,40-49 years,Female (F),C19+Diabetes,0
-2,40-49 years,Female (F),C19+Hypertensive.Disease,0
+2,40-49 years,Female (F),C19+Hypertensive.Diseases,0
 2,40-49 years,Female (F),C19+Hypertensive+MCVD,0
 2,40-49 years,Female (F),C19+Kidney.Disease,0
 2,40-49 years,Female (F),C19+MCVD,0
@@ -185,7 +185,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,40-49 years,Female (F),COVID-19,0
 2,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,40-49 years,Male (M),C19+Diabetes,0
-2,40-49 years,Male (M),C19+Hypertensive.Disease,0
+2,40-49 years,Male (M),C19+Hypertensive.Diseases,0
 2,40-49 years,Male (M),C19+Hypertensive+MCVD,0
 2,40-49 years,Male (M),C19+Kidney.Disease,0
 2,40-49 years,Male (M),C19+MCVD,0
@@ -193,7 +193,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,40-49 years,Male (M),COVID-19,0
 2,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,50-59 years,Female (F),C19+Diabetes,0
-2,50-59 years,Female (F),C19+Hypertensive.Disease,0
+2,50-59 years,Female (F),C19+Hypertensive.Diseases,0
 2,50-59 years,Female (F),C19+Hypertensive+MCVD,1
 2,50-59 years,Female (F),C19+Kidney.Disease,0
 2,50-59 years,Female (F),C19+MCVD,1
@@ -201,7 +201,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,50-59 years,Female (F),COVID-19,1
 2,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,50-59 years,Male (M),C19+Diabetes,1
-2,50-59 years,Male (M),C19+Hypertensive.Disease,1
+2,50-59 years,Male (M),C19+Hypertensive.Diseases,1
 2,50-59 years,Male (M),C19+Hypertensive+MCVD,2
 2,50-59 years,Male (M),C19+Kidney.Disease,0
 2,50-59 years,Male (M),C19+MCVD,2
@@ -209,7 +209,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,50-59 years,Male (M),COVID-19,4
 2,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,60-69 years,Female (F),C19+Diabetes,0
-2,60-69 years,Female (F),C19+Hypertensive.Disease,0
+2,60-69 years,Female (F),C19+Hypertensive.Diseases,0
 2,60-69 years,Female (F),C19+Hypertensive+MCVD,0
 2,60-69 years,Female (F),C19+Kidney.Disease,0
 2,60-69 years,Female (F),C19+MCVD,0
@@ -217,7 +217,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,60-69 years,Female (F),COVID-19,2
 2,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,60-69 years,Male (M),C19+Diabetes,1
-2,60-69 years,Male (M),C19+Hypertensive.Disease,1
+2,60-69 years,Male (M),C19+Hypertensive.Diseases,1
 2,60-69 years,Male (M),C19+Hypertensive+MCVD,1
 2,60-69 years,Male (M),C19+Kidney.Disease,0
 2,60-69 years,Male (M),C19+MCVD,1
@@ -225,7 +225,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,60-69 years,Male (M),COVID-19,1
 2,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,70-79 years,Female (F),C19+Diabetes,1
-2,70-79 years,Female (F),C19+Hypertensive.Disease,0
+2,70-79 years,Female (F),C19+Hypertensive.Diseases,0
 2,70-79 years,Female (F),C19+Hypertensive+MCVD,1
 2,70-79 years,Female (F),C19+Kidney.Disease,0
 2,70-79 years,Female (F),C19+MCVD,1
@@ -233,7 +233,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,70-79 years,Female (F),COVID-19,1
 2,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 2,70-79 years,Male (M),C19+Diabetes,0
-2,70-79 years,Male (M),C19+Hypertensive.Disease,0
+2,70-79 years,Male (M),C19+Hypertensive.Diseases,0
 2,70-79 years,Male (M),C19+Hypertensive+MCVD,0
 2,70-79 years,Male (M),C19+Kidney.Disease,0
 2,70-79 years,Male (M),C19+MCVD,0
@@ -241,7 +241,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,70-79 years,Male (M),COVID-19,1
 2,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 2,80+ years,Female (F),C19+Diabetes,0
-2,80+ years,Female (F),C19+Hypertensive.Disease,1
+2,80+ years,Female (F),C19+Hypertensive.Diseases,1
 2,80+ years,Female (F),C19+Hypertensive+MCVD,1
 2,80+ years,Female (F),C19+Kidney.Disease,0
 2,80+ years,Female (F),C19+MCVD,1
@@ -249,7 +249,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,80+ years,Female (F),COVID-19,3
 2,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,1
 2,80+ years,Male (M),C19+Diabetes,0
-2,80+ years,Male (M),C19+Hypertensive.Disease,1
+2,80+ years,Male (M),C19+Hypertensive.Diseases,1
 2,80+ years,Male (M),C19+Hypertensive+MCVD,1
 2,80+ years,Male (M),C19+Kidney.Disease,0
 2,80+ years,Male (M),C19+MCVD,1
@@ -257,7 +257,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 2,80+ years,Male (M),COVID-19,1
 3,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 3,<18 years,Female (F),C19+Diabetes,0
-3,<18 years,Female (F),C19+Hypertensive.Disease,0
+3,<18 years,Female (F),C19+Hypertensive.Diseases,0
 3,<18 years,Female (F),C19+Hypertensive+MCVD,0
 3,<18 years,Female (F),C19+Kidney.Disease,0
 3,<18 years,Female (F),C19+MCVD,0
@@ -265,7 +265,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,<18 years,Female (F),COVID-19,1
 3,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,1
 3,<18 years,Male (M),C19+Diabetes,0
-3,<18 years,Male (M),C19+Hypertensive.Disease,0
+3,<18 years,Male (M),C19+Hypertensive.Diseases,0
 3,<18 years,Male (M),C19+Hypertensive+MCVD,2
 3,<18 years,Male (M),C19+Kidney.Disease,0
 3,<18 years,Male (M),C19+MCVD,2
@@ -273,7 +273,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,<18 years,Male (M),COVID-19,6
 3,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 3,18-29 years,Female (F),C19+Diabetes,3
-3,18-29 years,Female (F),C19+Hypertensive.Disease,1
+3,18-29 years,Female (F),C19+Hypertensive.Diseases,1
 3,18-29 years,Female (F),C19+Hypertensive+MCVD,3
 3,18-29 years,Female (F),C19+Kidney.Disease,1
 3,18-29 years,Female (F),C19+MCVD,3
@@ -281,7 +281,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,18-29 years,Female (F),COVID-19,11
 3,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,2
 3,18-29 years,Male (M),C19+Diabetes,6
-3,18-29 years,Male (M),C19+Hypertensive.Disease,1
+3,18-29 years,Male (M),C19+Hypertensive.Diseases,1
 3,18-29 years,Male (M),C19+Hypertensive+MCVD,12
 3,18-29 years,Male (M),C19+Kidney.Disease,2
 3,18-29 years,Male (M),C19+MCVD,12
@@ -289,7 +289,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,18-29 years,Male (M),COVID-19,35
 3,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,4
 3,30-39 years,Female (F),C19+Diabetes,3
-3,30-39 years,Female (F),C19+Hypertensive.Disease,6
+3,30-39 years,Female (F),C19+Hypertensive.Diseases,6
 3,30-39 years,Female (F),C19+Hypertensive+MCVD,20
 3,30-39 years,Female (F),C19+Kidney.Disease,6
 3,30-39 years,Female (F),C19+MCVD,20
@@ -297,7 +297,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,30-39 years,Female (F),COVID-19,40
 3,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,4
 3,30-39 years,Male (M),C19+Diabetes,20
-3,30-39 years,Male (M),C19+Hypertensive.Disease,16
+3,30-39 years,Male (M),C19+Hypertensive.Diseases,16
 3,30-39 years,Male (M),C19+Hypertensive+MCVD,45
 3,30-39 years,Male (M),C19+Kidney.Disease,12
 3,30-39 years,Male (M),C19+MCVD,45
@@ -305,7 +305,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,30-39 years,Male (M),COVID-19,123
 3,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,10
 3,40-49 years,Female (F),C19+Diabetes,16
-3,40-49 years,Female (F),C19+Hypertensive.Disease,21
+3,40-49 years,Female (F),C19+Hypertensive.Diseases,21
 3,40-49 years,Female (F),C19+Hypertensive+MCVD,40
 3,40-49 years,Female (F),C19+Kidney.Disease,3
 3,40-49 years,Female (F),C19+MCVD,40
@@ -313,7 +313,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,40-49 years,Female (F),COVID-19,94
 3,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,12
 3,40-49 years,Male (M),C19+Diabetes,53
-3,40-49 years,Male (M),C19+Hypertensive.Disease,33
+3,40-49 years,Male (M),C19+Hypertensive.Diseases,33
 3,40-49 years,Male (M),C19+Hypertensive+MCVD,81
 3,40-49 years,Male (M),C19+Kidney.Disease,22
 3,40-49 years,Male (M),C19+MCVD,81
@@ -321,7 +321,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,40-49 years,Male (M),COVID-19,252
 3,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,17
 3,50-59 years,Female (F),C19+Diabetes,50
-3,50-59 years,Female (F),C19+Hypertensive.Disease,47
+3,50-59 years,Female (F),C19+Hypertensive.Diseases,47
 3,50-59 years,Female (F),C19+Hypertensive+MCVD,100
 3,50-59 years,Female (F),C19+Kidney.Disease,16
 3,50-59 years,Female (F),C19+MCVD,100
@@ -329,7 +329,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,50-59 years,Female (F),COVID-19,232
 3,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,32
 3,50-59 years,Male (M),C19+Diabetes,98
-3,50-59 years,Male (M),C19+Hypertensive.Disease,95
+3,50-59 years,Male (M),C19+Hypertensive.Diseases,95
 3,50-59 years,Male (M),C19+Hypertensive+MCVD,210
 3,50-59 years,Male (M),C19+Kidney.Disease,44
 3,50-59 years,Male (M),C19+MCVD,210
@@ -337,7 +337,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,50-59 years,Male (M),COVID-19,537
 3,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,46
 3,60-69 years,Female (F),C19+Diabetes,81
-3,60-69 years,Female (F),C19+Hypertensive.Disease,100
+3,60-69 years,Female (F),C19+Hypertensive.Diseases,100
 3,60-69 years,Female (F),C19+Hypertensive+MCVD,194
 3,60-69 years,Female (F),C19+Kidney.Disease,38
 3,60-69 years,Female (F),C19+MCVD,194
@@ -345,7 +345,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,60-69 years,Female (F),COVID-19,445
 3,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,70
 3,60-69 years,Male (M),C19+Diabetes,163
-3,60-69 years,Male (M),C19+Hypertensive.Disease,181
+3,60-69 years,Male (M),C19+Hypertensive.Diseases,181
 3,60-69 years,Male (M),C19+Hypertensive+MCVD,366
 3,60-69 years,Male (M),C19+Kidney.Disease,84
 3,60-69 years,Male (M),C19+MCVD,366
@@ -353,7 +353,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,60-69 years,Male (M),COVID-19,850
 3,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,83
 3,70-79 years,Female (F),C19+Diabetes,114
-3,70-79 years,Female (F),C19+Hypertensive.Disease,148
+3,70-79 years,Female (F),C19+Hypertensive.Diseases,148
 3,70-79 years,Female (F),C19+Hypertensive+MCVD,324
 3,70-79 years,Female (F),C19+Kidney.Disease,47
 3,70-79 years,Female (F),C19+MCVD,324
@@ -361,7 +361,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,70-79 years,Female (F),COVID-19,703
 3,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,92
 3,70-79 years,Male (M),C19+Diabetes,166
-3,70-79 years,Male (M),C19+Hypertensive.Disease,239
+3,70-79 years,Male (M),C19+Hypertensive.Diseases,239
 3,70-79 years,Male (M),C19+Hypertensive+MCVD,510
 3,70-79 years,Male (M),C19+Kidney.Disease,112
 3,70-79 years,Male (M),C19+MCVD,510
@@ -369,7 +369,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,70-79 years,Male (M),COVID-19,1123
 3,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,118
 3,80+ years,Female (F),C19+Diabetes,96
-3,80+ years,Female (F),C19+Hypertensive.Disease,239
+3,80+ years,Female (F),C19+Hypertensive.Diseases,239
 3,80+ years,Female (F),C19+Hypertensive+MCVD,539
 3,80+ years,Female (F),C19+Kidney.Disease,55
 3,80+ years,Female (F),C19+MCVD,539
@@ -377,7 +377,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,80+ years,Female (F),COVID-19,1234
 3,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,125
 3,80+ years,Male (M),C19+Diabetes,166
-3,80+ years,Male (M),C19+Hypertensive.Disease,284
+3,80+ years,Male (M),C19+Hypertensive.Diseases,284
 3,80+ years,Male (M),C19+Hypertensive+MCVD,622
 3,80+ years,Male (M),C19+Kidney.Disease,90
 3,80+ years,Male (M),C19+MCVD,622
@@ -385,7 +385,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 3,80+ years,Male (M),COVID-19,1395
 4,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,3
 4,<18 years,Female (F),C19+Diabetes,0
-4,<18 years,Female (F),C19+Hypertensive.Disease,0
+4,<18 years,Female (F),C19+Hypertensive.Diseases,0
 4,<18 years,Female (F),C19+Hypertensive+MCVD,3
 4,<18 years,Female (F),C19+Kidney.Disease,0
 4,<18 years,Female (F),C19+MCVD,3
@@ -393,7 +393,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,<18 years,Female (F),COVID-19,9
 4,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 4,<18 years,Male (M),C19+Diabetes,1
-4,<18 years,Male (M),C19+Hypertensive.Disease,0
+4,<18 years,Male (M),C19+Hypertensive.Diseases,0
 4,<18 years,Male (M),C19+Hypertensive+MCVD,1
 4,<18 years,Male (M),C19+Kidney.Disease,0
 4,<18 years,Male (M),C19+MCVD,1
@@ -401,7 +401,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,<18 years,Male (M),COVID-19,7
 4,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,4
 4,18-29 years,Female (F),C19+Diabetes,5
-4,18-29 years,Female (F),C19+Hypertensive.Disease,6
+4,18-29 years,Female (F),C19+Hypertensive.Diseases,6
 4,18-29 years,Female (F),C19+Hypertensive+MCVD,25
 4,18-29 years,Female (F),C19+Kidney.Disease,6
 4,18-29 years,Female (F),C19+MCVD,25
@@ -409,7 +409,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,18-29 years,Female (F),COVID-19,76
 4,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,11
 4,18-29 years,Male (M),C19+Diabetes,17
-4,18-29 years,Male (M),C19+Hypertensive.Disease,9
+4,18-29 years,Male (M),C19+Hypertensive.Diseases,9
 4,18-29 years,Male (M),C19+Hypertensive+MCVD,47
 4,18-29 years,Male (M),C19+Kidney.Disease,13
 4,18-29 years,Male (M),C19+MCVD,47
@@ -417,7 +417,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,18-29 years,Male (M),COVID-19,146
 4,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,13
 4,30-39 years,Female (F),C19+Diabetes,32
-4,30-39 years,Female (F),C19+Hypertensive.Disease,23
+4,30-39 years,Female (F),C19+Hypertensive.Diseases,23
 4,30-39 years,Female (F),C19+Hypertensive+MCVD,68
 4,30-39 years,Female (F),C19+Kidney.Disease,10
 4,30-39 years,Female (F),C19+MCVD,68
@@ -425,7 +425,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,30-39 years,Female (F),COVID-19,190
 4,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,22
 4,30-39 years,Male (M),C19+Diabetes,73
-4,30-39 years,Male (M),C19+Hypertensive.Disease,53
+4,30-39 years,Male (M),C19+Hypertensive.Diseases,53
 4,30-39 years,Male (M),C19+Hypertensive+MCVD,162
 4,30-39 years,Male (M),C19+Kidney.Disease,37
 4,30-39 years,Male (M),C19+MCVD,162
@@ -433,7 +433,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,30-39 years,Male (M),COVID-19,487
 4,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,34
 4,40-49 years,Female (F),C19+Diabetes,108
-4,40-49 years,Female (F),C19+Hypertensive.Disease,75
+4,40-49 years,Female (F),C19+Hypertensive.Diseases,75
 4,40-49 years,Female (F),C19+Hypertensive+MCVD,180
 4,40-49 years,Female (F),C19+Kidney.Disease,52
 4,40-49 years,Female (F),C19+MCVD,180
@@ -441,7 +441,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,40-49 years,Female (F),COVID-19,519
 4,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,39
 4,40-49 years,Male (M),C19+Diabetes,233
-4,40-49 years,Male (M),C19+Hypertensive.Disease,212
+4,40-49 years,Male (M),C19+Hypertensive.Diseases,212
 4,40-49 years,Male (M),C19+Hypertensive+MCVD,504
 4,40-49 years,Male (M),C19+Kidney.Disease,112
 4,40-49 years,Male (M),C19+MCVD,504
@@ -449,7 +449,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,40-49 years,Male (M),COVID-19,1284
 4,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,125
 4,50-59 years,Female (F),C19+Diabetes,290
-4,50-59 years,Female (F),C19+Hypertensive.Disease,267
+4,50-59 years,Female (F),C19+Hypertensive.Diseases,267
 4,50-59 years,Female (F),C19+Hypertensive+MCVD,583
 4,50-59 years,Female (F),C19+Kidney.Disease,125
 4,50-59 years,Female (F),C19+MCVD,583
@@ -457,7 +457,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,50-59 years,Female (F),COVID-19,1480
 4,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,138
 4,50-59 years,Male (M),C19+Diabetes,628
-4,50-59 years,Male (M),C19+Hypertensive.Disease,589
+4,50-59 years,Male (M),C19+Hypertensive.Diseases,589
 4,50-59 years,Male (M),C19+Hypertensive+MCVD,1366
 4,50-59 years,Male (M),C19+Kidney.Disease,285
 4,50-59 years,Male (M),C19+MCVD,1366
@@ -465,7 +465,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,50-59 years,Male (M),COVID-19,3335
 4,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,373
 4,60-69 years,Female (F),C19+Diabetes,702
-4,60-69 years,Female (F),C19+Hypertensive.Disease,740
+4,60-69 years,Female (F),C19+Hypertensive.Diseases,740
 4,60-69 years,Female (F),C19+Hypertensive+MCVD,1539
 4,60-69 years,Female (F),C19+Kidney.Disease,297
 4,60-69 years,Female (F),C19+MCVD,1539
@@ -473,7 +473,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,60-69 years,Female (F),COVID-19,3589
 4,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,406
 4,60-69 years,Male (M),C19+Diabetes,1213
-4,60-69 years,Male (M),C19+Hypertensive.Disease,1369
+4,60-69 years,Male (M),C19+Hypertensive.Diseases,1369
 4,60-69 years,Male (M),C19+Hypertensive+MCVD,2905
 4,60-69 years,Male (M),C19+Kidney.Disease,644
 4,60-69 years,Male (M),C19+MCVD,2905
@@ -481,7 +481,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,60-69 years,Male (M),COVID-19,6743
 4,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,625
 4,70-79 years,Female (F),C19+Diabetes,1060
-4,70-79 years,Female (F),C19+Hypertensive.Disease,1319
+4,70-79 years,Female (F),C19+Hypertensive.Diseases,1319
 4,70-79 years,Female (F),C19+Hypertensive+MCVD,2745
 4,70-79 years,Female (F),C19+Kidney.Disease,420
 4,70-79 years,Female (F),C19+MCVD,2745
@@ -489,7 +489,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,70-79 years,Female (F),COVID-19,6143
 4,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,714
 4,70-79 years,Male (M),C19+Diabetes,1500
-4,70-79 years,Male (M),C19+Hypertensive.Disease,1949
+4,70-79 years,Male (M),C19+Hypertensive.Diseases,1949
 4,70-79 years,Male (M),C19+Hypertensive+MCVD,4146
 4,70-79 years,Male (M),C19+Kidney.Disease,824
 4,70-79 years,Male (M),C19+MCVD,4146
@@ -497,7 +497,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,70-79 years,Male (M),COVID-19,9091
 4,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,1094
 4,80+ years,Female (F),C19+Diabetes,1521
-4,80+ years,Female (F),C19+Hypertensive.Disease,3274
+4,80+ years,Female (F),C19+Hypertensive.Diseases,3274
 4,80+ years,Female (F),C19+Hypertensive+MCVD,7001
 4,80+ years,Female (F),C19+Kidney.Disease,806
 4,80+ years,Female (F),C19+MCVD,7001
@@ -505,7 +505,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,80+ years,Female (F),COVID-19,15882
 4,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,943
 4,80+ years,Male (M),C19+Diabetes,1516
-4,80+ years,Male (M),C19+Hypertensive.Disease,2698
+4,80+ years,Male (M),C19+Hypertensive.Diseases,2698
 4,80+ years,Male (M),C19+Hypertensive+MCVD,5924
 4,80+ years,Male (M),C19+Kidney.Disease,957
 4,80+ years,Male (M),C19+MCVD,5924
@@ -513,7 +513,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 4,80+ years,Male (M),COVID-19,12706
 5,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 5,<18 years,Female (F),C19+Diabetes,0
-5,<18 years,Female (F),C19+Hypertensive.Disease,0
+5,<18 years,Female (F),C19+Hypertensive.Diseases,0
 5,<18 years,Female (F),C19+Hypertensive+MCVD,1
 5,<18 years,Female (F),C19+Kidney.Disease,0
 5,<18 years,Female (F),C19+MCVD,1
@@ -521,7 +521,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,<18 years,Female (F),COVID-19,6
 5,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,1
 5,<18 years,Male (M),C19+Diabetes,0
-5,<18 years,Male (M),C19+Hypertensive.Disease,0
+5,<18 years,Male (M),C19+Hypertensive.Diseases,0
 5,<18 years,Male (M),C19+Hypertensive+MCVD,3
 5,<18 years,Male (M),C19+Kidney.Disease,0
 5,<18 years,Male (M),C19+MCVD,3
@@ -529,7 +529,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,<18 years,Male (M),COVID-19,12
 5,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 5,18-29 years,Female (F),C19+Diabetes,4
-5,18-29 years,Female (F),C19+Hypertensive.Disease,2
+5,18-29 years,Female (F),C19+Hypertensive.Diseases,2
 5,18-29 years,Female (F),C19+Hypertensive+MCVD,11
 5,18-29 years,Female (F),C19+Kidney.Disease,4
 5,18-29 years,Female (F),C19+MCVD,11
@@ -537,7 +537,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,18-29 years,Female (F),COVID-19,37
 5,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,2
 5,18-29 years,Male (M),C19+Diabetes,9
-5,18-29 years,Male (M),C19+Hypertensive.Disease,5
+5,18-29 years,Male (M),C19+Hypertensive.Diseases,5
 5,18-29 years,Male (M),C19+Hypertensive+MCVD,25
 5,18-29 years,Male (M),C19+Kidney.Disease,4
 5,18-29 years,Male (M),C19+MCVD,25
@@ -545,7 +545,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,18-29 years,Male (M),COVID-19,86
 5,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,6
 5,30-39 years,Female (F),C19+Diabetes,17
-5,30-39 years,Female (F),C19+Hypertensive.Disease,12
+5,30-39 years,Female (F),C19+Hypertensive.Diseases,12
 5,30-39 years,Female (F),C19+Hypertensive+MCVD,41
 5,30-39 years,Female (F),C19+Kidney.Disease,9
 5,30-39 years,Female (F),C19+MCVD,41
@@ -553,7 +553,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,30-39 years,Female (F),COVID-19,102
 5,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,9
 5,30-39 years,Male (M),C19+Diabetes,33
-5,30-39 years,Male (M),C19+Hypertensive.Disease,24
+5,30-39 years,Male (M),C19+Hypertensive.Diseases,24
 5,30-39 years,Male (M),C19+Hypertensive+MCVD,71
 5,30-39 years,Male (M),C19+Kidney.Disease,21
 5,30-39 years,Male (M),C19+MCVD,71
@@ -561,7 +561,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,30-39 years,Male (M),COVID-19,250
 5,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,23
 5,40-49 years,Female (F),C19+Diabetes,53
-5,40-49 years,Female (F),C19+Hypertensive.Disease,46
+5,40-49 years,Female (F),C19+Hypertensive.Diseases,46
 5,40-49 years,Female (F),C19+Hypertensive+MCVD,104
 5,40-49 years,Female (F),C19+Kidney.Disease,25
 5,40-49 years,Female (F),C19+MCVD,104
@@ -569,7 +569,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,40-49 years,Female (F),COVID-19,286
 5,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,22
 5,40-49 years,Male (M),C19+Diabetes,131
-5,40-49 years,Male (M),C19+Hypertensive.Disease,111
+5,40-49 years,Male (M),C19+Hypertensive.Diseases,111
 5,40-49 years,Male (M),C19+Hypertensive+MCVD,247
 5,40-49 years,Male (M),C19+Kidney.Disease,69
 5,40-49 years,Male (M),C19+MCVD,247
@@ -577,7 +577,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,40-49 years,Male (M),COVID-19,686
 5,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,87
 5,50-59 years,Female (F),C19+Diabetes,178
-5,50-59 years,Female (F),C19+Hypertensive.Disease,169
+5,50-59 years,Female (F),C19+Hypertensive.Diseases,169
 5,50-59 years,Female (F),C19+Hypertensive+MCVD,373
 5,50-59 years,Female (F),C19+Kidney.Disease,83
 5,50-59 years,Female (F),C19+MCVD,373
@@ -585,7 +585,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,50-59 years,Female (F),COVID-19,852
 5,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,72
 5,50-59 years,Male (M),C19+Diabetes,336
-5,50-59 years,Male (M),C19+Hypertensive.Disease,342
+5,50-59 years,Male (M),C19+Hypertensive.Diseases,342
 5,50-59 years,Male (M),C19+Hypertensive+MCVD,787
 5,50-59 years,Male (M),C19+Kidney.Disease,208
 5,50-59 years,Male (M),C19+MCVD,787
@@ -593,7 +593,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,50-59 years,Male (M),COVID-19,1792
 5,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,253
 5,60-69 years,Female (F),C19+Diabetes,419
-5,60-69 years,Female (F),C19+Hypertensive.Disease,448
+5,60-69 years,Female (F),C19+Hypertensive.Diseases,448
 5,60-69 years,Female (F),C19+Hypertensive+MCVD,950
 5,60-69 years,Female (F),C19+Kidney.Disease,177
 5,60-69 years,Female (F),C19+MCVD,950
@@ -601,7 +601,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,60-69 years,Female (F),COVID-19,2117
 5,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,292
 5,60-69 years,Male (M),C19+Diabetes,668
-5,60-69 years,Male (M),C19+Hypertensive.Disease,746
+5,60-69 years,Male (M),C19+Hypertensive.Diseases,746
 5,60-69 years,Male (M),C19+Hypertensive+MCVD,1638
 5,60-69 years,Male (M),C19+Kidney.Disease,382
 5,60-69 years,Male (M),C19+MCVD,1638
@@ -609,7 +609,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,60-69 years,Male (M),COVID-19,3652
 5,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,404
 5,70-79 years,Female (F),C19+Diabetes,581
-5,70-79 years,Female (F),C19+Hypertensive.Disease,730
+5,70-79 years,Female (F),C19+Hypertensive.Diseases,730
 5,70-79 years,Female (F),C19+Hypertensive+MCVD,1583
 5,70-79 years,Female (F),C19+Kidney.Disease,278
 5,70-79 years,Female (F),C19+MCVD,1583
@@ -617,7 +617,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,70-79 years,Female (F),COVID-19,3548
 5,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,474
 5,70-79 years,Male (M),C19+Diabetes,846
-5,70-79 years,Male (M),C19+Hypertensive.Disease,1041
+5,70-79 years,Male (M),C19+Hypertensive.Diseases,1041
 5,70-79 years,Male (M),C19+Hypertensive+MCVD,2276
 5,70-79 years,Male (M),C19+Kidney.Disease,516
 5,70-79 years,Male (M),C19+MCVD,2276
@@ -625,7 +625,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,70-79 years,Male (M),COVID-19,4826
 5,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,844
 5,80+ years,Female (F),C19+Diabetes,1095
-5,80+ years,Female (F),C19+Hypertensive.Disease,2337
+5,80+ years,Female (F),C19+Hypertensive.Diseases,2337
 5,80+ years,Female (F),C19+Hypertensive+MCVD,4964
 5,80+ years,Female (F),C19+Kidney.Disease,615
 5,80+ years,Female (F),C19+MCVD,4964
@@ -633,7 +633,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,80+ years,Female (F),COVID-19,10778
 5,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,648
 5,80+ years,Male (M),C19+Diabetes,868
-5,80+ years,Male (M),C19+Hypertensive.Disease,1572
+5,80+ years,Male (M),C19+Hypertensive.Diseases,1572
 5,80+ years,Male (M),C19+Hypertensive+MCVD,3445
 5,80+ years,Male (M),C19+Kidney.Disease,578
 5,80+ years,Male (M),C19+MCVD,3445
@@ -641,7 +641,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 5,80+ years,Male (M),COVID-19,6958
 6,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,1
 6,<18 years,Female (F),C19+Diabetes,0
-6,<18 years,Female (F),C19+Hypertensive.Disease,0
+6,<18 years,Female (F),C19+Hypertensive.Diseases,0
 6,<18 years,Female (F),C19+Hypertensive+MCVD,0
 6,<18 years,Female (F),C19+Kidney.Disease,0
 6,<18 years,Female (F),C19+MCVD,0
@@ -649,7 +649,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,<18 years,Female (F),COVID-19,7
 6,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 6,<18 years,Male (M),C19+Diabetes,0
-6,<18 years,Male (M),C19+Hypertensive.Disease,0
+6,<18 years,Male (M),C19+Hypertensive.Diseases,0
 6,<18 years,Male (M),C19+Hypertensive+MCVD,4
 6,<18 years,Male (M),C19+Kidney.Disease,1
 6,<18 years,Male (M),C19+MCVD,4
@@ -657,7 +657,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,<18 years,Male (M),COVID-19,11
 6,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,2
 6,18-29 years,Female (F),C19+Diabetes,7
-6,18-29 years,Female (F),C19+Hypertensive.Disease,1
+6,18-29 years,Female (F),C19+Hypertensive.Diseases,1
 6,18-29 years,Female (F),C19+Hypertensive+MCVD,9
 6,18-29 years,Female (F),C19+Kidney.Disease,0
 6,18-29 years,Female (F),C19+MCVD,9
@@ -665,7 +665,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,18-29 years,Female (F),COVID-19,43
 6,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,7
 6,18-29 years,Male (M),C19+Diabetes,4
-6,18-29 years,Male (M),C19+Hypertensive.Disease,3
+6,18-29 years,Male (M),C19+Hypertensive.Diseases,3
 6,18-29 years,Male (M),C19+Hypertensive+MCVD,14
 6,18-29 years,Male (M),C19+Kidney.Disease,4
 6,18-29 years,Male (M),C19+MCVD,14
@@ -673,7 +673,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,18-29 years,Male (M),COVID-19,58
 6,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,2
 6,30-39 years,Female (F),C19+Diabetes,18
-6,30-39 years,Female (F),C19+Hypertensive.Disease,4
+6,30-39 years,Female (F),C19+Hypertensive.Diseases,4
 6,30-39 years,Female (F),C19+Hypertensive+MCVD,32
 6,30-39 years,Female (F),C19+Kidney.Disease,8
 6,30-39 years,Female (F),C19+MCVD,32
@@ -681,7 +681,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,30-39 years,Female (F),COVID-19,101
 6,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,5
 6,30-39 years,Male (M),C19+Diabetes,32
-6,30-39 years,Male (M),C19+Hypertensive.Disease,25
+6,30-39 years,Male (M),C19+Hypertensive.Diseases,25
 6,30-39 years,Male (M),C19+Hypertensive+MCVD,66
 6,30-39 years,Male (M),C19+Kidney.Disease,17
 6,30-39 years,Male (M),C19+MCVD,66
@@ -689,7 +689,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,30-39 years,Male (M),COVID-19,184
 6,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,11
 6,40-49 years,Female (F),C19+Diabetes,48
-6,40-49 years,Female (F),C19+Hypertensive.Disease,32
+6,40-49 years,Female (F),C19+Hypertensive.Diseases,32
 6,40-49 years,Female (F),C19+Hypertensive+MCVD,85
 6,40-49 years,Female (F),C19+Kidney.Disease,24
 6,40-49 years,Female (F),C19+MCVD,85
@@ -697,7 +697,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,40-49 years,Female (F),COVID-19,214
 6,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,12
 6,40-49 years,Male (M),C19+Diabetes,84
-6,40-49 years,Male (M),C19+Hypertensive.Disease,73
+6,40-49 years,Male (M),C19+Hypertensive.Diseases,73
 6,40-49 years,Male (M),C19+Hypertensive+MCVD,172
 6,40-49 years,Male (M),C19+Kidney.Disease,45
 6,40-49 years,Male (M),C19+MCVD,172
@@ -705,7 +705,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,40-49 years,Male (M),COVID-19,461
 6,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,47
 6,50-59 years,Female (F),C19+Diabetes,138
-6,50-59 years,Female (F),C19+Hypertensive.Disease,111
+6,50-59 years,Female (F),C19+Hypertensive.Diseases,111
 6,50-59 years,Female (F),C19+Hypertensive+MCVD,260
 6,50-59 years,Female (F),C19+Kidney.Disease,58
 6,50-59 years,Female (F),C19+MCVD,260
@@ -713,7 +713,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,50-59 years,Female (F),COVID-19,577
 6,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,37
 6,50-59 years,Male (M),C19+Diabetes,237
-6,50-59 years,Male (M),C19+Hypertensive.Disease,201
+6,50-59 years,Male (M),C19+Hypertensive.Diseases,201
 6,50-59 years,Male (M),C19+Hypertensive+MCVD,455
 6,50-59 years,Male (M),C19+Kidney.Disease,130
 6,50-59 years,Male (M),C19+MCVD,455
@@ -721,7 +721,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,50-59 years,Male (M),COVID-19,1087
 6,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,115
 6,60-69 years,Female (F),C19+Diabetes,266
-6,60-69 years,Female (F),C19+Hypertensive.Disease,255
+6,60-69 years,Female (F),C19+Hypertensive.Diseases,255
 6,60-69 years,Female (F),C19+Hypertensive+MCVD,504
 6,60-69 years,Female (F),C19+Kidney.Disease,116
 6,60-69 years,Female (F),C19+MCVD,504
@@ -729,7 +729,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,60-69 years,Female (F),COVID-19,1115
 6,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,151
 6,60-69 years,Male (M),C19+Diabetes,442
-6,60-69 years,Male (M),C19+Hypertensive.Disease,436
+6,60-69 years,Male (M),C19+Hypertensive.Diseases,436
 6,60-69 years,Male (M),C19+Hypertensive+MCVD,937
 6,60-69 years,Male (M),C19+Kidney.Disease,243
 6,60-69 years,Male (M),C19+MCVD,937
@@ -737,7 +737,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,60-69 years,Male (M),COVID-19,1907
 6,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,202
 6,70-79 years,Female (F),C19+Diabetes,352
-6,70-79 years,Female (F),C19+Hypertensive.Disease,424
+6,70-79 years,Female (F),C19+Hypertensive.Diseases,424
 6,70-79 years,Female (F),C19+Hypertensive+MCVD,890
 6,70-79 years,Female (F),C19+Kidney.Disease,171
 6,70-79 years,Female (F),C19+MCVD,890
@@ -745,7 +745,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,70-79 years,Female (F),COVID-19,1801
 6,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,219
 6,70-79 years,Male (M),C19+Diabetes,485
-6,70-79 years,Male (M),C19+Hypertensive.Disease,542
+6,70-79 years,Male (M),C19+Hypertensive.Diseases,542
 6,70-79 years,Male (M),C19+Hypertensive+MCVD,1154
 6,70-79 years,Male (M),C19+Kidney.Disease,256
 6,70-79 years,Male (M),C19+MCVD,1154
@@ -753,7 +753,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,70-79 years,Male (M),COVID-19,2377
 6,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,392
 6,80+ years,Female (F),C19+Diabetes,527
-6,80+ years,Female (F),C19+Hypertensive.Disease,1156
+6,80+ years,Female (F),C19+Hypertensive.Diseases,1156
 6,80+ years,Female (F),C19+Hypertensive+MCVD,2324
 6,80+ years,Female (F),C19+Kidney.Disease,307
 6,80+ years,Female (F),C19+MCVD,2324
@@ -761,7 +761,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,80+ years,Female (F),COVID-19,4568
 6,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,302
 6,80+ years,Male (M),C19+Diabetes,441
-6,80+ years,Male (M),C19+Hypertensive.Disease,731
+6,80+ years,Male (M),C19+Hypertensive.Diseases,731
 6,80+ years,Male (M),C19+Hypertensive+MCVD,1645
 6,80+ years,Male (M),C19+Kidney.Disease,298
 6,80+ years,Male (M),C19+MCVD,1645
@@ -769,7 +769,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 6,80+ years,Male (M),COVID-19,3163
 7,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,1
 7,<18 years,Female (F),C19+Diabetes,0
-7,<18 years,Female (F),C19+Hypertensive.Disease,0
+7,<18 years,Female (F),C19+Hypertensive.Diseases,0
 7,<18 years,Female (F),C19+Hypertensive+MCVD,1
 7,<18 years,Female (F),C19+Kidney.Disease,0
 7,<18 years,Female (F),C19+MCVD,1
@@ -777,7 +777,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,<18 years,Female (F),COVID-19,9
 7,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 7,<18 years,Male (M),C19+Diabetes,0
-7,<18 years,Male (M),C19+Hypertensive.Disease,0
+7,<18 years,Male (M),C19+Hypertensive.Diseases,0
 7,<18 years,Male (M),C19+Hypertensive+MCVD,3
 7,<18 years,Male (M),C19+Kidney.Disease,0
 7,<18 years,Male (M),C19+MCVD,3
@@ -785,7 +785,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,<18 years,Male (M),COVID-19,16
 7,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,5
 7,18-29 years,Female (F),C19+Diabetes,10
-7,18-29 years,Female (F),C19+Hypertensive.Disease,3
+7,18-29 years,Female (F),C19+Hypertensive.Diseases,3
 7,18-29 years,Female (F),C19+Hypertensive+MCVD,18
 7,18-29 years,Female (F),C19+Kidney.Disease,8
 7,18-29 years,Female (F),C19+MCVD,18
@@ -793,7 +793,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,18-29 years,Female (F),COVID-19,83
 7,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,8
 7,18-29 years,Male (M),C19+Diabetes,23
-7,18-29 years,Male (M),C19+Hypertensive.Disease,12
+7,18-29 years,Male (M),C19+Hypertensive.Diseases,12
 7,18-29 years,Male (M),C19+Hypertensive+MCVD,42
 7,18-29 years,Male (M),C19+Kidney.Disease,9
 7,18-29 years,Male (M),C19+MCVD,42
@@ -801,7 +801,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,18-29 years,Male (M),COVID-19,137
 7,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,14
 7,30-39 years,Female (F),C19+Diabetes,48
-7,30-39 years,Female (F),C19+Hypertensive.Disease,33
+7,30-39 years,Female (F),C19+Hypertensive.Diseases,33
 7,30-39 years,Female (F),C19+Hypertensive+MCVD,70
 7,30-39 years,Female (F),C19+Kidney.Disease,14
 7,30-39 years,Female (F),C19+MCVD,70
@@ -809,7 +809,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,30-39 years,Female (F),COVID-19,183
 7,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,13
 7,30-39 years,Male (M),C19+Diabetes,42
-7,30-39 years,Male (M),C19+Hypertensive.Disease,34
+7,30-39 years,Male (M),C19+Hypertensive.Diseases,34
 7,30-39 years,Male (M),C19+Hypertensive+MCVD,120
 7,30-39 years,Male (M),C19+Kidney.Disease,40
 7,30-39 years,Male (M),C19+MCVD,120
@@ -817,7 +817,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,30-39 years,Male (M),COVID-19,358
 7,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,27
 7,40-49 years,Female (F),C19+Diabetes,126
-7,40-49 years,Female (F),C19+Hypertensive.Disease,91
+7,40-49 years,Female (F),C19+Hypertensive.Diseases,91
 7,40-49 years,Female (F),C19+Hypertensive+MCVD,179
 7,40-49 years,Female (F),C19+Kidney.Disease,43
 7,40-49 years,Female (F),C19+MCVD,179
@@ -825,7 +825,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,40-49 years,Female (F),COVID-19,437
 7,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,25
 7,40-49 years,Male (M),C19+Diabetes,186
-7,40-49 years,Male (M),C19+Hypertensive.Disease,179
+7,40-49 years,Male (M),C19+Hypertensive.Diseases,179
 7,40-49 years,Male (M),C19+Hypertensive+MCVD,353
 7,40-49 years,Male (M),C19+Kidney.Disease,92
 7,40-49 years,Male (M),C19+MCVD,353
@@ -833,7 +833,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,40-49 years,Male (M),COVID-19,867
 7,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,78
 7,50-59 years,Female (F),C19+Diabetes,277
-7,50-59 years,Female (F),C19+Hypertensive.Disease,236
+7,50-59 years,Female (F),C19+Hypertensive.Diseases,236
 7,50-59 years,Female (F),C19+Hypertensive+MCVD,489
 7,50-59 years,Female (F),C19+Kidney.Disease,117
 7,50-59 years,Female (F),C19+MCVD,489
@@ -841,7 +841,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,50-59 years,Female (F),COVID-19,1059
 7,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,82
 7,50-59 years,Male (M),C19+Diabetes,504
-7,50-59 years,Male (M),C19+Hypertensive.Disease,471
+7,50-59 years,Male (M),C19+Hypertensive.Diseases,471
 7,50-59 years,Male (M),C19+Hypertensive+MCVD,900
 7,50-59 years,Male (M),C19+Kidney.Disease,204
 7,50-59 years,Male (M),C19+MCVD,900
@@ -849,7 +849,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,50-59 years,Male (M),COVID-19,1974
 7,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,220
 7,60-69 years,Female (F),C19+Diabetes,612
-7,60-69 years,Female (F),C19+Hypertensive.Disease,556
+7,60-69 years,Female (F),C19+Hypertensive.Diseases,556
 7,60-69 years,Female (F),C19+Hypertensive+MCVD,1002
 7,60-69 years,Female (F),C19+Kidney.Disease,237
 7,60-69 years,Female (F),C19+MCVD,1002
@@ -857,7 +857,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,60-69 years,Female (F),COVID-19,2190
 7,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,267
 7,60-69 years,Male (M),C19+Diabetes,895
-7,60-69 years,Male (M),C19+Hypertensive.Disease,940
+7,60-69 years,Male (M),C19+Hypertensive.Diseases,940
 7,60-69 years,Male (M),C19+Hypertensive+MCVD,1798
 7,60-69 years,Male (M),C19+Kidney.Disease,450
 7,60-69 years,Male (M),C19+MCVD,1798
@@ -865,7 +865,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,60-69 years,Male (M),COVID-19,3570
 7,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,400
 7,70-79 years,Female (F),C19+Diabetes,722
-7,70-79 years,Female (F),C19+Hypertensive.Disease,843
+7,70-79 years,Female (F),C19+Hypertensive.Diseases,843
 7,70-79 years,Female (F),C19+Hypertensive+MCVD,1594
 7,70-79 years,Female (F),C19+Kidney.Disease,308
 7,70-79 years,Female (F),C19+MCVD,1594
@@ -873,7 +873,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,70-79 years,Female (F),COVID-19,3114
 7,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,481
 7,70-79 years,Male (M),C19+Diabetes,1080
-7,70-79 years,Male (M),C19+Hypertensive.Disease,1235
+7,70-79 years,Male (M),C19+Hypertensive.Diseases,1235
 7,70-79 years,Male (M),C19+Hypertensive+MCVD,2359
 7,70-79 years,Male (M),C19+Kidney.Disease,504
 7,70-79 years,Male (M),C19+MCVD,2359
@@ -881,7 +881,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,70-79 years,Male (M),COVID-19,4581
 7,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,661
 7,80+ years,Female (F),C19+Diabetes,895
-7,80+ years,Female (F),C19+Hypertensive.Disease,1825
+7,80+ years,Female (F),C19+Hypertensive.Diseases,1825
 7,80+ years,Female (F),C19+Hypertensive+MCVD,3324
 7,80+ years,Female (F),C19+Kidney.Disease,413
 7,80+ years,Female (F),C19+MCVD,3324
@@ -889,7 +889,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,80+ years,Female (F),COVID-19,6410
 7,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,654
 7,80+ years,Male (M),C19+Diabetes,969
-7,80+ years,Male (M),C19+Hypertensive.Disease,1590
+7,80+ years,Male (M),C19+Hypertensive.Diseases,1590
 7,80+ years,Male (M),C19+Hypertensive+MCVD,3087
 7,80+ years,Male (M),C19+Kidney.Disease,496
 7,80+ years,Male (M),C19+MCVD,3087
@@ -897,7 +897,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 7,80+ years,Male (M),COVID-19,5675
 8,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 8,<18 years,Female (F),C19+Diabetes,1
-8,<18 years,Female (F),C19+Hypertensive.Disease,0
+8,<18 years,Female (F),C19+Hypertensive.Diseases,0
 8,<18 years,Female (F),C19+Hypertensive+MCVD,4
 8,<18 years,Female (F),C19+Kidney.Disease,1
 8,<18 years,Female (F),C19+MCVD,4
@@ -905,7 +905,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,<18 years,Female (F),COVID-19,8
 8,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,1
 8,<18 years,Male (M),C19+Diabetes,1
-8,<18 years,Male (M),C19+Hypertensive.Disease,0
+8,<18 years,Male (M),C19+Hypertensive.Diseases,0
 8,<18 years,Male (M),C19+Hypertensive+MCVD,3
 8,<18 years,Male (M),C19+Kidney.Disease,0
 8,<18 years,Male (M),C19+MCVD,3
@@ -913,7 +913,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,<18 years,Male (M),COVID-19,6
 8,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,4
 8,18-29 years,Female (F),C19+Diabetes,8
-8,18-29 years,Female (F),C19+Hypertensive.Disease,3
+8,18-29 years,Female (F),C19+Hypertensive.Diseases,3
 8,18-29 years,Female (F),C19+Hypertensive+MCVD,15
 8,18-29 years,Female (F),C19+Kidney.Disease,5
 8,18-29 years,Female (F),C19+MCVD,15
@@ -921,7 +921,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,18-29 years,Female (F),COVID-19,48
 8,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,5
 8,18-29 years,Male (M),C19+Diabetes,10
-8,18-29 years,Male (M),C19+Hypertensive.Disease,10
+8,18-29 years,Male (M),C19+Hypertensive.Diseases,10
 8,18-29 years,Male (M),C19+Hypertensive+MCVD,24
 8,18-29 years,Male (M),C19+Kidney.Disease,13
 8,18-29 years,Male (M),C19+MCVD,24
@@ -929,7 +929,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,18-29 years,Male (M),COVID-19,80
 8,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,11
 8,30-39 years,Female (F),C19+Diabetes,17
-8,30-39 years,Female (F),C19+Hypertensive.Disease,15
+8,30-39 years,Female (F),C19+Hypertensive.Diseases,15
 8,30-39 years,Female (F),C19+Hypertensive+MCVD,43
 8,30-39 years,Female (F),C19+Kidney.Disease,13
 8,30-39 years,Female (F),C19+MCVD,43
@@ -937,7 +937,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,30-39 years,Female (F),COVID-19,135
 8,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,7
 8,30-39 years,Male (M),C19+Diabetes,35
-8,30-39 years,Male (M),C19+Hypertensive.Disease,25
+8,30-39 years,Male (M),C19+Hypertensive.Diseases,25
 8,30-39 years,Male (M),C19+Hypertensive+MCVD,86
 8,30-39 years,Male (M),C19+Kidney.Disease,26
 8,30-39 years,Male (M),C19+MCVD,86
@@ -945,7 +945,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,30-39 years,Male (M),COVID-19,222
 8,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,25
 8,40-49 years,Female (F),C19+Diabetes,85
-8,40-49 years,Female (F),C19+Hypertensive.Disease,50
+8,40-49 years,Female (F),C19+Hypertensive.Diseases,50
 8,40-49 years,Female (F),C19+Hypertensive+MCVD,119
 8,40-49 years,Female (F),C19+Kidney.Disease,46
 8,40-49 years,Female (F),C19+MCVD,119
@@ -953,7 +953,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,40-49 years,Female (F),COVID-19,370
 8,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,19
 8,40-49 years,Male (M),C19+Diabetes,158
-8,40-49 years,Male (M),C19+Hypertensive.Disease,106
+8,40-49 years,Male (M),C19+Hypertensive.Diseases,106
 8,40-49 years,Male (M),C19+Hypertensive+MCVD,254
 8,40-49 years,Male (M),C19+Kidney.Disease,77
 8,40-49 years,Male (M),C19+MCVD,254
@@ -961,7 +961,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,40-49 years,Male (M),COVID-19,695
 8,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,64
 8,50-59 years,Female (F),C19+Diabetes,221
-8,50-59 years,Female (F),C19+Hypertensive.Disease,189
+8,50-59 years,Female (F),C19+Hypertensive.Diseases,189
 8,50-59 years,Female (F),C19+Hypertensive+MCVD,404
 8,50-59 years,Female (F),C19+Kidney.Disease,115
 8,50-59 years,Female (F),C19+MCVD,404
@@ -969,7 +969,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,50-59 years,Female (F),COVID-19,952
 8,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,63
 8,50-59 years,Male (M),C19+Diabetes,353
-8,50-59 years,Male (M),C19+Hypertensive.Disease,327
+8,50-59 years,Male (M),C19+Hypertensive.Diseases,327
 8,50-59 years,Male (M),C19+Hypertensive+MCVD,704
 8,50-59 years,Male (M),C19+Kidney.Disease,231
 8,50-59 years,Male (M),C19+MCVD,704
@@ -977,7 +977,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,50-59 years,Male (M),COVID-19,1649
 8,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,221
 8,60-69 years,Female (F),C19+Diabetes,478
-8,60-69 years,Female (F),C19+Hypertensive.Disease,437
+8,60-69 years,Female (F),C19+Hypertensive.Diseases,437
 8,60-69 years,Female (F),C19+Hypertensive+MCVD,938
 8,60-69 years,Female (F),C19+Kidney.Disease,276
 8,60-69 years,Female (F),C19+MCVD,938
@@ -985,7 +985,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,60-69 years,Female (F),COVID-19,2116
 8,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,259
 8,60-69 years,Male (M),C19+Diabetes,752
-8,60-69 years,Male (M),C19+Hypertensive.Disease,690
+8,60-69 years,Male (M),C19+Hypertensive.Diseases,690
 8,60-69 years,Male (M),C19+Hypertensive+MCVD,1546
 8,60-69 years,Male (M),C19+Kidney.Disease,451
 8,60-69 years,Male (M),C19+MCVD,1546
@@ -993,7 +993,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,60-69 years,Male (M),COVID-19,3304
 8,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,343
 8,70-79 years,Female (F),C19+Diabetes,679
-8,70-79 years,Female (F),C19+Hypertensive.Disease,702
+8,70-79 years,Female (F),C19+Hypertensive.Diseases,702
 8,70-79 years,Female (F),C19+Hypertensive+MCVD,1441
 8,70-79 years,Female (F),C19+Kidney.Disease,302
 8,70-79 years,Female (F),C19+MCVD,1441
@@ -1001,7 +1001,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,70-79 years,Female (F),COVID-19,3087
 8,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,490
 8,70-79 years,Male (M),C19+Diabetes,956
-8,70-79 years,Male (M),C19+Hypertensive.Disease,1052
+8,70-79 years,Male (M),C19+Hypertensive.Diseases,1052
 8,70-79 years,Male (M),C19+Hypertensive+MCVD,2229
 8,70-79 years,Male (M),C19+Kidney.Disease,545
 8,70-79 years,Male (M),C19+MCVD,2229
@@ -1009,7 +1009,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,70-79 years,Male (M),COVID-19,4427
 8,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,575
 8,80+ years,Female (F),C19+Diabetes,820
-8,80+ years,Female (F),C19+Hypertensive.Disease,1519
+8,80+ years,Female (F),C19+Hypertensive.Diseases,1519
 8,80+ years,Female (F),C19+Hypertensive+MCVD,3166
 8,80+ years,Female (F),C19+Kidney.Disease,424
 8,80+ years,Female (F),C19+MCVD,3166
@@ -1017,7 +1017,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,80+ years,Female (F),COVID-19,6384
 8,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,542
 8,80+ years,Male (M),C19+Diabetes,840
-8,80+ years,Male (M),C19+Hypertensive.Disease,1273
+8,80+ years,Male (M),C19+Hypertensive.Diseases,1273
 8,80+ years,Male (M),C19+Hypertensive+MCVD,2831
 8,80+ years,Male (M),C19+Kidney.Disease,532
 8,80+ years,Male (M),C19+MCVD,2831
@@ -1025,7 +1025,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 8,80+ years,Male (M),COVID-19,5426
 9,<18 years,Female (F),C19+Chronic.Lower.Resp.Disease,0
 9,<18 years,Female (F),C19+Diabetes,1
-9,<18 years,Female (F),C19+Hypertensive.Disease,0
+9,<18 years,Female (F),C19+Hypertensive.Diseases,0
 9,<18 years,Female (F),C19+Hypertensive+MCVD,1
 9,<18 years,Female (F),C19+Kidney.Disease,0
 9,<18 years,Female (F),C19+MCVD,1
@@ -1033,7 +1033,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,<18 years,Female (F),COVID-19,2
 9,<18 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 9,<18 years,Male (M),C19+Diabetes,0
-9,<18 years,Male (M),C19+Hypertensive.Disease,0
+9,<18 years,Male (M),C19+Hypertensive.Diseases,0
 9,<18 years,Male (M),C19+Hypertensive+MCVD,0
 9,<18 years,Male (M),C19+Kidney.Disease,0
 9,<18 years,Male (M),C19+MCVD,0
@@ -1041,7 +1041,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,<18 years,Male (M),COVID-19,4
 9,18-29 years,Female (F),C19+Chronic.Lower.Resp.Disease,2
 9,18-29 years,Female (F),C19+Diabetes,5
-9,18-29 years,Female (F),C19+Hypertensive.Disease,0
+9,18-29 years,Female (F),C19+Hypertensive.Diseases,0
 9,18-29 years,Female (F),C19+Hypertensive+MCVD,13
 9,18-29 years,Female (F),C19+Kidney.Disease,1
 9,18-29 years,Female (F),C19+MCVD,13
@@ -1049,7 +1049,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,18-29 years,Female (F),COVID-19,31
 9,18-29 years,Male (M),C19+Chronic.Lower.Resp.Disease,0
 9,18-29 years,Male (M),C19+Diabetes,6
-9,18-29 years,Male (M),C19+Hypertensive.Disease,5
+9,18-29 years,Male (M),C19+Hypertensive.Diseases,5
 9,18-29 years,Male (M),C19+Hypertensive+MCVD,19
 9,18-29 years,Male (M),C19+Kidney.Disease,2
 9,18-29 years,Male (M),C19+MCVD,19
@@ -1057,7 +1057,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,18-29 years,Male (M),COVID-19,41
 9,30-39 years,Female (F),C19+Chronic.Lower.Resp.Disease,3
 9,30-39 years,Female (F),C19+Diabetes,9
-9,30-39 years,Female (F),C19+Hypertensive.Disease,7
+9,30-39 years,Female (F),C19+Hypertensive.Diseases,7
 9,30-39 years,Female (F),C19+Hypertensive+MCVD,25
 9,30-39 years,Female (F),C19+Kidney.Disease,13
 9,30-39 years,Female (F),C19+MCVD,25
@@ -1065,7 +1065,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,30-39 years,Female (F),COVID-19,74
 9,30-39 years,Male (M),C19+Chronic.Lower.Resp.Disease,2
 9,30-39 years,Male (M),C19+Diabetes,14
-9,30-39 years,Male (M),C19+Hypertensive.Disease,4
+9,30-39 years,Male (M),C19+Hypertensive.Diseases,4
 9,30-39 years,Male (M),C19+Hypertensive+MCVD,40
 9,30-39 years,Male (M),C19+Kidney.Disease,17
 9,30-39 years,Male (M),C19+MCVD,40
@@ -1073,7 +1073,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,30-39 years,Male (M),COVID-19,116
 9,40-49 years,Female (F),C19+Chronic.Lower.Resp.Disease,10
 9,40-49 years,Female (F),C19+Diabetes,48
-9,40-49 years,Female (F),C19+Hypertensive.Disease,17
+9,40-49 years,Female (F),C19+Hypertensive.Diseases,17
 9,40-49 years,Female (F),C19+Hypertensive+MCVD,68
 9,40-49 years,Female (F),C19+Kidney.Disease,20
 9,40-49 years,Female (F),C19+MCVD,68
@@ -1081,7 +1081,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,40-49 years,Female (F),COVID-19,187
 9,40-49 years,Male (M),C19+Chronic.Lower.Resp.Disease,5
 9,40-49 years,Male (M),C19+Diabetes,54
-9,40-49 years,Male (M),C19+Hypertensive.Disease,40
+9,40-49 years,Male (M),C19+Hypertensive.Diseases,40
 9,40-49 years,Male (M),C19+Hypertensive+MCVD,125
 9,40-49 years,Male (M),C19+Kidney.Disease,31
 9,40-49 years,Male (M),C19+MCVD,125
@@ -1089,7 +1089,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,40-49 years,Male (M),COVID-19,324
 9,50-59 years,Female (F),C19+Chronic.Lower.Resp.Disease,29
 9,50-59 years,Female (F),C19+Diabetes,110
-9,50-59 years,Female (F),C19+Hypertensive.Disease,78
+9,50-59 years,Female (F),C19+Hypertensive.Diseases,78
 9,50-59 years,Female (F),C19+Hypertensive+MCVD,187
 9,50-59 years,Female (F),C19+Kidney.Disease,67
 9,50-59 years,Female (F),C19+MCVD,187
@@ -1097,7 +1097,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,50-59 years,Female (F),COVID-19,474
 9,50-59 years,Male (M),C19+Chronic.Lower.Resp.Disease,36
 9,50-59 years,Male (M),C19+Diabetes,171
-9,50-59 years,Male (M),C19+Hypertensive.Disease,137
+9,50-59 years,Male (M),C19+Hypertensive.Diseases,137
 9,50-59 years,Male (M),C19+Hypertensive+MCVD,341
 9,50-59 years,Male (M),C19+Kidney.Disease,100
 9,50-59 years,Male (M),C19+MCVD,341
@@ -1105,7 +1105,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,50-59 years,Male (M),COVID-19,841
 9,60-69 years,Female (F),C19+Chronic.Lower.Resp.Disease,113
 9,60-69 years,Female (F),C19+Diabetes,238
-9,60-69 years,Female (F),C19+Hypertensive.Disease,210
+9,60-69 years,Female (F),C19+Hypertensive.Diseases,210
 9,60-69 years,Female (F),C19+Hypertensive+MCVD,486
 9,60-69 years,Female (F),C19+Kidney.Disease,138
 9,60-69 years,Female (F),C19+MCVD,486
@@ -1113,7 +1113,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,60-69 years,Female (F),COVID-19,1123
 9,60-69 years,Male (M),C19+Chronic.Lower.Resp.Disease,154
 9,60-69 years,Male (M),C19+Diabetes,354
-9,60-69 years,Male (M),C19+Hypertensive.Disease,294
+9,60-69 years,Male (M),C19+Hypertensive.Diseases,294
 9,60-69 years,Male (M),C19+Hypertensive+MCVD,731
 9,60-69 years,Male (M),C19+Kidney.Disease,220
 9,60-69 years,Male (M),C19+MCVD,731
@@ -1121,7 +1121,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,60-69 years,Male (M),COVID-19,1732
 9,70-79 years,Female (F),C19+Chronic.Lower.Resp.Disease,196
 9,70-79 years,Female (F),C19+Diabetes,311
-9,70-79 years,Female (F),C19+Hypertensive.Disease,333
+9,70-79 years,Female (F),C19+Hypertensive.Diseases,333
 9,70-79 years,Female (F),C19+Hypertensive+MCVD,796
 9,70-79 years,Female (F),C19+Kidney.Disease,175
 9,70-79 years,Female (F),C19+MCVD,796
@@ -1129,7 +1129,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,70-79 years,Female (F),COVID-19,1831
 9,70-79 years,Male (M),C19+Chronic.Lower.Resp.Disease,252
 9,70-79 years,Male (M),C19+Diabetes,478
-9,70-79 years,Male (M),C19+Hypertensive.Disease,438
+9,70-79 years,Male (M),C19+Hypertensive.Diseases,438
 9,70-79 years,Male (M),C19+Hypertensive+MCVD,1178
 9,70-79 years,Male (M),C19+Kidney.Disease,317
 9,70-79 years,Male (M),C19+MCVD,1178
@@ -1137,7 +1137,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,70-79 years,Male (M),COVID-19,2534
 9,80+ years,Female (F),C19+Chronic.Lower.Resp.Disease,318
 9,80+ years,Female (F),C19+Diabetes,426
-9,80+ years,Female (F),C19+Hypertensive.Disease,785
+9,80+ years,Female (F),C19+Hypertensive.Diseases,785
 9,80+ years,Female (F),C19+Hypertensive+MCVD,1785
 9,80+ years,Female (F),C19+Kidney.Disease,255
 9,80+ years,Female (F),C19+MCVD,1785
@@ -1145,7 +1145,7 @@ Death.Month,Age.Group,Sex,Condition,Total.Deaths
 9,80+ years,Female (F),COVID-19,3847
 9,80+ years,Male (M),C19+Chronic.Lower.Resp.Disease,340
 9,80+ years,Male (M),C19+Diabetes,394
-9,80+ years,Male (M),C19+Hypertensive.Disease,580
+9,80+ years,Male (M),C19+Hypertensive.Diseases,580
 9,80+ years,Male (M),C19+Hypertensive+MCVD,1590
 9,80+ years,Male (M),C19+Kidney.Disease,331
 9,80+ years,Male (M),C19+MCVD,1590

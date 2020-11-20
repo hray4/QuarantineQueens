@@ -3,8 +3,8 @@ C19+Chronic.Lower.Resp.Disease,Female (F),8259
 C19+Chronic.Lower.Resp.Disease,Male (M),8571
 C19+Diabetes,Female (F),13933
 C19+Diabetes,Male (M),18746
-C19+Hypertensive.Disease,Female (F),19927
-C19+Hypertensive.Disease,Male (M),23026
+C19+Hypertensive.Diseases,Female (F),19927
+C19+Hypertensive.Diseases,Male (M),23026
 C19+Hypertensive+MCVD,Female (F),41668
 C19+Hypertensive+MCVD,Male (M),50210
 C19+Kidney.Disease,Female (F),6748

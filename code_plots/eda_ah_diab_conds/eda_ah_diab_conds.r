@@ -90,19 +90,22 @@ write_csv(cond_age_deaths, 'plot_cond_age_data.csv')
 gg_cond_age <- cond_age_deaths %>%
     ggplot(mapping = aes(x = Condition, y = Total.Deaths, fill = Age.Group)) +
     geom_col(position = 'dodge') +
-    xlab('') + ylab('') +
-    ggtitle('Diabetes and Covid 19 have hit older Americans the hardest',
-            subtitle = 'Thousands of Deaths by Condition and Age Group (Jan - Sep 2020)') +
+    labs(x='', y='',
+         title = 'Covid-19 has hit older Americans the hardest',
+         subtitle = 'Thousands of Deaths by Condition and Age Group (Jan - Sep 2020)',
+         caption = '*MCVD = Major Cardiovascular Diseases') +
     scale_y_continuous(labels = function(y) {paste0(y/1000, 'k')}) +
     scale_fill_brewer(breaks = rev(unique(cond_age_deaths$Age.Group)),
                       palette = 'OrRd') +
     coord_flip() +
-    # theme_minimal() +
-    theme(plot.title = element_text(hjust = 10.25),
+    theme_dark() +
+    theme(plot.title = element_text(hjust = -1.15),
           plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -2.5),
           panel.grid.major.y = element_blank(),
-          legend.position = c(0.8, 0.2),
+          legend.position = c(0.85, 0.2),
           legend.title = element_blank(),
+          legend.spacing.x = unit(0.25, 'cm'),
+          legend.key = element_rect(color = 'white'),
           axis.ticks = element_blank())
           # panel.background = element_rect(fill = 'gray90', color = 'white'))
 
