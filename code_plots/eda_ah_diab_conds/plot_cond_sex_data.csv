@@ -5,13 +5,11 @@ C19+Diabetes,Female (F),13933
 C19+Diabetes,Male (M),18746
 C19+Hypertensive.Diseases,Female (F),19927
 C19+Hypertensive.Diseases,Male (M),23026
-C19+Hypertensive+MCVD,Female (F),41668
-C19+Hypertensive+MCVD,Male (M),50210
 C19+Kidney.Disease,Female (F),6748
 C19+Kidney.Disease,Male (M),10698
-C19+MCVD,Female (F),41668
-C19+MCVD,Male (M),50210
 C19+Obesity,Female (F),3592
 C19+Obesity,Male (M),3978
 COVID-19,Female (F),90968
 COVID-19,Male (M),107495
+C19+Major.Cardiovascular.Diseases,Female (F),41668
+C19+Major.Cardiovascular.Diseases,Male (M),50210

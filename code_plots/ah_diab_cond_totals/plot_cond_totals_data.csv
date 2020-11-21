@@ -2,8 +2,7 @@ Condition,Total.Deaths
 C19+Chronic.Lower.Resp.Disease,16830
 C19+Diabetes,32679
 C19+Hypertensive.Diseases,42953
-C19+Hypertensive+MCVD,91878
 C19+Kidney.Disease,17446
-C19+MCVD,91878
+C19+Major.Cardiovascular.Diseases,91878
 C19+Obesity,7570
 COVID-19,198463

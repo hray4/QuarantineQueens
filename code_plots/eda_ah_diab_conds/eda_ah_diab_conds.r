@@ -27,6 +27,20 @@ diab_path <- file.path(clean_data_path, cond_fn)
 diab_data <- read_csv(diab_path, col_types = 'ffffi')
 
 
+#NEWEWERWNERWER
+# Rename C19+MCVD
+levels(diab_data$Condition) <- c(levels(diab_data$Condition),
+                                       "C19+Major.Cardiovascular.Diseases")
+
+# Remove extraneous condition
+diab_data <- diab_data %>%
+    filter(Condition != "C19+Hypertensive+MCVD") %>%
+    mutate(Condition = replace(Condition, Condition == "C19+MCVD",
+                              "C19+Major.Cardiovascular.Diseases")) %>%
+    droplevels()
+# NWERNWERWNERWN
+
+
 cond_sex_deaths <- diab_data %>%
     group_by(Condition, Sex) %>%
     summarize(Total.Deaths = sum(Total.Deaths)) %>%
@@ -45,17 +59,17 @@ write_csv(cond_sex_deaths, 'plot_cond_sex_data.csv')
 # Make ggplot of Condition vs Deaths by Sex (fill)
 gg_cond_sex <- cond_sex_deaths %>%
     ggplot(mapping = aes(x = Condition, y = Total.Deaths, fill = Sex)) +
-    geom_col(position = 'dodge', width = 0.75) +
+    geom_col(position = 'dodge', width = 0.7) +
     xlab('') + ylab('') +
-    ggtitle('Males have more total deaths than females for all conditions',
+    ggtitle('Males have more Total Deaths than Females for all Conditions',
             subtitle = 'Thousands of Deaths by Condition and Sex (Jan - Sep 2020)') +
     scale_y_continuous(labels = function(y) {paste0(y/1000, 'k')}) +
     scale_fill_discrete(breaks = c("Male (M)", "Female (F)"),
                         labels = c("  Male", "  Female")) +
     coord_flip() +
     theme_minimal() +
-    theme(plot.title = element_text(hjust = 14.25),
-          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -1.5),
+    theme(plot.title = element_text(hjust = 3.5),
+          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -1.6),
           panel.grid.major.y = element_blank(),
           legend.position = c(0.75, 0.2),
           legend.title = element_blank())
@@ -79,8 +93,6 @@ cond_age_deaths$Condition <- reorder(
     cond_age_deaths$Condition,
     cond_age_deaths$Total.Deaths)
 
-# Reorder age group levels (young to old now)
-# cond_age_deaths$Age.Group <- fct_rev(cond_age_deaths$Age.Group)
 
 # Output final plot data
 write_csv(cond_age_deaths, 'plot_cond_age_data.csv')
@@ -91,23 +103,23 @@ gg_cond_age <- cond_age_deaths %>%
     ggplot(mapping = aes(x = Condition, y = Total.Deaths, fill = Age.Group)) +
     geom_col(position = 'dodge') +
     labs(x='', y='',
-         title = 'Covid-19 has hit older Americans the hardest',
-         subtitle = 'Thousands of Deaths by Condition and Age Group (Jan - Sep 2020)',
-         caption = '*MCVD = Major Cardiovascular Diseases') +
+         title = 'Covid-19 has hit Older Americans the Hardest',
+         subtitle = 'Thousands of Deaths by Condition and Age Group (Jan - Sep 2020)') +
+         # caption = '*MCVD = Major Cardiovascular Diseases') +
     scale_y_continuous(labels = function(y) {paste0(y/1000, 'k')}) +
     scale_fill_brewer(breaks = rev(unique(cond_age_deaths$Age.Group)),
                       palette = 'OrRd') +
     coord_flip() +
     theme_dark() +
-    theme(plot.title = element_text(hjust = -1.15),
-          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -2.5),
+    theme(plot.title = element_text(hjust = -1.0),
+          plot.subtitle = element_text(face = 'italic', size = 9.5, hjust = -2.3),
           panel.grid.major.y = element_blank(),
+          legend.background = element_rect(fill = 'gray90'),
           legend.position = c(0.85, 0.2),
           legend.title = element_blank(),
           legend.spacing.x = unit(0.25, 'cm'),
           legend.key = element_rect(color = 'white'),
           axis.ticks = element_blank())
-          # panel.background = element_rect(fill = 'gray90', color = 'white'))
 
 pdf("plots/condition_age.pdf")
 print(gg_cond_age)
