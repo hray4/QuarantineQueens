@@ -41,10 +41,10 @@ simp_states <- covid_state_data %>%
     select("State/Territory",
            "Case Rate per 100000 in Last 7 Days",
            "Death Rate per 100K in Last 7 Days") %>%
-    rename(State = "State/Territory",
+    rename(State.Name = "State/Territory",
            Cases.Per100k.Last7Days = "Case Rate per 100000 in Last 7 Days",
            Deaths.Per100k.Last7Days = "Death Rate per 100K in Last 7 Days") %>%
-    mutate(State = factor(State)) %>%
+    mutate(State.Name = factor(State.Name)) %>%
     droplevels()
 
 # print(summary(simp_states))
@@ -85,7 +85,7 @@ state_abbrv_xwalk_path <- file.path(data_path, state_abbrv_xwalk_fn)
 
 state_abbrv_xwalk <- read_csv(state_abbrv_xwalk_path)
 
-final_data <- merge(merged_covid_state, state_abbrv_xwalk,
+final_data <- merge(simp_states, state_abbrv_xwalk,
                     by = 'State.Name')
 
 final_data <- final_data %>%
@@ -137,9 +137,10 @@ g <- list(
 #     z = ~Cases.Per100k.Last7Days, text = ~hover, locations = ~State.Abbrev,
 #     color = ~Cases.Per100k.Last7Days, colors = 'YlOrRd'
 #   )
-# fig_cases <- fig_cases %>% colorbar(title = "")
+# fig_cases <- fig_cases %>% colorbar(title = "", tickfont = list(size = 18))
 # fig_cases <- fig_cases %>% layout(
-#     title = 'US COVID-19 Cases Per 100,000 Persons - Last 7 Days',
+#     title = list(text = 'US COVID-19 Cases Per 100,000 Persons (Nov. 21-27)',
+#                  font = list(color = '#000000', size = 24)),
 #     geo = g,
 #     margin = m
 #   )
@@ -157,19 +158,21 @@ write_csv(top10_cases, 'cases_top10.csv')
 
 
 # Deaths plot
-# fig_deaths <- plot_geo(final_data, locationmode = 'USA-states', offline=TRUE)
-# fig_deaths <- fig_deaths %>% add_trace(
-#     z = ~Deaths.Per100k.Last7Days, text = ~hoverD, locations = ~State.Abbrev,
-#     color = ~Deaths.Per100k.Last7Days, colors = 'YlOrRd'
-#   )
-# fig_deaths <- fig_deaths %>% colorbar(title = "")
-# fig_deaths <- fig_deaths %>% layout(
-#     title = 'US COVID-19 Deaths Per 100,000 Persons - Last 7 Days',
-#     geo = g,
-#     margin = m
-#   )
+fig_deaths <- plot_geo(final_data, locationmode = 'USA-states', offline=TRUE)
+fig_deaths <- fig_deaths %>% add_trace(
+    z = ~Deaths.Per100k.Last7Days, text = ~hoverD, locations = ~State.Abbrev,
+    color = ~Deaths.Per100k.Last7Days, colors = 'YlOrRd'
+  )
+fig_deaths <- fig_deaths %>% colorbar(title = "", tickfont = list(size = 18))
+fig_deaths <- fig_deaths %>% layout(
+    title = list(text = 'US COVID-19 Deaths Per 100,000 Persons (Nov. 21-27)',
+                 font = list(color = '#000000', size = 24)),
+    geo = g,
+    margin = m
+  )
 
-# orca(fig_deaths, file='plots/usa_deaths_map.png')
+orca(fig_deaths, file='plots/usa_deaths_map.png')
+
 
 ## Output top 15 states
 deaths_ord <- final_data %>%
