@@ -51,34 +51,6 @@ simp_states <- covid_state_data %>%
 
 
 # ------------------------------------------------------------------------------
-# Load State census population data
-# state_census_fn <- 'state_census_pops/nst-est2019-alldata.csv'
-# state_census_path <- file.path(data_path, state_census_fn)
-
-# state_census <- read_csv(state_census_path)
-
-# state_census_pop <- state_census %>%
-#     rename(State = NAME,
-#            Population = POPESTIMATE2019) %>%
-#     mutate(State = factor(State)) %>%
-#     filter(SUMLEV == '40')  %>%
-#     select(State, Population)
-
-# # print(summary(state_census_pop))
-
-
-# # ------------------------------------------------------------------------------
-# # Merge Covid state and state census data sets
-# merged_covid_state <- merge(simp_states, state_census_pop,
-#                             by = 'State')
-
-# merged_covid_state <- merged_covid_state %>%
-#     rename(State.Name = State)
-
-# print(summary(merged_covid_state))
-
-
-# ------------------------------------------------------------------------------
 # Load state to state abbreviation crosswalk file
 state_abbrv_xwalk_fn <- 'crosswalks/state_abbrv_name_xwalk.csv'
 state_abbrv_xwalk_path <- file.path(data_path, state_abbrv_xwalk_fn)
@@ -145,7 +117,7 @@ g <- list(
 #     margin = m
 #   )
 
-# orca(fig_cases, file='plots/usa_cases_map.png')
+# orca(p = fig_cases, file='plots/usa_cases_map.png')
 
 ## Output top 15 states
 cases_ord <- final_data %>%
@@ -161,8 +133,8 @@ write_csv(top10_cases, 'cases_top10.csv')
 fig_deaths <- plot_geo(final_data, locationmode = 'USA-states', offline=TRUE)
 fig_deaths <- fig_deaths %>% add_trace(
     z = ~Deaths.Per100k.Last7Days, text = ~hoverD, locations = ~State.Abbrev,
-    color = ~Deaths.Per100k.Last7Days, colors = 'YlOrRd'
-  )
+    color = ~Deaths.Per100k.Last7Days, colors = 'YlOrRd')
+
 fig_deaths <- fig_deaths %>% colorbar(title = "", tickfont = list(size = 18))
 fig_deaths <- fig_deaths %>% layout(
     title = list(text = 'US COVID-19 Deaths Per 100,000 Persons (Nov. 21-27)',
@@ -171,7 +143,7 @@ fig_deaths <- fig_deaths %>% layout(
     margin = m
   )
 
-orca(fig_deaths, file='plots/usa_deaths_map.png')
+orca(p = fig_deaths, file='plots/usa_deaths_map.png')
 
 
 ## Output top 15 states
