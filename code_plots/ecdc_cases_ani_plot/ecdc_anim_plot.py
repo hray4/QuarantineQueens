@@ -53,7 +53,7 @@ def update(num, x, y, line):
     return line,
 
 
-def plot_path(vars_dict: Dict[str, object], plt_title: str,
+def plot_path(vars_dict: Dict[str, object], plt_title: str, linecolor: str,
               gif_fn: str, jpg_fn: str) -> None:
     """ Plot path taken by person until intersection happens """
 
@@ -62,12 +62,18 @@ def plot_path(vars_dict: Dict[str, object], plt_title: str,
 
     with plt.style.context('ggplot'):
         fig, ax = plt.subplots(figsize=(10, 10))
-        line, = ax.plot(xs, ys, color='r', alpha=.5)
+        line, = ax.plot(xs, ys, color=linecolor, alpha=.5, linewidth=5)
 
         ax.xaxis.set_major_formatter(DateFormatter("%b"))
         ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda y, loc: f"{int(y):,}"))
 
-        plt.title(plt_title)
+        # parameters = {'axes.titlesize': 20,
+                      # 'xtick.labelsize': 18,
+                      # 'ytick.labelsize': 18}
+        # plt.rcParams.update(parameters)
+        ax.tick_params(axis='both', which='major', labelsize=18)
+
+        plt.title(plt_title, fontsize = 20)
 
         plt.tick_params(
             axis='both',
@@ -112,6 +118,7 @@ if __name__ == '__main__':
 
     plot_path(vars_dict=get_plot_vars(df=cases, yVar='cases'),
               plt_title='US COVID-19 Weekly Cases Per 100,000 Persons, Mar-Nov 2020',
+              linecolor='red',
               gif_fn='plots/cases_animation.gif',
               jpg_fn='plots/cases_animation.jpg')
 
@@ -120,6 +127,7 @@ if __name__ == '__main__':
 
     plot_path(vars_dict=get_plot_vars(df=deaths, yVar='deaths'),
               plt_title='US COVID-19 Weekly Deaths Per 100,000 Persons, Mar-Nov 2020',
+              linecolor='black',
               gif_fn='plots/deaths_animation.gif',
               jpg_fn='plots/deaths_animation.jpg')
 

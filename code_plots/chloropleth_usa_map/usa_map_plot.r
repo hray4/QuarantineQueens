@@ -52,28 +52,28 @@ simp_states <- covid_state_data %>%
 
 # ------------------------------------------------------------------------------
 # Load State census population data
-state_census_fn <- 'state_census_pops/nst-est2019-alldata.csv'
-state_census_path <- file.path(data_path, state_census_fn)
+# state_census_fn <- 'state_census_pops/nst-est2019-alldata.csv'
+# state_census_path <- file.path(data_path, state_census_fn)
 
-state_census <- read_csv(state_census_path)
+# state_census <- read_csv(state_census_path)
 
-state_census_pop <- state_census %>%
-    rename(State = NAME,
-           Population = POPESTIMATE2019) %>%
-    mutate(State = factor(State)) %>%
-    filter(SUMLEV == '40')  %>%
-    select(State, Population)
+# state_census_pop <- state_census %>%
+#     rename(State = NAME,
+#            Population = POPESTIMATE2019) %>%
+#     mutate(State = factor(State)) %>%
+#     filter(SUMLEV == '40')  %>%
+#     select(State, Population)
 
-# print(summary(state_census_pop))
+# # print(summary(state_census_pop))
 
 
-# ------------------------------------------------------------------------------
-# Merge Covid state and state census data sets
-merged_covid_state <- merge(simp_states, state_census_pop,
-                            by = 'State')
+# # ------------------------------------------------------------------------------
+# # Merge Covid state and state census data sets
+# merged_covid_state <- merge(simp_states, state_census_pop,
+#                             by = 'State')
 
-merged_covid_state <- merged_covid_state %>%
-    rename(State.Name = State)
+# merged_covid_state <- merged_covid_state %>%
+#     rename(State.Name = State)
 
 # print(summary(merged_covid_state))
 
@@ -93,6 +93,7 @@ final_data <- final_data %>%
     # remove Wash DC and Puerto Rico from map data
     filter(State.Abbrev %notin% c('DC', 'PR')) %>%
     droplevels()
+
 
 final_data$hover <- with(
     final_data, paste(

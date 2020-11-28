@@ -1,0 +1,24 @@
+Underlying_Condition,COVID_Deaths_Rep_Sum,COVID_Deaths_Rep_Perc
+Adult respiratory distress syndrome,27643,0.1250
+All other conditions and causes (residual),114589,0.5180
+Alzheimer disease,8015,0.0362
+Cardiac arrest,26134,0.1181
+Cardiac arrhythmia,13966,0.0631
+Cerebrovascular diseases,10630,0.0481
+Chronic lower respiratory diseases,19030,0.0860
+Diabetes,35888,0.1622
+Heart failure,14713,0.0665
+Hypertensive diseases,47170,0.2132
+Influenza and pneumonia,95847,0.4333
+"Intentional and unintentional injury, poisoning, and other adverse events",7371,0.0333
+Ischemic heart disease,24964,0.1129
+Malignant neoplasms,9973,0.0451
+Obesity,7645,0.0346
+Other diseases of the circulatory system,12321,0.0557
+Other diseases of the respiratory system,7913,0.0358
+Renal failure,19664,0.0889
+Respiratory arrest,3951,0.0179
+Respiratory failure,77496,0.3503
+Sepsis,20588,0.0931
+Vascular and unspecified dementia,24586,0.1111
+COVID-19,221197,1.0000
