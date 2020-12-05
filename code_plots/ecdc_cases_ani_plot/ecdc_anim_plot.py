@@ -47,8 +47,8 @@ def get_plot_vars(df: pd.DataFrame, yVar: str) -> Dict[str, List[object]]:
 def update(num, x, y, line):
     line.set_data(x[:num+1], y[:num+1])
 
-    if num == len(x)-1:
-        time.sleep(2)
+    # if num == len(x)-1:
+    #     time.sleep(3)
 
     return line,
 
@@ -57,8 +57,14 @@ def plot_path(vars_dict: Dict[str, object], plt_title: str, linecolor: str,
               gif_fn: str, jpg_fn: str) -> None:
     """ Plot path taken by person until intersection happens """
 
-    xs = vars_dict['xs']
-    ys = vars_dict['ys']
+    xs = list(vars_dict['xs'])
+    ys = list(vars_dict['ys'])
+
+
+    # To simulate a pause at end of gif, we will duplicate the last point several times
+    xs = xs + [xs[-1]] * 9
+    ys = ys + [ys[-1]] * 9
+
 
     with plt.style.context('ggplot'):
         fig, ax = plt.subplots(figsize=(10, 10))
@@ -119,8 +125,8 @@ if __name__ == '__main__':
     plot_path(vars_dict=get_plot_vars(df=cases, yVar='cases'),
               plt_title='US COVID-19 Weekly Cases Per 100,000 Persons, Mar-Nov 2020',
               linecolor='red',
-              gif_fn='plots/cases_animation.gif',
-              jpg_fn='plots/cases_animation.jpg')
+              gif_fn='plots/cases_animation_long.gif',
+              jpg_fn='plots/cases_animation_long.jpg')
 
     ## Daily Deaths
     deaths = per_100k_fmted[['dateRep', 'deaths']].copy()
@@ -128,7 +134,7 @@ if __name__ == '__main__':
     plot_path(vars_dict=get_plot_vars(df=deaths, yVar='deaths'),
               plt_title='US COVID-19 Weekly Deaths Per 100,000 Persons, Mar-Nov 2020',
               linecolor='black',
-              gif_fn='plots/deaths_animation.gif',
-              jpg_fn='plots/deaths_animation.jpg')
+              gif_fn='plots/deaths_animation_long.gif',
+              jpg_fn='plots/deaths_animation_long.jpg')
 
 
