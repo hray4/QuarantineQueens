@@ -1,0 +1,15 @@
+#Negative Binomial Regression
+strong <- read.csv("C:/VMfolder/UC_state_age_ranges_strong.csv", header = TRUE)
+names(strong)=c('start', 'end', 'state', 'cond.group', 'condition', 'code', 'age', 'deaths')
+names(strong)
+
+#Negative Binomial with just condition on strong dataset
+nbstrong <- glm.nb(deaths ~ condition, data=strong)
+summary(nbstrong)
+
+#Negative Binomial with condition and age on strong dataset
+nbstrong1 <- glm.nb(deaths ~ condition + age, data=strong)
+summary(nbstrong1)
+
+plot(nbstrong1)
+
